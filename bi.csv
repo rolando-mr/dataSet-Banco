@@ -15,7 +15,7 @@ Odd,Knudsen,38,male,Norway,Private,91,DIPLOMA,156,85,99
 Grethe,Myklebust,40,Female,Norway,Private,77,Diplomaaa,144,70,76
 Marco,Rossi,42,Male,Italy,Private,80,Bachelors,152,75,77
 Ingrid,Eide,43,Female,Norway,Private,81,Bachelors,156,80,82
-Hanna,Andresen,45,Female,Norway,Private,85,Bachelors,156,87,82
+Hanna,Andresen,5,Female,Norway,Private,85,Bachelors,156,87,82
 Jorunn,Eliassen,47,Female,Norway,Private,86,Bachelors,156,80,78
 Sebastian,Kristiansen,48,Male,Norway,Private,75,Bachelors,148,76,73
 Camilla,Mikkelsen,50,Female,Norway,Private,95,Masters,160,84,90
@@ -65,7 +65,7 @@ Caroline,Narocho,23,Female,Norway,BI Residence,90,High School,160,87,73
 Silvia,Berg,25,Female,Norway,BI Residence,81,High School,158,85,46
 Valentino,Ojiambo,27,Male,Kenya,Sognsvann,85,Bachelors,156,84,68
 Peter,Kubebea,29,Male,Kenya,Sognsvann,83,Bachelors,156,81,67
-Anna,M�ller,31,Female,Germany,Sognsvann,89,Masters,160,87,61
+Anna,M�ller,,Female,Germany,Sognsvann,89,Masters,160,87,61
 Lucas,Schmidt,33,Male,Germany,Sognsvann,98,Masters,160,87,86
 Marie,Dubois,35,Female,France,Sognsvann,69,Bachelors,144,69,110
 Thomas,Garc�a,37,Male,Spain,Private,80,Bachelors,152,78,62
@@ -73,6 +73,6 @@ Emma,Janssen,39,Fem,Netherlands,Private,81,Masters,160,80,71
 Maximilan,Martini,50,Male,Italy,Private,74,Masters,140,63,60
 Clara,Bernard,43,Female,France,Private,80,Bachelors,150,75,43
 Julian,Nielsen,31,Male,Denmark,Sognsvann,90,Masters,158,84,83
-Sophie,Brown,33,Female,UK,Sognsvann,96,Masters,158,85,90
+Sophie,Brown,,Female,UK,Sognsvann,96,Masters,158,85,90
 Leon,Bauer,35,Male,Germany,Sognsvann,110,Masters,160,87,74
 Mohammed,Salim,31,Male,Somali,Sognsvann,35,Masters,144,72,90
