@@ -1,0 +1,301 @@
+Employee_ID,Department,Gender,Age,Education_Level,Job_Role,Monthly_Income,Years_At_Company,Job_Satisfaction,Performance_Rating,Overtime,Attrition,Marital_Status
+1292,HR,Female,46,Master's Degree,Analyst,2689,28,5,5,Yes,No,Married
+1756,Finance,Non-binary,21,Master's Degree,Intern,1313,0,2,1,Yes,Yes,Single
+3097,HR,Prefer not to say,47,Master's Degree,Manager,7516,27,1,2,Yes,No,Single
+1433,Sales,Male,41,High School,Analyst,4485,6,1,5,No,No,Widowed
+1480,Marketing,Female,59,High School,Manager,11606,29,1,1,Yes,Yes,Widowed
+2874,HRXX,FemaleXX,,Bachelor's DegreeXX,Team Lead,,,5,2,Yes,No,Widowed
+1502,HR,Male,47,High School,Manager,7396,11,4,1,No,Yes,Divorced
+3172,HR,Prefer not to say,23,Bachelor's Degree,Intern,1466,0,1,5,Yes,Yes,Single
+3782,HR,Female,46,Bachelor's Degree,Analyst,3496,34,1,5,No,No,Married
+4094,MarketingXX,MaleXX,,PhDXX,Analyst,,,3,5,Yes,Yes,Single
+2526,Finance,Non-binary,59,High School,Team Lead,8185,37,3,2,No,Yes,Married
+1552,it,Female,19,Bachelor's Degree,Intern,1361,0,2,1,No,Yes,Single
+2612,HR,Prefer not to say,42,Bachelor's Degree,Analyst,4854,37,3,3,Yes,Yes,Single
+2443,it,Non-binary,46,Bachelor's Degree,Executive,4981,32,3,3,Yes,No,Divorced
+1840,Finance,Male,59,Associate's Degree,Team Lead,9409,24,4,5,Yes,Yes,Single
+1946,Finance,Female,39,Associate's Degree,Executive,2509,17,3,3,No,No,Widowed
+2136,IT,Male,44,Associate's Degree,Team Lead,6365,11,5,3,Yes,Yes,Single
+3373,HR,Prefer not to say,20,Bachelor's Degree,Intern,1193,0,4,3,No,No,Single
+2814,Finance,Male,52,Bachelor's Degree,Manager,10516,39,5,2,No,No,Widowed
+1171,HR,Female,46,High School,Analyst,3050,35,1,4,Yes,No,Married
+3784,HR,Male,59,Associate's Degree,Manager,10713,15,3,3,Yes,No,Widowed
+1230,Sales,Non-binary,21,High School,Intern,1104,0,1,5,Yes,Yes,Single
+2776,Sales,M,25,PhD,Analyst,3208,0,5,1,No,No,Married
+1799,Finance,Male,23,Associate's Degree,Executive,4374,34,5,2,Yes,Yes,Married
+3892,Sales,Prefer not to say,59,High School,Manager,10836,37,5,4,Yes,Yes,Widowed
+4240,Sales,Non-binary,58,PhD,Manager,10851,15,5,4,Yes,Yes,Widowed
+1299,Sales,Female,40,Associate's Degree,Executive,2028,28,2,4,No,No,Single
+2750,Marketing,Male,25,PhD,Executive,4192,19,5,1,Yes,No,Divorced
+1145,Sales,Female,24,High School,Intern,1193,0,4,3,No,No,Single
+2613,HR,Non-binary,27,Associate's Degree,Analyst,3040,3,5,1,No,No,Divorced
+1033,Sales,Female,49,Master's Degree,Executive,2889,10,5,3,Yes,Yes,Divorced
+3280,HR,Male,38,Associate's Degree,Team Lead,9690,17,4,1,Yes,No,Married
+3952,Finance,Male,38,High School,Analyst,3665,13,3,4,Yes,No,Divorced
+1052,Sales,Prefer not to say,59,PhD,Executive,3259,2,1,5,Yes,Yes,Divorced
+3196,Sales,Male,59,Bachelor's Degree,Executive,2690,27,1,3,Yes,No,Divorced
+3820,HR,Male,59,PhD,Manager,11193,14,4,3,Yes,Yes,Divorced
+2744,HR,Male,36,Master's Degree,Team Lead,8805,18,5,2,No,Yes,Single
+1986,Finance,Prefer not to say,50,High School,Analyst,4032,32,2,4,No,Yes,Divorced
+2953,Marketing,Prefer not to say,59,Bachelor's Degree,Executive,4961,28,3,3,No,No,Single
+3647,HR,Female,50,Bachelor's Degree,Team Lead,5637,32,1,3,No,Yes,Married
+1394,HR,M,50,Associate's Degree,Executive,3276,10,5,3,No,No,Widowed
+1184,IT,Male,54,High School,Analyst,2616,16,4,3,No,No,Married
+4236,IT,Prefer not to say,,High School,Team Lead,,,3,5,No,Yes,Widowed
+4191,Marketing,Prefer not to say,24,Associate's Degree,Intern,1037,0,3,1,Yes,No,Single
+2897,Marketing,Prefer not to say,51,Bachelor's Degree,Manager,9362,13,2,5,Yes,Yes,Divorced
+1865,FinanceXX,M,,Master's DegreeXX,Intern,,,5,4,No,Yes,Single
+1071,HR,Non-binary,59,PhD,Team Lead,8414,17,3,3,Yes,No,Single
+1258,Marketing,Female,46,High School,Analyst,2474,1,3,1,No,No,Married
+1240,Marketing,Non-binary,23,Associate's Degree,Intern,1344,0,2,4,No,Yes,Single
+2150,Sales,Male,48,Master's Degree,Analyst,4154,20,1,1,No,Yes,Widowed
+3772,Finance,Male,58,PhD,Manager,9760,39,3,5,No,Yes,Single
+3024,Marketing,Non-binary,43,Master's Degree,Analyst,3311,28,1,3,Yes,Yes,Widowed
+2105,Finance,Non-binary,59,Master's Degree,Manager,9346,17,3,1,Yes,No,Single
+4070,Marketing,Female,59,High School,Executive,3024,27,2,5,Yes,Yes,Divorced
+1777,IT,Female,35,High School,Manager,9682,29,5,5,No,Yes,Single
+3516,HR,Non-binary,35,Associate's Degree,Manager,10930,20,4,2,Yes,No,Single
+1811,Sales,Female,51,Associate's Degree,Team Lead,9434,0,5,5,Yes,Yes,Married
+2090,HRXX,Prefer not to sayXX,,High SchoolXX,Intern,,,5,3,Yes,Yes,Single
+1611,HR,Female,47,Associate's Degree,Analyst,2214,25,5,5,No,No,Married
+4349,Sales,Male,20,Associate's Degree,Intern,1137,0,3,1,Yes,Yes,Single
+1681,Marketing,Male,25,Master's Degree,Team Lead,7183,11,2,3,Yes,No,Married
+1300,HR,Non-binary,59,Bachelor's Degree,Team Lead,6747,20,1,4,Yes,Yes,Divorced
+1603,Marketing,Male,23,PhD,Executive,4326,26,4,3,Yes,No,Widowed
+2666,Marketing,Prefer not to say,44,Associate's Degree,Executive,2783,18,2,1,No,Yes,Married
+2133,Marketing,Male,30,Bachelor's Degree,Analyst,2170,0,4,4,Yes,No,Single
+2007,IT,Male,21,PhD,Intern,1094,0,2,5,No,Yes,Single
+1713,IT,Prefer not to say,49,Master's Degree,Team Lead,9330,35,5,5,No,Yes,Single
+1185,IT,Prefer not to say,55,PhD,Analyst,3940,31,4,1,No,Yes,Single
+2236,Marketing,Non-binary,59,High School,Team Lead,10000,32,2,2,No,Yes,Single
+1053,Sales,Male,51,PhD,Team Lead,8372,4,2,4,No,No,Married
+4194,IT,Female,56,Master's Degree,Manager,7521,29,4,2,Yes,No,Married
+3724,Finance,Prefer not to say,50,Associate's Degree,Executive,3466,24,5,1,Yes,No,Widowed
+2957,Sales,Male,32,Associate's Degree,Team Lead,6889,16,3,1,Yes,No,Married
+2412,Finance,Non-binary,50,Associate's Degree,Analyst,4914,0,1,4,No,Yes,Widowed
+2974,HR,Female,58,Bachelor's Degree,Analyst,3844,26,5,3,Yes,Yes,Divorced
+2615,HR,F,31,Master's Degree,Manager,8996,18,3,3,No,No,Divorced
+2927,Marketing,Male,34,PhD,Executive,4316,0,3,1,No,No,Single
+1296,Marketing,Prefer not to say,39,High School,Executive,2343,24,1,2,No,Yes,Single
+2371,Sales,Non-binary,,Bachelor's Degree,Analyst,,,2,1,Yes,No,Widowed
+1786,HR,Non-binary,59,PhD,Analyst,2006,30,1,2,No,Yes,Widowed
+3596,Marketing,Male,20,Bachelor's Degree,Intern,1070,0,2,4,Yes,No,Single
+3378,HR,Male,32,Bachelor's Degree,Team Lead,8928,33,2,5,Yes,Yes,Widowed
+3630,HR,Prefer not to say,18,PhD,Intern,1365,0,5,3,No,No,Single
+1018,Marketing,Prefer not to say,38,Associate's Degree,Analyst,4156,22,4,4,No,Yes,Divorced
+2072,Finance,Male,54,Bachelor's Degree,Manager,7681,9,5,2,Yes,No,Widowed
+2878,Sales,Female,19,Bachelor's Degree,Intern,1017,0,5,4,No,Yes,Single
+2583,Sales,Prefer not to say,23,Bachelor's Degree,Executive,2208,23,5,3,No,No,Single
+1316,IT,Non-binary,38,Master's Degree,Team Lead,8804,10,4,4,Yes,No,Divorced
+3068,Sales,Female,18,Associate's Degree,Intern,1061,0,3,5,No,Yes,Single
+3120,Sales,Male,33,High School,Executive,3201,16,4,1,No,Yes,Widowed
+2118,Marketing,Male,22,High School,Manager,11952,4,4,3,No,No,Widowed
+1579,IT,Non-binary,27,High School,Manager,11016,26,2,1,Yes,No,Married
+3356,HR,Male,59,Master's Degree,Team Lead,6726,32,1,2,No,No,Married
+3701,HR,Female,19,Bachelor's Degree,Intern,1121,0,2,3,No,No,Single
+3464,Sales,Female,21,High School,Intern,1463,0,4,2,No,Yes,Single
+1795,Sales,Prefer not to say,41,Master's Degree,Analyst,3158,14,5,4,No,No,Married
+3303,HR,Male,35,Master's Degree,Executive,4362,35,4,4,No,Yes,Widowed
+3662,it,Prefer not to say,38,PhD,Team Lead,9932,26,4,4,Yes,No,Widowed
+1819,Marketing,Female,59,High School,Manager,11650,4,4,2,Yes,No,Widowed
+3806,HR,Non-binary,59,Associate's Degree,Manager,9894,35,4,4,Yes,Yes,Single
+1027,Finance,Male,59,High School,Analyst,2040,3,1,1,Yes,No,Divorced
+2780,Sales,Non-binary,49,Bachelor's Degree,Team Lead,5527,2,4,3,Yes,No,Married
+2407,Marketing,Prefer not to say,43,High School,Manager,8787,34,4,1,Yes,No,Single
+1239,Marketing,Female,57,High School,Analyst,4751,9,4,3,No,Yes,Widowed
+1322,IT,Prefer not to say,,High School,Manager,,,5,2,No,Yes,Widowed
+1415,HR,Prefer not to say,56,High School,Team Lead,7756,31,2,2,No,No,Married
+2654,Sales,Male,30,PhD,Analyst,4770,34,3,1,No,No,Widowed
+4225,Finance,Non-binary,57,Associate's Degree,Executive,3826,33,3,5,Yes,No,Divorced
+1487,HR,Female,55,High School,Executive,4043,24,5,4,No,No,Married
+4157,SalesXX,MaleXX,,Bachelor's DegreeXX,Manager,,,5,1,No,Yes,Single
+1323,IT,Male,21,Master's Degree,Intern,1424,0,1,3,Yes,No,Single
+3695,IT,Male,56,Bachelor's Degree,Team Lead,6097,21,5,4,No,No,Widowed
+4329,Marketing,Non-binary,40,Master's Degree,Manager,8962,13,1,3,No,Yes,Married
+1031,Finance,Prefer not to say,,High School,Intern,,,4,5,No,No,Single
+4355,HR,Non-binary,37,High School,Manager,10948,8,5,2,Yes,Yes,Single
+2743,Finance,Non-binary,37,Associate's Degree,Executive,2427,11,2,3,No,No,Widowed
+1204,HR,Non-binary,30,High School,Manager,12000,31,4,4,No,Yes,Single
+3561,Marketing,Non-binary,48,Associate's Degree,Manager,8884,32,3,4,No,No,Single
+3712,HR,Male,29,PhD,Analyst,2614,32,2,4,No,Yes,Divorced
+1140,Marketing,Prefer not to say,44,Bachelor's Degree,Executive,2514,38,4,2,Yes,Yes,Single
+1135,Finance,Non-binary,52,Associate's Degree,Manager,8307,3,5,5,Yes,Yes,Widowed
+2182,Sales,Non-binary,41,High School,Executive,4896,22,3,4,Yes,Yes,Widowed
+3583,Marketing,Non-binary,32,Master's Degree,Analyst,3897,36,3,4,No,Yes,Single
+2296,IT,Prefer not to say,30,PhD,Executive,4685,15,4,3,Yes,No,Married
+1719,IT,Prefer not to say,47,High School,Executive,2678,29,5,4,Yes,Yes,Married
+3939,HR,F,25,Associate's Degree,Team Lead,6020,34,1,3,Yes,No,Divorced
+3173,IT,Prefer not to say,46,PhD,Manager,7964,36,1,2,Yes,No,Married
+2103,HR,Prefer not to say,56,Master's Degree,Executive,2949,36,3,1,Yes,Yes,Married
+2422,HR,Female,27,Bachelor's Degree,Manager,9236,13,3,3,No,No,Widowed
+2158,HR,Male,43,Bachelor's Degree,Executive,4736,12,2,5,Yes,Yes,Widowed
+3324,Sales,Female,56,Bachelor's Degree,Analyst,2497,13,5,2,No,Yes,Married
+4084,HR,Male,33,Bachelor's Degree,Executive,2482,18,2,1,No,Yes,Widowed
+3530,IT,Male,54,High School,Manager,10720,0,5,1,Yes,Yes,Single
+3953,Sales,Non-binary,42,High School,Executive,2764,4,1,2,No,Yes,Widowed
+1458,Finance,Non-binary,25,High School,Analyst,4799,11,3,3,No,Yes,Married
+3897,HR,Non-binary,59,Associate's Degree,Manager,9428,20,5,3,No,No,Widowed
+2685,Sales,Prefer not to say,24,High School,Intern,1180,0,1,1,Yes,Yes,Single
+1832,Finance,Non-binary,50,High School,Analyst,2002,15,5,3,Yes,Yes,Married
+2109,Finance,Male,59,High School,Executive,2786,12,1,3,No,Yes,Widowed
+3541,IT,Male,33,High School,Executive,3660,12,5,5,1,No,Divorced
+1193,Sales,Non-binary,27,High School,Team Lead,9555,7,5,4,0,Yes,Single
+2290,Marketing,Male,26,Bachelor's Degree,Manager,8882,19,1,4,No,Yes,Married
+2624,HR,Prefer not to say,36,Bachelor's Degree,Manager,8296,35,3,1,No,No,Single
+3672,Finance,Non-binary,36,High School,Manager,7911,26,3,2,Yes,No,Divorced
+3757,Marketing,Prefer not to say,23,High School,Intern,1054,0,2,5,0,Yes,Single
+1558,Marketing,Non-binary,57,PhD,Team Lead,5344,0,3,5,No,No,Widowed
+1568,Marketing,Non-binary,35,Master's Degree,Analyst,3798,4,5,1,Yes,No,Widowed
+2838,Sales,Male,21,Bachelor's Degree,Intern,1343,0,4,1,Yes,Yes,Single
+2719,IT,Prefer not to say,,PhD,Team Lead,,,3,5,No,No,Divorced
+4213,Marketing,Prefer not to say,27,High School,Team Lead,9122,15,1,5,0,No,Divorced
+1440,HR,Female,59,High School,Team Lead,6710,3,1,1,No,No,Widowed
+2104,Finance,Prefer not to say,55,High School,Analyst,3146,6,2,3,No,Yes,Divorced
+2002,SalesXX,Non-binaryXX,,Associate's DegreeXX,Analyst,,,4,4,Yes,No,Divorced
+4083,Sales,Non-binary,21,PhD,Intern,1395,0,3,1,No,Yes,Single
+1315,IT,Non-binary,46,PhD,Executive,3715,15,1,1,No,Yes,Widowed
+3542,Finance,Female,27,High School,Analyst,2229,38,3,4,No,Yes,Divorced
+3680,Marketing,Female,29,PhD,Executive,2402,17,5,2,Yes,Yes,Widowed
+3185,Sales,Prefer not to say,,Bachelor's Degree,Intern,,,4,4,Yes,No,Single
+2279,IT,Female,26,PhD,Manager,11496,29,5,2,Yes,Yes,Single
+3372,Marketing,Non-binary,32,PhD,Analyst,3737,15,2,5,Yes,No,Married
+1803,Sales,Male,40,High School,Manager,8301,37,4,5,Yes,No,Divorced
+3828,IT,Prefer not to say,22,Associate's Degree,Intern,1436,0,1,2,No,Yes,Single
+1760,IT,Female,47,Bachelor's Degree,Analyst,4108,32,1,4,Yes,No,Divorced
+1451,Finance,Female,54,High School,Analyst,3617,7,2,2,Yes,Yes,Single
+1906,IT,Non-binary,59,Bachelor's Degree,Team Lead,6584,8,1,4,Yes,Yes,Married
+3094,Marketing,Female,,PhD,Analyst,,,5,4,No,No,Divorced
+2438,HR,Prefer not to say,25,Master's Degree,Manager,9230,1,5,4,Yes,No,Widowed
+2469,HR,Prefer not to say,26,Master's Degree,Manager,10942,26,3,3,Yes,No,Single
+2378,IT,Prefer not to say,33,High School,Analyst,4754,21,1,5,No,Yes,Divorced
+4020,HR,Prefer not to say,59,Associate's Degree,Manager,11503,34,2,2,Yes,No,Single
+3980,Marketing,Female,24,Master's Degree,Executive,2680,3,2,2,No,No,Single
+1898,hr,Female,59,Master's Degree,Team Lead,9523,16,5,3,No,Yes,Divorced
+1081,Marketing,Male,54,High School,Analyst,4450,35,5,1,1,No,Divorced
+4024,Sales,Prefer not to say,18,PhD,Intern,1460,0,4,3,Yes,Yes,Single
+2789,Marketing,Female,22,PhD,Executive,3591,1,1,1,Yes,No,Single
+1094,FinanceXX,FemaleXX,,High SchoolXX,Executive,,,2,3,Yes,Yes,Married
+3348,HR,Prefer not to say,50,Master's Degree,Manager,8163,7,1,1,0,Yes,Widowed
+3928,Marketing,Non-binary,38,Associate's Degree,Team Lead,6073,28,1,5,No,Yes,Married
+2658,Finance,Female,31,High School,Team Lead,9352,38,2,4,Yes,Yes,Widowed
+2508,IT,Non-binary,27,PhD,Executive,4717,22,4,2,No,Yes,Divorced
+3379,Marketing,Female,59,PhD,Executive,2653,33,1,2,Yes,Yes,Single
+2926,Marketing,Non-binary,24,Bachelor's Degree,Team Lead,6891,20,1,4,No,No,Divorced
+2045,FinanceXX,Non-binaryXX,,Master's DegreeXX,Intern,,,5,4,Yes,No,Single
+3290,Finance,Male,49,Bachelor's Degree,Team Lead,9016,37,3,1,No,Yes,Divorced
+4018,Sales,Male,27,Master's Degree,Executive,4960,5,1,1,No,Yes,Married
+3993,HR,Prefer not to say,18,Bachelor's Degree,Intern,1477,0,3,3,Yes,Yes,Single
+4290,IT,Female,27,PhD,Analyst,2133,10,5,2,Yes,Yes,Married
+1359,HR,Male,56,Master's Degree,Analyst,2627,20,5,1,No,No,Divorced
+1882,Marketing,Female,23,High School,Intern,1279,0,4,2,Yes,Yes,Single
+1195,Sales,Female,59,PhD,Team Lead,6661,7,5,3,No,Yes,Widowed
+2271,HR,Prefer not to say,41,Bachelor's Degree,Analyst,3469,24,4,4,Yes,Yes,Divorced
+2939,Sales,Prefer not to say,55,Master's Degree,Manager,7769,10,3,4,Yes,Yes,Widowed
+3217,IT,Non-binary,47,Associate's Degree,Manager,9808,29,4,1,No,Yes,Widowed
+3904,Marketing,Male,49,High School,Executive,3855,26,2,3,No,Yes,Single
+1730,HR,Male,54,Bachelor's Degree,Analyst,4918,33,5,4,Yes,No,Divorced
+2235,IT,Non-binary,22,PhD,Intern,1260,0,2,5,Yes,No,Single
+3584,ITXX,Prefer not to sayXX,,Associate's DegreeXX,Manager,,,2,5,Yes,Yes,Single
+2979,IT,Non-binary,28,High School,Team Lead,7510,27,3,1,No,No,Single
+1848,Finance,Male,33,Bachelor's Degree,Team Lead,6266,8,2,3,Yes,No,Married
+1167,Sales,Female,57,Master's Degree,Analyst,4881,10,5,3,No,Yes,Married
+3513,HR,Female,59,Bachelor's Degree,Analyst,4828,28,2,2,No,No,Divorced
+2068,Marketing,Female,20,Associate's Degree,Intern,1181,0,5,4,No,Yes,Single
+3597,IT,Prefer not to say,38,PhD,Analyst,3943,1,1,3,Yes,Yes,Married
+1868,MarketingXX,MaleXX,,Master's DegreeXX,Executive,,,3,4,No,No,Divorced
+1808,Finance,Prefer not to say,21,Bachelor's Degree,Intern,1394,0,1,1,Yes,No,Single
+3867,Finance,Male,23,Bachelor's Degree,Intern,1259,0,5,4,Yes,Yes,Single
+3065,HR,Prefer not to say,48,PhD,Team Lead,9418,3,3,5,Yes,No,Single
+2704,IT,Male,46,Associate's Degree,Executive,4821,23,1,4,No,Yes,Single
+2134,Sales,Prefer not to say,25,PhD,Analyst,3676,34,4,3,No,Yes,Single
+4132,HR,Non-binary,59,Master's Degree,Team Lead,7244,16,5,3,No,Yes,Single
+1403,HR,Non-binary,29,Associate's Degree,Team Lead,5692,27,2,4,Yes,No,Divorced
+2042,IT,Non-binary,,PhD,Team Lead,,,4,3,Yes,No,Divorced
+3248,Marketing,Prefer not to say,54,Bachelor's Degree,Team Lead,8757,24,1,4,Yes,No,Married
+3021,Sales,Female,50,Master's Degree,Executive,4326,4,5,4,Yes,Yes,Single
+3499,Finance,Non-binary,23,Bachelor's Degree,Intern,1175,0,1,2,Yes,No,Single
+3938,Marketing,Female,26,Master's Degree,Analyst,3624,34,1,3,Yes,Yes,Divorced
+3514,HR,Female,59,PhD,Team Lead,5246,34,4,1,Yes,No,Widowed
+4298,Marketing,Female,58,Associate's Degree,Manager,11657,14,3,1,Yes,Yes,Married
+2193,MarketingXX,MaleXX,,High SchoolXX,Analyst,,,3,3,No,No,Widowed
+4126,IT,Non-binary,53,Master's Degree,Executive,4899,17,2,1,No,Yes,Single
+2289,Finance,Prefer not to say,46,High School,Executive,4934,17,3,1,Yes,No,Single
+1175,Sales,Female,,Master's Degree,Analyst,,,5,4,No,Yes,Single
+1528,HR,Prefer not to say,22,High School,Team Lead,6586,39,5,2,Yes,No,Divorced
+3621,HR,Non-binary,46,PhD,Team Lead,7333,29,3,3,No,No,Single
+1310,Marketing,Male,21,PhD,Intern,1323,0,5,5,No,Yes,Single
+2352,HR,Female,39,Master's Degree,Team Lead,9534,14,3,2,No,No,Married
+4282,FinanceXX,MaleXX,,Bachelor's DegreeXX,Analyst,,,2,2,No,Yes,Widowed
+2588,HR,Male,22,PhD,Executive,3381,34,4,1,Yes,No,Single
+1197,Finance,Non-binary,59,Bachelor's Degree,Team Lead,9553,15,5,4,Yes,No,Married
+1875,HR,Female,55,Master's Degree,Manager,7617,35,3,4,Yes,Yes,Widowed
+1103,Sales,Non-binary,42,High School,Analyst,3524,1,2,3,No,Yes,Married
+4124,IT,Prefer not to say,59,Master's Degree,Executive,2309,28,3,1,Yes,Yes,Single
+2037,IT,Non-binary,42,Master's Degree,Manager,8084,35,5,5,No,No,Widowed
+1880,FinanceXX,Non-binaryXX,,Bachelor's DegreeXX,Team Lead,,,4,4,Yes,No,Married
+1872,Sales,Prefer not to say,18,Master's Degree,Intern,1105,0,4,4,Yes,No,Single
+1765,IT,Non-binary,41,High School,Executive,2512,6,4,1,No,Yes,Married
+1813,HR,Male,28,Associate's Degree,Manager,8960,24,4,2,1,No,Married
+1574,FinanceXX,Prefer not to sayXX,,PhDXX,Team Lead,,,1,3,No,No,Divorced
+3352,Marketing,Male,,High School,Analyst,,,3,3,Yes,Yes,Widowed
+1290,Sales,Male,51,PhD,Analyst,4252,27,3,5,Yes,Yes,Divorced
+1655,Marketing,Prefer not to say,57,Master's Degree,Team Lead,8937,6,2,3,0,No,Married
+1706,Sales,Male,41,High School,Manager,7795,16,3,5,No,No,Divorced
+1444,Finance,Female,57,Bachelor's Degree,Manager,10742,21,1,1,Yes,No,Divorced
+3155,Sales,Male,42,High School,Team Lead,6356,16,5,5,Yes,No,Divorced
+2785,Sales,Male,57,Associate's Degree,Analyst,2224,33,4,4,No,No,Married
+1045,IT,Prefer not to say,19,Bachelor's Degree,Intern,1328,0,3,1,No,No,Single
+3616,Marketing,Prefer not to say,19,Bachelor's Degree,Intern,1007,0,5,1,No,No,Single
+4116,IT,Non-binary,49,Bachelor's Degree,Analyst,4755,14,4,2,Yes,Yes,Single
+1077,HR,Non-binary,39,High School,Team Lead,7303,31,5,5,Yes,No,Widowed
+1443,Finance,Non-binary,,Associate's Degree,Team Lead,,,3,5,No,Yes,Divorced
+3579,HR,Non-binary,,Master's Degree,Intern,,,5,5,No,Yes,Single
+1830,HR,Non-binary,36,PhD,Analyst,2353,9,2,4,Yes,No,Married
+2656,IT,Prefer not to say,51,Master's Degree,Analyst,3721,15,2,3,Yes,Yes,Widowed
+1677,Marketing,Female,23,Bachelor's Degree,Manager,11045,31,3,4,Yes,No,Widowed
+3047,Marketing,Male,56,Bachelor's Degree,Executive,3601,34,2,4,Yes,No,Divorced
+3685,Finance,Non-binary,34,High School,Team Lead,8011,7,3,2,No,Yes,Divorced
+3203,Sales,Male,34,High School,Analyst,4358,19,2,2,Yes,No,Widowed
+4390,HR,Male,53,PhD,Manager,7197,13,5,2,No,No,Divorced
+1507,Sales,Female,27,Bachelor's Degree,Analyst,2438,0,3,5,No,Yes,Married
+1941,IT,Non-binary,28,Associate's Degree,Executive,3832,27,5,3,No,No,Single
+4378,Sales,Non-binary,34,Associate's Degree,Manager,11313,26,1,5,Yes,Yes,Divorced
+3096,Finance,Female,59,PhD,Team Lead,9472,7,1,4,No,Yes,Divorced
+3476,Finance,Non-binary,59,Master's Degree,Executive,4352,16,1,1,Yes,No,Married
+4198,IT,Female,20,Bachelor's Degree,Intern,1489,0,3,4,Yes,No,Single
+3947,Sales,Male,20,Bachelor's Degree,Intern,1496,0,2,3,Yes,Yes,Single
+3409,IT,Female,35,PhD,Manager,8354,12,1,2,No,No,Widowed
+3350,MarketingXX,MaleXX,,Master's DegreeXX,Executive,,,4,1,No,Yes,Divorced
+3321,IT,Prefer not to say,58,Master's Degree,Analyst,4361,9,1,1,Yes,No,Single
+1280,Finance,Prefer not to say,59,Bachelor's Degree,Manager,9608,31,2,5,No,No,Married
+2533,HR,Female,39,Bachelor's Degree,Manager,9333,36,5,3,No,Yes,Single
+1839,Finance,Non-binary,32,High School,Executive,3347,0,5,4,Yes,No,Single
+1782,HR,Female,24,Associate's Degree,Intern,1431,0,2,3,Yes,No,Single
+4380,Marketing,Prefer not to say,59,Bachelor's Degree,Team Lead,9142,9,4,3,Yes,Yes,Single
+1757,Marketing,Female,19,Associate's Degree,Intern,1430,0,3,4,Yes,Yes,Single
+3751,Sales,Male,22,PhD,Intern,1450,0,3,1,Yes,No,Single
+4097,Finance,Male,52,Associate's Degree,Team Lead,7110,39,4,2,Yes,No,Divorced
+1241,Finance,Prefer not to say,33,High School,Manager,10431,38,2,4,No,No,Single
+1728,IT,Female,40,Master's Degree,Analyst,4728,2,3,5,No,Yes,Widowed
+3313,HR,Female,59,Master's Degree,Analyst,4701,36,1,5,Yes,Yes,Widowed
+2259,Finance,Prefer not to say,44,Master's Degree,Manager,9948,39,4,2,No,No,Married
+1818,HR,Prefer not to say,48,Associate's Degree,Analyst,2482,9,5,2,Yes,Yes,Single
+1860,Finance,Prefer not to say,,Associate's Degree,Analyst,,,4,5,No,No,Single
+2815,IT,Prefer not to say,30,Bachelor's Degree,Analyst,2478,35,2,2,No,No,Married
+2993,Finance,Male,49,Associate's Degree,Manager,9532,11,1,1,No,Yes,Widowed
+3209,Marketing,Male,23,Bachelor's Degree,Intern,1198,0,5,2,1,No,Single
+1153,HR,Male,23,High School,Intern,1080,0,5,1,No,Yes,Single
+3986,Finance,Non-binary,50,Master's Degree,Executive,3051,18,3,3,Yes,Yes,Single
+3283,Finance,Male,27,High School,Manager,8600,24,3,4,1,No,Divorced
+3004,HR,Female,59,High School,Team Lead,8923,17,2,2,Yes,Yes,Married
+2843,HR,Prefer not to say,,PhD,Manager,,,1,2,No,No,Married
+1257,HR,Female,52,Master's Degree,Manager,11138,14,3,1,Yes,No,Married
+2463,Finance,Male,43,High School,Manager,8237,16,5,3,Yes,No,Divorced
+2625,HR,Non-binary,37,PhD,Team Lead,5322,32,3,3,Yes,Yes,Married
+1439,Sales,Male,26,Associate's Degree,Analyst,2940,37,1,1,No,No,Married
+4358,Marketing,Non-binary,59,Bachelor's Degree,Analyst,3099,29,4,3,1,No,Single
+1512,Sales,Prefer not to say,,PhD,Executive,,,1,2,No,Yes,Widowed
+2877,HR,Non-binary,25,PhD,Executive,4275,1,4,4,Yes,No,Married
+1747,Finance,Prefer not to say,20,PhD,Intern,1475,0,2,2,No,Yes,Single
+1179,Marketing,Non-binary,37,Bachelor's Degree,Executive,3169,28,1,4,Yes,No,Divorced
+2745,HR,Male,55,Master's Degree,Executive,2140,36,2,2,No,No,Married
