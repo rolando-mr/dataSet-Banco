@@ -1,0 +1,801 @@
+﻿id_venta,fecha,mes,dia_semana,region,ciudad,categoria,producto,canal_venta,genero_cliente,edad_cliente,unidades,precio_unitario_bs,descuento_pct,ingresos_bs,costo_bs,ganancia_bs,metodo_pago,dias_entrega,calificacion,satisfaccion,campana,devolucion
+1001,2025-04-26,4,Sábado,Oriente,Santa Cruz,Tecnología,Monitor,Aplicación móvil,Hombre,27,7,1294.74,0.0,9063.18,6033.94,3029.24,Transferencia,4,4.1,4.6,Sin campaña,No
+1002,2025-11-04,11,Martes,Valle,Quillacollo,Deportes,Mochila deportiva,Aplicación móvil,Hombre,45,6,205.64,0.1,1110.46,770.82,339.64,Tarjeta,3,3.8,4.5,Fidelización,No
+1003,2025-01-13,1,Lunes,Oriente,Warnes,Deportes,Mochila deportiva,Aplicación móvil,Hombre,27,3,215.77,0.0,647.31,430.54,216.77,Billetera móvil,5,5.0,5.0,Descuento,No
+1004,2025-06-12,6,Jueves,Oriente,Santa Cruz,Deportes,Balón,Aplicación móvil,Mujer,29,3,166.52,0.0,499.56,303.29,196.27,Transferencia,4,3.7,3.7,Fidelización,No
+1005,2025-10-20,10,Lunes,Occidente,La Paz,Hogar,Cafetera,Redes sociales,Hombre,37,3,498.28,0.25,1121.13,1179.61,-58.48,Tarjeta,3,5.0,5.0,Sin campaña,Sí
+1006,2025-12-14,12,Domingo,Sur,Villamontes,Papelería,Marcadores,Aplicación móvil,Mujer,40,5,28.89,0.1,130.0,93.53,36.47,Tarjeta,5,3.4,3.1,Descuento,No
+1007,2025-04-02,4,Miércoles,Oriente,Santa Cruz,Hogar,Lámpara,Tienda física,Mujer,42,7,138.61,0.0,970.27,706.02,264.25,Tarjeta,0,3.2,3.3,Temporada,No
+1008,2025-08-26,8,Martes,Oriente,Montero,Deportes,Mochila deportiva,Redes sociales,Mujer,33,8,233.61,0.05,1775.44,1224.2,551.24,Billetera móvil,4,3.8,3.7,Sin campaña,No
+1009,2025-03-11,3,Martes,Occidente,La Paz,Hogar,Cafetera,Redes sociales,Hombre,39,4,481.12,0.0,1924.48,1527.01,397.47,Efectivo,3,3.8,3.1,Descuento,No
+1010,2025-02-12,2,Miércoles,Valle,Cochabamba,Tecnología,Laptop,Tienda física,Mujer,41,2,4084.55,0.0,8169.1,5909.88,2259.22,Billetera móvil,0,3.4,3.5,Sin campaña,No
+1011,2025-05-09,5,Viernes,Valle,Quillacollo,Deportes,Mochila deportiva,Tienda física,No especificado,36,8,201.23,0.1,1448.86,1097.63,351.23,Efectivo,0,5.0,4.8,Sin campaña,No
+1012,2025-11-20,11,Jueves,Sur,Tarija,Tecnología,Mouse,Web,Mujer,33,3,89.22,0.1,240.89,156.76,84.13,Transferencia,6,4.0,3.9,Descuento,No
+1013,2025-09-09,9,Martes,Oriente,Warnes,Papelería,Bolígrafo,Web,Mujer,20,4,5.45,0.15,18.53,17.3,1.23,Billetera móvil,6,4.1,4.3,Sin campaña,No
+1014,2025-06-28,6,Sábado,Oriente,Warnes,Deportes,Mochila deportiva,Aplicación móvil,Hombre,40,6,228.48,0.2,1096.7,956.38,140.32,Tarjeta,5,3.5,4.1,Descuento,No
+1015,2025-04-14,4,Lunes,Valle,Cochabamba,Hogar,Ventilador,Web,Hombre,34,6,392.32,0.0,2353.92,1475.82,878.1,Efectivo,6,3.3,2.9,Temporada,No
+1016,2025-02-21,2,Viernes,Occidente,La Paz,Hogar,Cafetera,Tienda física,Mujer,30,2,432.92,0.2,692.67,681.45,11.22,Transferencia,0,4.8,4.6,Sin campaña,No
+1017,2025-04-09,4,Miércoles,Valle,Quillacollo,Deportes,Balón,Tienda física,Hombre,47,4,149.17,0.1,537.01,336.94,200.07,Billetera móvil,0,2.7,2.4,Sin campaña,No
+1018,2025-02-25,2,Martes,Occidente,El Alto,Hogar,Cafetera,Redes sociales,Mujer,20,2,486.95,0.0,973.9,618.23,355.67,Tarjeta,3,3.1,2.7,Temporada,No
+1019,2025-03-10,3,Lunes,Oriente,Santa Cruz,Hogar,Lámpara,Tienda física,Mujer,50,6,144.34,0.15,736.13,601.85,134.28,Tarjeta,0,3.8,3.5,Descuento,No
+1020,2025-09-08,9,Lunes,Oriente,Warnes,Hogar,Cafetera,Aplicación móvil,Hombre,34,4,467.65,0.0,1870.6,1200.46,670.14,Transferencia,3,5.0,4.9,Temporada,No
+1021,2025-02-18,2,Martes,Oriente,Santa Cruz,Hogar,Ventilador,Tienda física,Hombre,37,7,425.66,0.1,2681.66,2022.32,659.34,Efectivo,0,3.7,4.0,Sin campaña,Sí
+1022,2025-01-18,1,Sábado,Valle,Cochabamba,Papelería,Bolígrafo,Web,Mujer,30,1,4.58,0.15,3.89,2.85,1.04,Transferencia,5,4.2,4.3,Descuento,No
+1023,2025-07-17,7,Jueves,Sur,Villamontes,Tecnología,Monitor,Web,Mujer,18,5,1194.8,0.0,5974.0,3495.52,2478.48,Tarjeta,6,3.8,3.3,Temporada,No
+1024,2025-04-15,4,Martes,Sur,Tarija,Papelería,Mochila,Tienda física,Hombre,33,7,212.65,0.15,1265.27,833.51,431.76,Efectivo,0,5.0,5.0,Sin campaña,No
+1025,2025-06-15,6,Domingo,Oriente,Montero,Hogar,Ventilador,Aplicación móvil,Mujer,37,2,362.84,0.0,725.68,430.01,295.67,Billetera móvil,5,2.6,3.0,Temporada,No
+1026,2025-02-21,2,Viernes,Occidente,Oruro,Deportes,Mochila deportiva,Aplicación móvil,Hombre,41,3,244.41,0.15,623.25,591.93,31.32,Tarjeta,4,4.5,4.1,Fidelización,No
+1027,2025-03-18,3,Martes,Valle,Sacaba,Tecnología,Teclado,Tienda física,Hombre,32,3,177.3,0.0,531.9,375.18,156.72,Billetera móvil,0,3.8,4.4,Temporada,No
+1028,2025-06-10,6,Martes,Occidente,El Alto,Hogar,Cafetera,Web,Hombre,18,5,414.27,0.0,2071.35,1412.7,658.65,Transferencia,3,4.7,4.8,Sin campaña,No
+1029,2025-09-09,9,Martes,Occidente,El Alto,Papelería,Marcadores,Aplicación móvil,Mujer,19,8,32.17,0.05,244.49,168.25,76.24,Tarjeta,6,3.1,3.0,Descuento,No
+1030,2025-06-01,6,Domingo,Oriente,Santa Cruz,Hogar,Lámpara,Aplicación móvil,Hombre,55,5,141.91,0.15,603.12,525.97,77.15,Tarjeta,3,4.0,4.2,Sin campaña,No
+1031,2025-07-17,7,Jueves,Oriente,Montero,Tecnología,Monitor,Web,Mujer,23,4,1343.47,0.0,5373.88,3160.59,2213.29,Tarjeta,3,3.9,3.9,Temporada,No
+1032,2025-07-10,7,Jueves,Sur,Villamontes,Deportes,Balón,Aplicación móvil,Mujer,48,5,165.03,0.2,660.12,515.35,144.77,Transferencia,5,3.0,3.2,Sin campaña,No
+1033,2025-04-09,4,Miércoles,Valle,Cochabamba,Tecnología,Teclado,Tienda física,Mujer,25,4,186.64,0.0,746.56,542.82,203.74,Transferencia,0,3.0,3.1,Sin campaña,No
+1034,2025-04-13,4,Domingo,Valle,Quillacollo,Hogar,Licuadora,Tienda física,Mujer,32,5,328.2,0.05,1558.95,1114.81,444.14,Transferencia,0,3.5,3.3,Temporada,No
+1035,2025-06-05,6,Jueves,Valle,Sacaba,Hogar,Ventilador,Aplicación móvil,Hombre,40,3,374.28,0.05,1066.7,851.03,215.67,Tarjeta,3,4.1,3.2,Sin campaña,No
+1036,2025-01-12,1,Domingo,Occidente,El Alto,Deportes,Bicicleta,Aplicación móvil,Hombre,26,6,1744.0,0.0,10464.0,8289.79,2174.21,Tarjeta,2,3.4,3.6,Descuento,No
+1037,2025-09-08,9,Lunes,Occidente,La Paz,Deportes,Mancuernas,Aplicación móvil,Hombre,50,2,286.47,0.2,458.35,442.49,15.86,Efectivo,3,3.7,3.5,Sin campaña,No
+1038,2025-08-13,8,Miércoles,Valle,Sacaba,Deportes,Mochila deportiva,Tienda física,Hombre,35,3,223.87,0.05,638.03,402.79,235.24,Transferencia,0,2.5,2.9,Fidelización,No
+1039,2025-04-22,4,Martes,Occidente,La Paz,Papelería,Mochila,Web,Hombre,39,8,238.39,0.1,1716.41,1096.02,620.39,Tarjeta,2,3.7,3.9,Sin campaña,No
+1040,2025-05-17,5,Sábado,Oriente,Santa Cruz,Tecnología,Laptop,Aplicación móvil,Hombre,31,2,4650.97,0.1,8371.75,5541.62,2830.13,Tarjeta,5,4.7,4.5,Descuento,No
+1041,2025-04-30,4,Miércoles,Valle,Quillacollo,Hogar,Licuadora,Tienda física,Hombre,41,3,336.2,0.1,907.74,768.1,139.64,Tarjeta,0,4.6,5.0,Descuento,No
+1042,2025-08-26,8,Martes,Oriente,Santa Cruz,Tecnología,Laptop,Web,Hombre,50,1,4327.16,0.1,3894.44,3447.6,446.84,Tarjeta,7,3.6,3.7,Sin campaña,No
+1043,2025-10-05,10,Domingo,Oriente,Montero,Tecnología,Monitor,Web,Hombre,33,3,1241.2,0.2,2978.88,2978.4,0.48,Transferencia,4,4.1,4.2,Sin campaña,No
+1044,2025-02-09,2,Domingo,Valle,Sacaba,Tecnología,Teclado,Tienda física,Mujer,51,6,161.84,0.1,873.94,612.26,261.68,Transferencia,0,3.3,3.2,Sin campaña,No
+1045,2025-05-31,5,Sábado,Oriente,Santa Cruz,Deportes,Bicicleta,Web,No especificado,28,3,1818.01,0.1,4908.63,4237.19,671.44,Billetera móvil,4,5.0,5.0,Fidelización,No
+1046,2025-01-06,1,Lunes,Oriente,Santa Cruz,Papelería,Mochila,Tienda física,Mujer,42,7,211.7,0.1,1333.71,1029.6,304.11,Efectivo,0,5.0,4.7,Sin campaña,No
+1047,2025-06-15,6,Domingo,Valle,Sacaba,Papelería,Mochila,Redes sociales,Mujer,39,1,213.85,0.1,192.46,165.13,27.33,Transferencia,1,4.1,4.0,Sin campaña,No
+1048,2025-04-01,4,Martes,Valle,Sacaba,Deportes,Balón,Tienda física,Hombre,23,3,166.01,0.05,473.13,347.65,125.48,Efectivo,0,5.0,4.4,Sin campaña,No
+1049,2025-05-03,5,Sábado,Oriente,Warnes,Papelería,Cuaderno,Tienda física,Mujer,36,7,19.33,0.1,121.78,79.75,42.03,Transferencia,0,3.5,3.8,Descuento,No
+1050,2025-06-16,6,Lunes,Occidente,Oruro,Tecnología,Mouse,Tienda física,Mujer,34,8,80.29,0.05,610.2,367.01,243.19,Transferencia,0,3.0,2.7,Fidelización,No
+1051,2025-04-29,4,Martes,Occidente,La Paz,Papelería,Bolígrafo,Tienda física,Mujer,25,6,4.73,0.15,24.12,22.94,1.18,Tarjeta,0,3.4,3.2,Descuento,No
+1052,2025-05-24,5,Sábado,Occidente,La Paz,Papelería,Marcadores,Tienda física,Mujer,38,2,35.71,0.25,53.56,47.49,6.07,Transferencia,0,3.8,3.6,Temporada,No
+1053,2025-10-07,10,Martes,Oriente,Santa Cruz,Tecnología,Laptop,Web,Hombre,35,6,4459.05,0.2,21403.44,17246.91,4156.53,Tarjeta,3,5.0,5.0,Fidelización,No
+1054,2025-10-23,10,Jueves,Oriente,Montero,Hogar,Cafetera,Tienda física,Hombre,33,3,435.93,0.15,1111.62,845.1,266.52,Efectivo,0,3.8,3.2,Temporada,Sí
+1055,2025-01-03,1,Viernes,Oriente,Santa Cruz,Papelería,Cuaderno,Tienda física,Mujer,33,8,17.85,0.1,128.52,93.15,35.37,Tarjeta,0,3.3,2.3,Fidelización,No
+1056,2025-05-18,5,Domingo,Oriente,Santa Cruz,Hogar,Licuadora,Tienda física,No especificado,33,9,317.37,0.15,2427.88,2299.77,128.11,Efectivo,0,3.3,3.5,Sin campaña,Sí
+1057,2025-11-06,11,Jueves,Valle,Quillacollo,Papelería,Cuaderno,Web,Hombre,30,3,18.05,0.0,54.15,30.7,23.45,Billetera móvil,3,4.9,3.9,Temporada,No
+1058,2025-07-13,7,Domingo,Valle,Quillacollo,Papelería,Cuaderno,Tienda física,Hombre,35,4,18.68,0.05,70.98,43.5,27.48,Transferencia,0,4.8,5.0,Fidelización,No
+1059,2025-03-16,3,Domingo,Occidente,Oruro,Hogar,Ventilador,Web,Mujer,28,4,457.06,0.0,1828.24,1395.32,432.92,Transferencia,3,3.6,4.3,Descuento,No
+1060,2025-08-05,8,Martes,Occidente,La Paz,Tecnología,Mouse,Aplicación móvil,Mujer,61,5,86.29,0.0,431.45,301.3,130.15,Billetera móvil,3,2.5,2.4,Sin campaña,No
+1061,2025-02-22,2,Sábado,Oriente,Montero,Hogar,Cafetera,Aplicación móvil,Mujer,20,6,473.85,0.25,2132.33,1662.37,469.96,Transferencia,2,3.1,3.7,Sin campaña,No
+1062,2025-01-08,1,Miércoles,Valle,Sacaba,Tecnología,Mouse,Tienda física,Mujer,28,4,73.53,0.15,250.0,164.5,85.5,Tarjeta,0,5.0,5.0,Descuento,No
+1063,2025-08-19,8,Martes,Valle,Cochabamba,Hogar,Ventilador,Redes sociales,Hombre,29,4,365.26,0.1,1314.94,892.03,422.91,Efectivo,4,4.5,5.0,Descuento,No
+1064,2025-07-08,7,Martes,Oriente,Montero,Deportes,Mochila deportiva,Aplicación móvil,Mujer,54,5,252.61,0.0,1263.05,783.62,479.43,Tarjeta,3,4.1,3.9,Fidelización,No
+1065,2025-10-04,10,Sábado,Oriente,Montero,Hogar,Ventilador,Tienda física,Hombre,21,6,392.23,0.1,2118.04,1303.39,814.65,Billetera móvil,0,5.0,3.9,Descuento,No
+1066,2025-05-06,5,Martes,Valle,Sacaba,Tecnología,Teclado,Web,Hombre,38,6,116.8,0.05,665.76,426.33,239.43,Billetera móvil,3,5.0,5.0,Descuento,No
+1067,2025-11-08,11,Sábado,Valle,Quillacollo,Hogar,Ventilador,Aplicación móvil,Mujer,36,5,400.49,0.15,1702.08,1500.53,201.55,Transferencia,3,4.0,4.8,Sin campaña,No
+1068,2025-06-03,6,Martes,Valle,Quillacollo,Deportes,Bicicleta,Tienda física,Mujer,37,4,2133.89,0.25,6401.67,6665.99,-264.32,Efectivo,0,4.0,4.2,Sin campaña,No
+1069,2025-09-27,9,Sábado,Occidente,El Alto,Tecnología,Laptop,Web,Hombre,46,3,3529.38,0.05,10058.73,8391.35,1667.38,Efectivo,2,3.5,3.3,Sin campaña,No
+1070,2025-02-06,2,Jueves,Valle,Quillacollo,Tecnología,Monitor,Web,Hombre,46,3,1401.94,0.0,4205.82,2755.98,1449.84,Billetera móvil,4,3.7,3.8,Temporada,No
+1071,2025-02-05,2,Miércoles,Occidente,Oruro,Papelería,Cuaderno,Tienda física,Mujer,29,5,14.01,0.0,70.05,44.57,25.48,Efectivo,0,2.8,3.2,Descuento,No
+1072,2025-10-13,10,Lunes,Valle,Sacaba,Tecnología,Mouse,Redes sociales,No especificado,36,4,91.38,0.0,365.52,299.71,65.81,Transferencia,2,2.8,2.8,Temporada,No
+1073,2025-11-01,11,Sábado,Oriente,Santa Cruz,Hogar,Ventilador,Tienda física,Hombre,18,3,379.74,0.05,1082.26,863.21,219.05,Tarjeta,0,2.6,3.8,Fidelización,No
+1074,2025-12-10,12,Miércoles,Occidente,Oruro,Tecnología,Mouse,Tienda física,Hombre,35,4,69.02,0.0,276.08,191.9,84.18,Tarjeta,0,4.9,4.7,Fidelización,No
+1075,2025-04-29,4,Martes,Occidente,Oruro,Tecnología,Laptop,Tienda física,Mujer,26,4,4349.9,0.0,17399.6,10766.67,6632.93,Transferencia,0,2.8,3.3,Descuento,No
+1076,2025-01-09,1,Jueves,Valle,Quillacollo,Hogar,Lámpara,Web,Hombre,32,4,152.89,0.0,611.56,389.41,222.15,Billetera móvil,3,5.0,5.0,Temporada,No
+1077,2025-12-24,12,Miércoles,Valle,Cochabamba,Deportes,Balón,Redes sociales,Hombre,18,5,164.66,0.0,823.3,567.38,255.92,Transferencia,5,3.3,3.0,Temporada,No
+1078,2025-08-08,8,Viernes,Oriente,Montero,Tecnología,Laptop,Aplicación móvil,Mujer,38,2,4396.5,0.15,7474.05,6123.11,1350.94,Tarjeta,3,5.0,4.8,Fidelización,No
+1079,2025-04-01,4,Martes,Valle,Quillacollo,Tecnología,Monitor,Redes sociales,No especificado,18,4,1208.83,0.0,4835.32,2677.28,2158.04,Tarjeta,6,3.5,4.0,Sin campaña,No
+1080,2025-10-06,10,Lunes,Oriente,Montero,Tecnología,Teclado,Web,Hombre,35,9,153.2,0.15,1171.98,1115.5,56.48,Billetera móvil,4,2.7,2.8,Fidelización,No
+1081,2025-11-26,11,Miércoles,Oriente,Warnes,Deportes,Balón,Web,Mujer,22,2,168.86,0.0,337.72,238.23,99.49,Transferencia,4,4.9,5.0,Sin campaña,No
+1082,2025-04-14,4,Lunes,Valle,Cochabamba,Papelería,Mochila,Web,Hombre,26,6,239.4,0.0,1436.4,1018.51,417.89,Tarjeta,6,4.9,4.2,Sin campaña,No
+1083,2025-10-08,10,Miércoles,Oriente,Santa Cruz,Tecnología,Monitor,Tienda física,Hombre,46,3,1362.96,0.0,4088.88,2482.35,1606.53,Transferencia,0,3.3,3.6,Fidelización,No
+1084,2025-10-15,10,Miércoles,Occidente,Oruro,Hogar,Licuadora,Redes sociales,Hombre,40,5,269.11,0.1,1211.0,1017.97,193.03,Efectivo,3,3.7,3.8,Temporada,No
+1085,2025-07-03,7,Jueves,Occidente,El Alto,Hogar,Cafetera,Web,Hombre,45,2,395.46,0.0,790.92,592.45,198.47,Efectivo,3,3.3,3.3,Sin campaña,No
+1086,2025-08-19,8,Martes,Occidente,El Alto,Hogar,Cafetera,Web,Mujer,50,3,419.55,0.1,1132.79,724.6,408.19,Billetera móvil,6,3.7,3.9,Sin campaña,No
+1087,2025-04-09,4,Miércoles,Oriente,Montero,Tecnología,Laptop,Web,Mujer,26,6,3664.76,0.0,21988.56,15626.14,6362.42,Transferencia,3,4.1,3.9,Temporada,No
+1088,2025-12-06,12,Sábado,Valle,Sacaba,Tecnología,Laptop,Aplicación móvil,Mujer,49,5,4214.85,0.25,15805.69,15335.99,469.7,Efectivo,2,3.7,3.4,Sin campaña,No
+1089,2025-12-25,12,Jueves,Occidente,Oruro,Deportes,Balón,Tienda física,Hombre,19,7,165.04,0.0,1155.28,896.04,259.24,Tarjeta,0,2.5,2.4,Sin campaña,No
+1090,2025-12-25,12,Jueves,Valle,Cochabamba,Hogar,Licuadora,Aplicación móvil,Mujer,41,2,283.39,0.05,538.44,343.27,195.17,Billetera móvil,2,3.5,3.3,Fidelización,No
+1091,2025-09-27,9,Sábado,Occidente,Oruro,Hogar,Cafetera,Aplicación móvil,Hombre,29,2,477.98,0.15,812.57,752.3,60.27,Transferencia,4,4.5,5.0,Temporada,No
+1092,2025-01-16,1,Jueves,Oriente,Warnes,Hogar,Cafetera,Aplicación móvil,Mujer,25,4,471.64,0.0,1886.56,1272.67,613.89,Transferencia,4,3.8,4.2,Descuento,No
+1093,2025-05-14,5,Miércoles,Valle,Sacaba,Papelería,Cuaderno,Tienda física,Mujer,40,2,17.21,0.0,34.42,19.83,14.59,Efectivo,0,3.7,3.3,Descuento,Sí
+1094,2025-06-12,6,Jueves,Valle,Sacaba,Deportes,Mancuernas,Tienda física,Hombre,43,2,276.14,0.15,469.44,319.5,149.94,Billetera móvil,0,3.3,4.2,Sin campaña,No
+1095,2025-12-17,12,Miércoles,Valle,Cochabamba,Hogar,Licuadora,Web,Hombre,43,1,270.09,0.0,270.09,162.97,107.12,Billetera móvil,1,3.5,3.3,Sin campaña,Sí
+1096,2025-07-19,7,Sábado,Oriente,Warnes,Tecnología,Monitor,Aplicación móvil,Mujer,36,5,1216.77,0.0,6083.85,3810.57,2273.28,Tarjeta,3,5.0,5.0,Fidelización,No
+1097,2025-07-15,7,Martes,Valle,Sacaba,Papelería,Cuaderno,Redes sociales,Mujer,35,3,18.01,0.05,51.33,36.96,14.37,Tarjeta,3,3.1,3.5,Temporada,No
+1098,2025-02-23,2,Domingo,Occidente,La Paz,Papelería,Mochila,Web,Mujer,39,8,212.83,0.0,1702.64,1280.66,421.98,Transferencia,7,4.3,3.4,Sin campaña,No
+1099,2025-10-17,10,Viernes,Occidente,El Alto,Tecnología,Teclado,Tienda física,Mujer,37,7,185.46,0.2,1038.58,779.47,259.11,Billetera móvil,0,4.0,3.9,Sin campaña,No
+1100,2025-05-03,5,Sábado,Sur,Villamontes,Papelería,Mochila,Tienda física,Mujer,39,2,214.1,0.1,385.38,350.27,35.11,Transferencia,0,4.2,3.9,Sin campaña,No
+1101,2025-02-03,2,Lunes,Sur,Tarija,Deportes,Bicicleta,Web,Hombre,36,4,1810.88,0.1,6519.17,4299.83,2219.34,Billetera móvil,1,3.4,3.5,Sin campaña,No
+1102,2025-12-27,12,Sábado,Oriente,Santa Cruz,Tecnología,Mouse,Tienda física,Mujer,42,3,86.95,0.0,260.85,185.68,75.17,Transferencia,0,3.7,3.9,Sin campaña,No
+1103,2025-03-11,3,Martes,Occidente,Oruro,Papelería,Marcadores,Web,Mujer,18,3,34.57,0.1,93.34,83.05,10.29,Tarjeta,3,4.0,4.0,Sin campaña,No
+1104,2025-01-06,1,Lunes,Sur,Tarija,Tecnología,Mouse,Aplicación móvil,Mujer,33,5,84.35,0.1,379.58,326.76,52.82,Tarjeta,2,3.6,3.5,Fidelización,No
+1105,2025-01-29,1,Miércoles,Oriente,Warnes,Tecnología,Laptop,Web,Mujer,20,6,4306.71,0.0,25840.26,18732.38,7107.88,Transferencia,4,4.2,4.7,Sin campaña,Sí
+1106,2025-06-15,6,Domingo,Oriente,Warnes,Tecnología,Mouse,Web,No especificado,37,3,83.73,0.2,200.95,186.68,14.27,Tarjeta,4,4.3,4.4,Fidelización,No
+1107,2025-02-07,2,Viernes,Valle,Quillacollo,Hogar,Cafetera,Tienda física,Mujer,50,3,426.72,0.1,1152.14,750.48,401.66,Efectivo,0,5.0,5.0,Descuento,No
+1108,2025-11-04,11,Martes,Occidente,Oruro,Deportes,Balón,Tienda física,Mujer,29,3,166.69,0.15,425.06,276.34,148.72,Transferencia,0,4.2,4.3,Temporada,Sí
+1109,2025-07-07,7,Lunes,Occidente,La Paz,Hogar,Licuadora,Aplicación móvil,Hombre,35,3,305.79,0.0,917.37,612.09,305.28,Tarjeta,3,2.5,3.3,Temporada,No
+1110,2025-04-29,4,Martes,Sur,Tarija,Tecnología,Monitor,Web,Hombre,42,2,1288.61,0.0,2577.22,1479.76,1097.46,Transferencia,4,4.9,5.0,Descuento,No
+1111,2025-01-02,1,Jueves,Valle,Sacaba,Tecnología,Teclado,Tienda física,Hombre,18,3,180.41,0.1,487.11,349.96,137.15,Efectivo,0,3.8,3.6,Sin campaña,No
+1112,2025-06-25,6,Miércoles,Occidente,El Alto,Papelería,Bolígrafo,Tienda física,Hombre,29,2,4.88,0.15,8.3,5.96,2.34,Tarjeta,0,5.0,4.1,Fidelización,No
+1113,2025-02-25,2,Martes,Valle,Quillacollo,Papelería,Mochila,Tienda física,Hombre,38,2,204.49,0.05,388.53,326.13,62.4,Tarjeta,0,5.0,4.4,Sin campaña,No
+1114,2025-12-23,12,Martes,Valle,Quillacollo,Papelería,Cuaderno,Aplicación móvil,Hombre,18,4,17.27,0.0,69.08,54.41,14.67,Transferencia,3,3.6,3.4,Sin campaña,No
+1115,2025-04-17,4,Jueves,Occidente,El Alto,Tecnología,Mouse,Web,No especificado,24,1,73.81,0.15,62.74,56.92,5.82,Transferencia,2,4.6,4.6,Sin campaña,No
+1116,2025-06-23,6,Lunes,Oriente,Warnes,Papelería,Mochila,Web,Mujer,45,3,216.43,0.0,649.29,482.27,167.02,Tarjeta,3,3.5,3.2,Temporada,No
+1117,2025-01-07,1,Martes,Oriente,Montero,Deportes,Bicicleta,Web,Hombre,44,6,1884.27,0.05,10740.34,6688.4,4051.94,Tarjeta,4,3.9,4.1,Sin campaña,No
+1118,2025-02-17,2,Lunes,Oriente,Montero,Deportes,Mancuernas,Tienda física,Hombre,38,5,299.03,0.1,1345.64,841.86,503.78,Efectivo,0,4.5,4.2,Descuento,No
+1119,2025-03-17,3,Lunes,Valle,Sacaba,Tecnología,Mouse,Web,Hombre,43,5,81.39,0.0,406.95,295.67,111.28,Transferencia,1,4.9,4.5,Descuento,No
+1120,2025-01-19,1,Domingo,Oriente,Montero,Papelería,Cuaderno,Tienda física,Mujer,36,4,20.73,0.0,82.92,59.99,22.93,Billetera móvil,0,4.7,5.0,Fidelización,No
+1121,2025-09-22,9,Lunes,Oriente,Santa Cruz,Hogar,Licuadora,Redes sociales,Hombre,40,4,310.28,0.0,1241.12,806.41,434.71,Transferencia,5,3.9,4.5,Sin campaña,No
+1122,2025-12-12,12,Viernes,Oriente,Warnes,Tecnología,Laptop,Tienda física,Mujer,31,3,3905.96,0.2,9374.3,7940.33,1433.97,Efectivo,0,5.0,4.5,Temporada,No
+1123,2025-12-26,12,Viernes,Occidente,El Alto,Tecnología,Monitor,Web,Hombre,35,2,1150.63,0.05,2186.2,1569.62,616.58,Transferencia,3,3.7,3.8,Fidelización,No
+1124,2025-04-08,4,Martes,Valle,Quillacollo,Hogar,Ventilador,Tienda física,Mujer,28,3,327.29,0.1,883.68,603.63,280.05,Tarjeta,0,2.7,1.8,Descuento,No
+1125,2025-10-15,10,Miércoles,Occidente,El Alto,Tecnología,Mouse,Aplicación móvil,Hombre,47,3,95.42,0.25,214.7,181.73,32.97,Efectivo,3,2.9,2.2,Descuento,No
+1126,2025-07-03,7,Jueves,Valle,Quillacollo,Hogar,Lámpara,Tienda física,Hombre,49,6,155.36,0.1,838.94,617.99,220.95,Efectivo,0,5.0,4.7,Temporada,No
+1127,2025-01-17,1,Viernes,Valle,Quillacollo,Hogar,Licuadora,Redes sociales,Mujer,48,5,335.38,0.1,1509.21,1195.39,313.82,Efectivo,1,3.9,4.4,Fidelización,No
+1128,2025-02-03,2,Lunes,Occidente,El Alto,Papelería,Cuaderno,Tienda física,Mujer,30,2,16.71,0.1,30.08,27.01,3.07,Efectivo,0,4.1,3.7,Descuento,No
+1129,2025-07-19,7,Sábado,Occidente,El Alto,Tecnología,Mouse,Aplicación móvil,Mujer,24,2,97.32,0.05,184.91,135.35,49.56,Transferencia,3,3.6,3.2,Sin campaña,No
+1130,2025-06-04,6,Miércoles,Oriente,Santa Cruz,Deportes,Mochila deportiva,Aplicación móvil,Hombre,47,4,223.53,0.1,804.71,668.28,136.43,Tarjeta,3,3.6,3.6,Sin campaña,No
+1131,2025-01-04,1,Sábado,Occidente,Oruro,Papelería,Marcadores,Tienda física,Hombre,39,3,31.31,0.2,75.14,72.13,3.01,Transferencia,0,3.4,3.4,Sin campaña,No
+1132,2025-12-06,12,Sábado,Sur,Villamontes,Papelería,Mochila,Tienda física,Hombre,37,6,234.15,0.15,1194.16,815.75,378.41,Billetera móvil,0,4.4,4.0,Sin campaña,No
+1133,2025-09-24,9,Miércoles,Oriente,Warnes,Papelería,Cuaderno,Tienda física,Mujer,28,4,18.95,0.05,72.01,55.06,16.95,Transferencia,0,3.9,4.8,Sin campaña,No
+1134,2025-07-03,7,Jueves,Valle,Quillacollo,Tecnología,Monitor,Aplicación móvil,Hombre,38,1,1470.11,0.05,1396.6,999.92,396.68,Tarjeta,3,4.3,4.2,Sin campaña,No
+1135,2025-12-27,12,Sábado,Oriente,Warnes,Papelería,Cuaderno,Redes sociales,Hombre,23,5,18.36,0.2,73.44,64.68,8.76,Transferencia,4,4.2,4.3,Temporada,No
+1136,2025-12-21,12,Domingo,Occidente,Oruro,Papelería,Cuaderno,Tienda física,Mujer,40,4,17.43,0.0,69.72,39.07,30.65,Efectivo,0,3.7,3.5,Fidelización,No
+1137,2025-12-22,12,Lunes,Sur,Yacuiba,Hogar,Ventilador,Tienda física,Mujer,48,3,361.4,0.15,921.57,861.59,59.98,Tarjeta,0,2.8,3.0,Temporada,No
+1138,2025-04-05,4,Sábado,Valle,Cochabamba,Hogar,Licuadora,Tienda física,Mujer,50,3,272.72,0.0,818.16,660.46,157.7,Tarjeta,0,2.8,3.4,Descuento,No
+1139,2025-11-18,11,Martes,Oriente,Santa Cruz,Deportes,Mochila deportiva,Tienda física,Mujer,41,9,224.87,0.1,1821.45,1115.01,706.44,Billetera móvil,0,5.0,5.0,Descuento,No
+1140,2025-07-04,7,Viernes,Occidente,La Paz,Hogar,Lámpara,Aplicación móvil,Mujer,20,3,152.82,0.15,389.69,278.49,111.2,Transferencia,3,5.0,4.7,Sin campaña,No
+1141,2025-09-23,9,Martes,Valle,Sacaba,Hogar,Ventilador,Tienda física,Mujer,36,2,398.2,0.05,756.58,476.77,279.81,Billetera móvil,0,5.0,5.0,Fidelización,No
+1142,2025-11-10,11,Lunes,Valle,Quillacollo,Papelería,Bolígrafo,Tienda física,Mujer,55,5,5.01,0.0,25.05,19.06,5.99,Transferencia,0,3.5,3.7,Sin campaña,No
+1143,2025-03-01,3,Sábado,Sur,Yacuiba,Papelería,Cuaderno,Redes sociales,Mujer,25,5,16.57,0.15,70.42,58.95,11.47,Tarjeta,1,4.0,4.4,Descuento,No
+1144,2025-06-13,6,Viernes,Valle,Cochabamba,Hogar,Ventilador,Aplicación móvil,Mujer,33,3,386.9,0.05,1102.66,693.96,408.7,Transferencia,3,3.3,3.3,Temporada,No
+1145,2025-02-17,2,Lunes,Valle,Cochabamba,Papelería,Marcadores,Aplicación móvil,Hombre,48,5,34.59,0.05,164.3,133.13,31.17,Billetera móvil,2,3.0,2.9,Temporada,No
+1146,2025-04-13,4,Domingo,Occidente,Oruro,Hogar,Lámpara,Tienda física,Hombre,40,4,144.82,0.1,521.35,373.89,147.46,Tarjeta,0,3.5,3.9,Sin campaña,No
+1147,2025-05-31,5,Sábado,Valle,Quillacollo,Papelería,Marcadores,Redes sociales,Mujer,59,6,32.43,0.05,184.85,131.23,53.62,Billetera móvil,5,4.9,5.0,Fidelización,No
+1148,2025-11-09,11,Domingo,Valle,Sacaba,Deportes,Balón,Web,Hombre,27,4,149.8,0.1,539.28,392.22,147.06,Billetera móvil,2,4.7,5.0,Sin campaña,Sí
+1149,2025-11-11,11,Martes,Valle,Quillacollo,Hogar,Licuadora,Web,Hombre,24,4,342.2,0.0,1368.8,945.53,423.27,Tarjeta,5,3.1,3.2,Sin campaña,No
+1150,2025-05-23,5,Viernes,Occidente,Oruro,Tecnología,Monitor,Tienda física,Mujer,46,3,936.81,0.05,2669.91,1910.08,759.83,Efectivo,0,3.7,3.7,Sin campaña,No
+1151,2025-05-01,5,Jueves,Oriente,Warnes,Deportes,Balón,Redes sociales,Mujer,22,6,164.9,0.2,791.52,617.52,174.0,Efectivo,4,4.5,3.4,Sin campaña,No
+1152,2025-07-13,7,Domingo,Sur,Villamontes,Hogar,Lámpara,Web,Mujer,32,4,168.79,0.0,675.16,448.73,226.43,Transferencia,3,3.5,2.8,Fidelización,No
+1153,2025-11-29,11,Sábado,Occidente,El Alto,Tecnología,Laptop,Aplicación móvil,Hombre,33,2,3693.19,0.05,7017.06,5874.03,1143.03,Efectivo,1,4.1,3.9,Descuento,No
+1154,2025-12-23,12,Martes,Valle,Sacaba,Tecnología,Teclado,Aplicación móvil,Mujer,44,5,176.52,0.1,794.34,605.27,189.07,Tarjeta,1,4.3,3.8,Sin campaña,No
+1155,2025-03-24,3,Lunes,Occidente,El Alto,Papelería,Mochila,Aplicación móvil,Mujer,40,7,209.87,0.2,1175.27,1171.49,3.78,Transferencia,3,4.3,4.7,Temporada,No
+1156,2025-03-10,3,Lunes,Oriente,Santa Cruz,Tecnología,Mouse,Aplicación móvil,Hombre,39,5,81.85,0.1,368.32,285.88,82.44,Billetera móvil,4,4.1,3.5,Descuento,Sí
+1157,2025-09-15,9,Lunes,Valle,Sacaba,Papelería,Cuaderno,Redes sociales,No especificado,30,4,19.49,0.15,66.27,59.06,7.21,Billetera móvil,1,3.5,3.3,Descuento,No
+1158,2025-04-21,4,Lunes,Oriente,Montero,Papelería,Mochila,Tienda física,Mujer,46,4,217.94,0.0,871.76,548.57,323.19,Transferencia,0,3.6,3.4,Descuento,No
+1159,2025-03-14,3,Viernes,Oriente,Montero,Tecnología,Laptop,Tienda física,Hombre,70,5,4251.17,0.05,20193.06,16226.96,3966.1,Tarjeta,0,3.1,3.6,Descuento,No
+1160,2025-01-12,1,Domingo,Oriente,Montero,Deportes,Bicicleta,Aplicación móvil,Mujer,41,3,1968.0,0.2,4723.2,3668.55,1054.65,Efectivo,4,2.7,2.4,Descuento,No
+1161,2025-05-28,5,Miércoles,Occidente,El Alto,Deportes,Mochila deportiva,Web,Hombre,35,9,230.31,0.2,1658.23,1150.98,507.25,Transferencia,3,3.9,4.1,Descuento,No
+1162,2025-05-24,5,Sábado,Sur,Yacuiba,Hogar,Ventilador,Web,Hombre,21,2,476.67,0.1,858.01,565.71,292.3,Efectivo,4,4.6,4.7,Temporada,No
+1163,2025-07-25,7,Viernes,Occidente,La Paz,Deportes,Balón,Aplicación móvil,Hombre,28,5,161.94,0.05,769.22,450.07,319.15,Transferencia,5,2.7,3.1,Sin campaña,No
+1164,2025-03-15,3,Sábado,Occidente,El Alto,Hogar,Lámpara,Web,Mujer,32,9,142.19,0.05,1215.72,1031.07,184.65,Billetera móvil,4,4.1,4.5,Descuento,No
+1165,2025-09-18,9,Jueves,Valle,Sacaba,Hogar,Licuadora,Aplicación móvil,Mujer,29,2,276.21,0.0,552.42,452.98,99.44,Tarjeta,4,4.5,4.5,Sin campaña,No
+1166,2025-09-06,9,Sábado,Valle,Quillacollo,Hogar,Ventilador,Tienda física,Hombre,34,4,363.48,0.2,1163.14,1098.88,64.26,Transferencia,0,2.5,1.7,Temporada,No
+1167,2025-06-18,6,Miércoles,Oriente,Montero,Papelería,Marcadores,Aplicación móvil,Mujer,52,7,34.94,0.15,207.89,141.66,66.23,Transferencia,7,3.5,3.4,Sin campaña,No
+1168,2025-03-08,3,Sábado,Oriente,Montero,Deportes,Mancuernas,Tienda física,No especificado,46,5,250.09,0.05,1187.93,991.25,196.68,Billetera móvil,0,5.0,5.0,Sin campaña,No
+1169,2025-07-05,7,Sábado,Valle,Cochabamba,Hogar,Cafetera,Web,Mujer,32,4,372.33,0.0,1489.32,1118.21,371.11,Tarjeta,2,4.4,4.5,Temporada,Sí
+1170,2025-09-04,9,Jueves,Sur,Tarija,Papelería,Cuaderno,Redes sociales,Hombre,22,3,18.05,0.05,51.44,34.64,16.8,Tarjeta,5,2.3,2.0,Descuento,No
+1171,2025-05-17,5,Sábado,Valle,Sacaba,Papelería,Mochila,Tienda física,Mujer,47,4,233.03,0.0,932.12,639.08,293.04,Efectivo,0,4.5,5.0,Sin campaña,No
+1172,2025-04-07,4,Lunes,Valle,Sacaba,Papelería,Cuaderno,Tienda física,Mujer,34,3,18.06,0.15,46.05,39.48,6.57,Transferencia,0,3.4,3.4,Sin campaña,No
+1173,2025-07-04,7,Viernes,Occidente,El Alto,Deportes,Mancuernas,Tienda física,Hombre,18,5,272.47,0.1,1226.12,758.14,467.98,Tarjeta,0,4.6,4.2,Descuento,No
+1174,2025-05-10,5,Sábado,Sur,Yacuiba,Hogar,Ventilador,Web,Mujer,41,2,323.5,0.0,647.0,443.46,203.54,Tarjeta,1,3.4,3.2,Temporada,No
+1175,2025-05-27,5,Martes,Occidente,Oruro,Papelería,Marcadores,Web,Hombre,44,3,33.16,0.1,89.53,74.39,15.14,Transferencia,6,3.7,4.6,Descuento,No
+1176,2025-05-08,5,Jueves,Occidente,La Paz,Hogar,Ventilador,Tienda física,Hombre,18,4,400.1,0.25,1200.3,961.55,238.75,Efectivo,0,3.6,3.9,Sin campaña,No
+1177,2025-04-21,4,Lunes,Valle,Cochabamba,Hogar,Ventilador,Redes sociales,Hombre,26,4,325.84,0.0,1303.36,873.02,430.34,Transferencia,5,3.8,4.3,Descuento,No
+1178,2025-09-19,9,Viernes,Sur,Tarija,Hogar,Ventilador,Tienda física,Hombre,33,5,414.49,0.05,1968.83,1437.83,531.0,Efectivo,0,3.5,3.0,Descuento,No
+1179,2025-06-17,6,Martes,Sur,Tarija,Papelería,Mochila,Web,No especificado,41,3,222.86,0.05,635.15,500.5,134.65,Tarjeta,4,3.7,3.4,Sin campaña,No
+1180,2025-06-20,6,Viernes,Oriente,Warnes,Deportes,Mancuernas,Web,Hombre,29,3,305.36,0.0,916.08,742.39,173.69,Efectivo,2,3.1,2.8,Temporada,No
+1181,2025-08-27,8,Miércoles,Sur,Tarija,Hogar,Lámpara,Tienda física,Mujer,26,3,146.54,0.1,395.66,342.48,53.18,Efectivo,0,4.4,4.5,Sin campaña,No
+1182,2025-05-12,5,Lunes,Sur,Yacuiba,Hogar,Lámpara,Tienda física,Hombre,41,6,147.32,0.1,795.53,634.49,161.04,Billetera móvil,0,4.1,4.0,Temporada,No
+1183,2025-02-06,2,Jueves,Valle,Cochabamba,Hogar,Lámpara,Redes sociales,Hombre,29,2,145.83,0.0,291.66,206.37,85.29,Billetera móvil,4,2.6,2.4,Fidelización,No
+1184,2025-11-08,11,Sábado,Valle,Quillacollo,Deportes,Mochila deportiva,Aplicación móvil,Mujer,39,4,245.98,0.0,983.92,701.4,282.52,Transferencia,2,4.8,4.6,Sin campaña,No
+1185,2025-01-21,1,Martes,Oriente,Warnes,Hogar,Lámpara,Tienda física,Hombre,23,4,119.63,0.15,406.74,333.62,73.12,Transferencia,0,3.9,3.5,Fidelización,No
+1186,2025-07-28,7,Lunes,Oriente,Santa Cruz,Deportes,Balón,Aplicación móvil,Mujer,20,3,140.79,0.05,401.25,239.07,162.18,Transferencia,3,4.1,4.0,Fidelización,No
+1187,2025-04-08,4,Martes,Valle,Cochabamba,Hogar,Lámpara,Web,Hombre,42,5,131.76,0.1,592.92,486.55,106.37,Billetera móvil,4,4.5,5.0,Descuento,No
+1188,2025-03-20,3,Jueves,Occidente,La Paz,Hogar,Ventilador,Tienda física,Mujer,37,2,376.05,0.1,676.89,559.12,117.77,Tarjeta,0,4.3,3.6,Descuento,No
+1189,2025-01-16,1,Jueves,Oriente,Montero,Papelería,Bolígrafo,Aplicación móvil,Hombre,43,4,5.16,0.15,17.54,14.21,3.33,Efectivo,3,4.9,5.0,Sin campaña,No
+1190,2025-11-25,11,Martes,Occidente,Oruro,Hogar,Ventilador,Web,Mujer,29,2,389.87,0.15,662.78,612.1,50.68,Transferencia,1,3.8,4.4,Sin campaña,Sí
+1191,2025-06-06,6,Viernes,Sur,Yacuiba,Tecnología,Mouse,Tienda física,Hombre,26,6,92.6,0.15,472.26,406.45,65.81,Billetera móvil,0,4.8,4.7,Fidelización,No
+1192,2025-05-06,5,Martes,Occidente,Oruro,Hogar,Ventilador,Redes sociales,Mujer,48,8,414.91,0.1,2987.35,2150.63,836.72,Tarjeta,7,3.8,3.6,Sin campaña,No
+1193,2025-09-28,9,Domingo,Occidente,El Alto,Deportes,Mochila deportiva,Tienda física,Hombre,19,1,213.95,0.05,203.25,118.81,84.44,Tarjeta,0,4.4,4.8,Sin campaña,Sí
+1194,2025-01-15,1,Miércoles,Oriente,Santa Cruz,Tecnología,Laptop,Tienda física,Hombre,47,2,4280.16,0.05,8132.3,4844.92,3287.38,Tarjeta,0,4.3,3.9,Descuento,No
+1195,2025-07-26,7,Sábado,Occidente,El Alto,Hogar,Cafetera,Tienda física,Hombre,47,2,419.48,0.05,797.01,541.12,255.89,Tarjeta,0,5.0,5.0,Sin campaña,No
+1196,2025-06-30,6,Lunes,Occidente,La Paz,Tecnología,Monitor,Aplicación móvil,Mujer,43,5,1231.18,0.05,5848.1,4153.81,1694.29,Transferencia,5,4.4,3.9,Fidelización,No
+1197,2025-07-22,7,Martes,Oriente,Warnes,Deportes,Mancuernas,Aplicación móvil,Mujer,27,2,287.21,0.0,574.42,341.81,232.61,Tarjeta,3,3.6,2.8,Temporada,Sí
+1198,2025-02-15,2,Sábado,Oriente,Santa Cruz,Deportes,Mochila deportiva,Redes sociales,Mujer,26,3,167.28,0.05,476.75,301.67,175.08,Billetera móvil,3,3.5,3.4,Temporada,No
+1199,2025-12-14,12,Domingo,Occidente,El Alto,Papelería,Cuaderno,Tienda física,Hombre,32,6,21.47,0.05,122.38,78.86,43.52,Transferencia,0,4.0,3.4,Sin campaña,Sí
+1200,2025-03-29,3,Sábado,Valle,Sacaba,Hogar,Ventilador,Aplicación móvil,Mujer,21,4,397.22,0.0,1588.88,1208.72,380.16,Efectivo,4,3.3,3.3,Descuento,No
+1201,2025-09-05,9,Viernes,Oriente,Santa Cruz,Papelería,Mochila,Web,Hombre,24,3,199.99,0.0,599.97,454.93,145.04,Transferencia,1,3.2,3.7,Temporada,No
+1202,2025-09-30,9,Martes,Sur,Yacuiba,Tecnología,Monitor,Tienda física,Mujer,40,2,1442.74,0.15,2452.66,1885.35,567.31,Transferencia,0,2.3,3.1,Descuento,No
+1203,2025-05-06,5,Martes,Valle,Sacaba,Papelería,Cuaderno,Tienda física,Hombre,40,4,17.5,0.1,63.0,41.76,21.24,Tarjeta,0,2.8,2.8,Fidelización,Sí
+1204,2025-02-17,2,Lunes,Occidente,La Paz,Deportes,Mochila deportiva,Aplicación móvil,Mujer,24,5,232.44,0.15,987.87,674.01,313.86,Tarjeta,2,5.0,5.0,Descuento,No
+1205,2025-04-19,4,Sábado,Occidente,La Paz,Papelería,Bolígrafo,Tienda física,Mujer,41,7,4.81,0.1,30.3,19.31,10.99,Billetera móvil,0,3.5,3.7,Sin campaña,No
+1206,2025-10-22,10,Miércoles,Occidente,La Paz,Papelería,Bolígrafo,Web,Mujer,39,3,5.66,0.15,14.43,11.13,3.3,Tarjeta,1,5.0,4.8,Sin campaña,No
+1207,2025-11-27,11,Jueves,Occidente,La Paz,Deportes,Mancuernas,Web,Mujer,49,3,277.65,0.15,708.01,468.36,239.65,Efectivo,2,4.3,3.4,Fidelización,No
+1208,2025-12-08,12,Lunes,Oriente,Montero,Hogar,Ventilador,Tienda física,Mujer,40,2,384.54,0.0,769.08,492.27,276.81,Tarjeta,0,4.0,4.7,Sin campaña,No
+1209,2025-03-24,3,Lunes,Occidente,La Paz,Deportes,Bicicleta,Redes sociales,Mujer,45,3,2028.16,0.25,4563.36,4926.08,-362.72,Tarjeta,6,2.6,2.1,Temporada,No
+1210,2025-08-10,8,Domingo,Valle,Quillacollo,Papelería,Bolígrafo,Aplicación móvil,Hombre,39,3,5.23,0.0,15.69,10.78,4.91,Transferencia,2,4.0,4.6,Descuento,Sí
+1211,2025-02-25,2,Martes,Oriente,Santa Cruz,Papelería,Cuaderno,Web,No especificado,44,4,17.92,0.1,64.51,55.35,9.16,Efectivo,1,5.0,5.0,Sin campaña,No
+1212,2025-09-17,9,Miércoles,Oriente,Montero,Papelería,Mochila,Aplicación móvil,Mujer,21,8,228.65,0.15,1554.82,1069.9,484.92,Transferencia,2,5.0,4.6,Fidelización,No
+1213,2025-06-01,6,Domingo,Occidente,Oruro,Tecnología,Laptop,Web,Hombre,33,2,5052.93,0.05,9600.57,6289.7,3310.87,Tarjeta,4,4.1,4.2,Descuento,No
+1214,2025-09-18,9,Jueves,Oriente,Montero,Deportes,Balón,Aplicación móvil,Mujer,34,2,164.06,0.1,295.31,264.32,30.99,Billetera móvil,4,3.0,4.0,Sin campaña,No
+1215,2025-09-08,9,Lunes,Oriente,Warnes,Tecnología,Teclado,Tienda física,Mujer,32,2,181.68,0.05,345.19,237.48,107.71,Tarjeta,0,3.2,3.9,Temporada,No
+1216,2025-12-29,12,Lunes,Oriente,Santa Cruz,Deportes,Mancuernas,Web,Mujer,38,4,283.82,0.0,1135.28,823.16,312.12,Billetera móvil,5,3.2,3.0,Fidelización,No
+1217,2025-06-28,6,Sábado,Occidente,La Paz,Papelería,Marcadores,Tienda física,Mujer,40,2,35.35,0.0,70.7,57.52,13.18,Billetera móvil,0,5.0,4.7,Descuento,No
+1218,2025-05-05,5,Lunes,Occidente,La Paz,Tecnología,Monitor,Web,Mujer,38,5,1190.08,0.0,5950.4,4157.62,1792.78,Efectivo,2,5.0,5.0,Temporada,No
+1219,2025-07-12,7,Sábado,Sur,Tarija,Deportes,Balón,Web,Hombre,32,5,156.44,0.0,782.2,494.7,287.5,Transferencia,6,3.9,3.8,Descuento,No
+1220,2025-03-01,3,Sábado,Valle,Cochabamba,Papelería,Bolígrafo,Tienda física,Hombre,27,6,4.39,0.1,23.71,18.27,5.44,Efectivo,0,3.8,4.3,Descuento,No
+1221,2025-02-10,2,Lunes,Valle,Cochabamba,Papelería,Marcadores,Redes sociales,Hombre,45,2,28.97,0.1,52.15,32.72,19.43,Transferencia,2,5.0,5.0,Sin campaña,No
+1222,2025-07-09,7,Miércoles,Valle,Quillacollo,Hogar,Lámpara,Tienda física,Hombre,37,3,134.2,0.05,382.47,233.64,148.83,Transferencia,0,3.2,2.4,Sin campaña,No
+1223,2025-10-29,10,Miércoles,Oriente,Santa Cruz,Tecnología,Teclado,Tienda física,Mujer,24,5,179.19,0.1,806.36,494.51,311.85,Tarjeta,0,4.0,4.2,Descuento,No
+1224,2025-07-14,7,Lunes,Sur,Villamontes,Papelería,Bolígrafo,Web,Hombre,32,3,5.71,0.0,17.13,13.51,3.62,Tarjeta,3,4.4,4.3,Descuento,No
+1225,2025-10-13,10,Lunes,Valle,Quillacollo,Papelería,Marcadores,Web,Mujer,18,2,33.37,0.0,66.74,48.8,17.94,Tarjeta,3,3.3,3.3,Fidelización,No
+1226,2025-03-06,3,Jueves,Sur,Villamontes,Deportes,Mochila deportiva,Tienda física,Mujer,34,8,213.22,0.15,1449.9,1075.57,374.33,Transferencia,0,3.5,3.6,Descuento,No
+1227,2025-06-14,6,Sábado,Occidente,La Paz,Papelería,Bolígrafo,Web,Mujer,32,4,4.71,0.2,15.07,11.49,3.58,Transferencia,3,3.4,3.9,Descuento,No
+1228,2025-08-12,8,Martes,Valle,Quillacollo,Tecnología,Monitor,Aplicación móvil,Mujer,28,3,1387.47,0.05,3954.29,3057.0,897.29,Efectivo,1,5.0,5.0,Temporada,No
+1229,2025-05-07,5,Miércoles,Oriente,Montero,Deportes,Mochila deportiva,Tienda física,Hombre,50,5,250.73,0.0,1253.65,1000.76,252.89,Tarjeta,0,5.0,4.7,Temporada,Sí
+1230,2025-01-06,1,Lunes,Occidente,Oruro,Tecnología,Mouse,Redes sociales,Mujer,22,3,85.19,0.15,217.23,161.21,56.02,Tarjeta,4,4.0,4.0,Sin campaña,Sí
+1231,2025-01-27,1,Lunes,Occidente,El Alto,Papelería,Cuaderno,Tienda física,Mujer,41,7,17.36,0.2,97.22,77.39,19.83,Transferencia,0,3.8,3.6,Temporada,No
+1232,2025-12-05,12,Viernes,Valle,Quillacollo,Deportes,Mochila deportiva,Aplicación móvil,Hombre,56,2,250.7,0.05,476.33,391.42,84.91,Efectivo,2,3.5,2.7,Temporada,No
+1233,2025-08-09,8,Sábado,Sur,Yacuiba,Papelería,Cuaderno,Tienda física,No especificado,45,4,16.57,0.0,66.28,52.44,13.84,Tarjeta,0,4.0,4.0,Sin campaña,No
+1234,2025-04-07,4,Lunes,Oriente,Santa Cruz,Deportes,Mancuernas,Aplicación móvil,Mujer,34,5,288.78,0.0,1443.9,1150.48,293.42,Billetera móvil,4,3.5,4.3,Sin campaña,Sí
+1235,2025-04-05,4,Sábado,Sur,Yacuiba,Tecnología,Laptop,Aplicación móvil,Hombre,23,4,4963.61,0.1,17869.0,12491.45,5377.55,Tarjeta,5,3.8,3.0,Sin campaña,No
+1236,2025-01-15,1,Miércoles,Oriente,Santa Cruz,Tecnología,Teclado,Tienda física,Hombre,20,4,182.96,0.2,585.47,426.29,159.18,Transferencia,0,4.3,4.3,Fidelización,No
+1237,2025-12-11,12,Jueves,Valle,Quillacollo,Hogar,Cafetera,Tienda física,Mujer,30,2,422.08,0.1,759.74,564.57,195.17,Tarjeta,0,3.7,3.7,Descuento,No
+1238,2025-02-09,2,Domingo,Oriente,Santa Cruz,Deportes,Bicicleta,Tienda física,Mujer,27,4,1910.73,0.05,7260.77,4813.94,2446.83,Tarjeta,0,3.8,3.9,Descuento,No
+1239,2025-10-05,10,Domingo,Occidente,La Paz,Tecnología,Monitor,Tienda física,Mujer,27,1,1203.0,0.1,1082.7,948.74,133.96,Transferencia,0,3.9,3.5,Fidelización,No
+1240,2025-03-29,3,Sábado,Occidente,El Alto,Papelería,Mochila,Redes sociales,Mujer,31,8,186.58,0.15,1268.74,835.72,433.02,Tarjeta,3,3.7,3.1,Sin campaña,No
+1241,2025-05-03,5,Sábado,Oriente,Montero,Tecnología,Monitor,Web,No especificado,33,6,1320.1,0.05,7524.57,5711.92,1812.65,Tarjeta,3,3.6,3.0,Descuento,No
+1242,2025-04-10,4,Jueves,Oriente,Santa Cruz,Hogar,Licuadora,Web,Hombre,39,3,348.62,0.15,888.98,831.11,57.87,Billetera móvil,1,4.6,5.0,Temporada,No
+1243,2025-10-28,10,Martes,Occidente,Oruro,Tecnología,Mouse,Redes sociales,No especificado,22,4,82.89,0.05,314.98,269.79,45.19,Billetera móvil,3,2.6,2.2,Temporada,No
+1244,2025-01-12,1,Domingo,Valle,Quillacollo,Hogar,Licuadora,Aplicación móvil,Hombre,27,3,310.34,0.05,884.47,675.49,208.98,Transferencia,3,5.0,4.8,Fidelización,No
+1245,2025-05-09,5,Viernes,Oriente,Warnes,Hogar,Lámpara,Aplicación móvil,Hombre,32,7,129.23,0.1,814.15,729.55,84.6,Efectivo,4,4.0,4.9,Sin campaña,No
+1246,2025-04-12,4,Sábado,Oriente,Montero,Tecnología,Teclado,Tienda física,Hombre,32,3,177.84,0.05,506.84,304.33,202.51,Efectivo,0,4.5,4.2,Sin campaña,No
+1247,2025-04-10,4,Jueves,Oriente,Montero,Deportes,Mancuernas,Tienda física,Hombre,52,3,267.4,0.25,601.65,519.03,82.62,Efectivo,0,4.6,4.8,Sin campaña,No
+1248,2025-03-12,3,Miércoles,Valle,Sacaba,Papelería,Marcadores,Tienda física,Mujer,36,4,29.41,0.1,105.88,64.98,40.9,Billetera móvil,0,3.4,3.9,Descuento,No
+1249,2025-11-30,11,Domingo,Valle,Sacaba,Papelería,Marcadores,Tienda física,Mujer,18,4,36.84,0.05,139.99,120.09,19.9,Transferencia,0,3.3,3.8,Sin campaña,No
+1250,2025-05-19,5,Lunes,Valle,Cochabamba,Hogar,Cafetera,Web,Hombre,38,4,466.79,0.05,1773.8,1482.03,291.77,Tarjeta,5,3.0,2.4,Temporada,No
+1251,2025-06-02,6,Lunes,Oriente,Santa Cruz,Papelería,Bolígrafo,Tienda física,Mujer,39,5,5.23,0.1,23.54,14.58,8.96,Billetera móvil,0,3.8,3.5,Fidelización,No
+1252,2025-05-21,5,Miércoles,Oriente,Santa Cruz,Papelería,Cuaderno,Tienda física,Mujer,33,4,19.27,0.05,73.23,42.77,30.46,Efectivo,0,4.6,4.7,Descuento,No
+1253,2025-12-24,12,Miércoles,Valle,Sacaba,Papelería,Bolígrafo,Web,Mujer,22,4,5.31,0.15,18.05,13.79,4.26,Tarjeta,2,3.5,4.4,Sin campaña,No
+1254,2025-05-04,5,Domingo,Occidente,La Paz,Hogar,Cafetera,Tienda física,Hombre,52,3,435.13,0.05,1240.12,809.09,431.03,Efectivo,0,4.5,4.2,Descuento,No
+1255,2025-05-05,5,Lunes,Occidente,La Paz,Papelería,Mochila,Tienda física,Mujer,23,1,214.58,0.05,203.85,167.09,36.76,Tarjeta,0,2.1,1.9,Descuento,No
+1256,2025-04-30,4,Miércoles,Oriente,Warnes,Deportes,Mochila deportiva,Web,Mujer,41,6,225.05,0.1,1215.27,801.17,414.1,Billetera móvil,1,3.7,3.9,Fidelización,No
+1257,2025-04-30,4,Miércoles,Oriente,Montero,Tecnología,Monitor,Web,Hombre,36,4,1293.85,0.0,5175.4,3951.29,1224.11,Billetera móvil,3,4.9,5.0,Sin campaña,Sí
+1258,2025-02-02,2,Domingo,Occidente,El Alto,Hogar,Licuadora,Aplicación móvil,Mujer,40,1,328.75,0.1,295.88,230.03,65.85,Efectivo,4,3.8,4.1,Temporada,No
+1259,2025-08-09,8,Sábado,Occidente,El Alto,Deportes,Mochila deportiva,Aplicación móvil,No especificado,51,5,222.96,0.1,1003.32,726.73,276.59,Tarjeta,4,3.3,2.9,Sin campaña,No
+1260,2025-01-10,1,Viernes,Oriente,Warnes,Tecnología,Mouse,Tienda física,Mujer,40,4,75.96,0.05,288.65,179.07,109.58,Transferencia,0,3.5,3.3,Sin campaña,No
+1261,2025-03-24,3,Lunes,Occidente,Oruro,Hogar,Cafetera,Tienda física,Mujer,28,5,455.26,0.1,2048.67,1865.15,183.52,Efectivo,0,1.6,1.7,Temporada,No
+1262,2025-03-15,3,Sábado,Oriente,Santa Cruz,Papelería,Mochila,Tienda física,Mujer,45,5,206.57,0.15,877.92,740.4,137.52,Tarjeta,0,3.2,3.8,Sin campaña,No
+1263,2025-04-17,4,Jueves,Valle,Quillacollo,Tecnología,Monitor,Tienda física,Hombre,28,7,1060.96,0.15,6312.71,4965.75,1346.96,Transferencia,0,4.8,4.7,Sin campaña,No
+1264,2025-10-04,10,Sábado,Occidente,El Alto,Hogar,Licuadora,Web,Hombre,36,8,333.0,0.05,2530.8,1732.14,798.66,Tarjeta,3,3.5,3.5,Fidelización,No
+1265,2025-08-07,8,Jueves,Sur,Villamontes,Tecnología,Mouse,Redes sociales,Mujer,21,4,91.56,0.05,347.93,290.99,56.94,Tarjeta,3,3.6,3.1,Descuento,No
+1266,2025-12-28,12,Domingo,Occidente,El Alto,Deportes,Bicicleta,Tienda física,Mujer,24,5,2224.2,0.1,10008.9,8582.32,1426.58,Efectivo,0,2.1,2.9,Sin campaña,No
+1267,2025-05-09,5,Viernes,Valle,Cochabamba,Tecnología,Teclado,Tienda física,Hombre,35,6,174.37,0.1,941.6,804.56,137.04,Billetera móvil,0,2.7,2.8,Sin campaña,No
+1268,2025-12-05,12,Viernes,Occidente,Oruro,Papelería,Bolígrafo,Aplicación móvil,Hombre,38,7,4.78,0.1,30.11,23.97,6.14,Tarjeta,3,5.0,5.0,Sin campaña,No
+1269,2025-01-17,1,Viernes,Occidente,La Paz,Tecnología,Teclado,Web,Mujer,18,9,164.02,0.1,1328.56,1165.81,162.75,Transferencia,3,4.5,4.5,Descuento,No
+1270,2025-07-04,7,Viernes,Occidente,Oruro,Papelería,Mochila,Tienda física,Mujer,39,4,213.51,0.15,725.93,538.73,187.2,Tarjeta,0,3.0,3.0,Sin campaña,Sí
+1271,2025-10-19,10,Domingo,Occidente,La Paz,Papelería,Cuaderno,Tienda física,Mujer,26,4,18.29,0.0,73.16,54.14,19.02,Transferencia,0,3.5,2.8,Fidelización,No
+1272,2025-07-14,7,Lunes,Occidente,La Paz,Papelería,Marcadores,Redes sociales,Mujer,47,4,29.92,0.1,107.71,78.89,28.82,Efectivo,4,3.9,2.9,Temporada,No
+1273,2025-12-07,12,Domingo,Occidente,El Alto,Papelería,Marcadores,Tienda física,Hombre,30,1,31.55,0.0,31.55,22.46,9.09,Efectivo,0,3.0,3.6,Sin campaña,No
+1274,2025-04-25,4,Viernes,Oriente,Warnes,Tecnología,Monitor,Web,No especificado,23,5,1052.13,0.05,4997.62,4311.11,686.51,Transferencia,3,2.4,2.4,Sin campaña,No
+1275,2025-01-13,1,Lunes,Oriente,Montero,Papelería,Bolígrafo,Aplicación móvil,No especificado,35,3,5.37,0.1,14.5,13.14,1.36,Transferencia,2,3.9,4.0,Sin campaña,No
+1276,2025-10-10,10,Viernes,Valle,Cochabamba,Deportes,Balón,Tienda física,Hombre,25,5,150.14,0.05,713.16,516.79,196.37,Tarjeta,0,4.5,3.9,Sin campaña,No
+1277,2025-01-25,1,Sábado,Valle,Cochabamba,Papelería,Marcadores,Aplicación móvil,Mujer,47,4,31.91,0.05,121.26,89.98,31.28,Tarjeta,4,4.4,4.0,Sin campaña,No
+1278,2025-10-07,10,Martes,Valle,Quillacollo,Papelería,Marcadores,Tienda física,No especificado,34,6,28.35,0.2,136.08,134.77,1.31,Billetera móvil,0,4.7,5.0,Fidelización,No
+1279,2025-09-25,9,Jueves,Oriente,Warnes,Deportes,Mancuernas,Tienda física,Mujer,32,8,266.96,0.15,1815.33,1742.97,72.36,Efectivo,0,2.8,3.6,Sin campaña,No
+1280,2025-11-05,11,Miércoles,Oriente,Santa Cruz,Hogar,Lámpara,Tienda física,Mujer,40,7,136.87,0.1,862.28,728.36,133.92,Efectivo,0,4.0,3.7,Descuento,No
+1281,2025-06-24,6,Martes,Occidente,El Alto,Tecnología,Monitor,Redes sociales,Hombre,24,3,1248.87,0.2,2997.29,2126.58,870.71,Tarjeta,3,3.8,4.1,Fidelización,No
+1282,2025-11-23,11,Domingo,Occidente,La Paz,Tecnología,Laptop,Tienda física,Mujer,21,5,4361.19,0.05,20715.65,13892.85,6822.8,Tarjeta,0,3.9,4.0,Temporada,No
+1283,2025-03-03,3,Lunes,Occidente,La Paz,Hogar,Lámpara,Tienda física,Hombre,38,4,156.12,0.15,530.81,494.63,36.18,Transferencia,0,3.8,3.7,Sin campaña,No
+1284,2025-06-08,6,Domingo,Occidente,Oruro,Papelería,Cuaderno,Redes sociales,No especificado,23,6,19.06,0.0,114.36,86.62,27.74,Transferencia,1,3.5,4.3,Sin campaña,No
+1285,2025-02-14,2,Viernes,Valle,Sacaba,Deportes,Mancuernas,Tienda física,Hombre,23,6,301.55,0.0,1809.3,1357.7,451.6,Tarjeta,0,1.6,1.4,Temporada,No
+1286,2025-10-07,10,Martes,Valle,Cochabamba,Hogar,Licuadora,Redes sociales,Hombre,42,3,357.02,0.05,1017.51,782.24,235.27,Transferencia,3,4.9,5.0,Sin campaña,Sí
+1287,2025-09-18,9,Jueves,Occidente,El Alto,Tecnología,Mouse,Aplicación móvil,Mujer,39,5,88.87,0.0,444.35,294.21,150.14,Tarjeta,1,4.3,4.5,Fidelización,No
+1288,2025-10-22,10,Miércoles,Valle,Sacaba,Deportes,Mochila deportiva,Web,Mujer,21,4,229.32,0.1,825.55,604.37,221.18,Transferencia,3,2.8,2.8,Fidelización,Sí
+1289,2025-10-06,10,Lunes,Valle,Cochabamba,Deportes,Mancuernas,Aplicación móvil,Hombre,28,2,302.6,0.0,605.2,465.04,140.16,Efectivo,3,4.4,5.0,Descuento,No
+1290,2025-04-23,4,Miércoles,Occidente,El Alto,Papelería,Marcadores,Aplicación móvil,Hombre,25,3,34.75,0.1,93.82,65.61,28.21,Tarjeta,2,3.6,3.7,Sin campaña,No
+1291,2025-01-25,1,Sábado,Oriente,Santa Cruz,Deportes,Balón,Tienda física,Hombre,52,6,168.3,0.0,1009.8,742.11,267.69,Transferencia,0,3.7,3.7,Sin campaña,No
+1292,2025-12-06,12,Sábado,Occidente,La Paz,Deportes,Bicicleta,Redes sociales,Mujer,43,4,1634.72,0.0,6538.88,4878.5,1660.38,Tarjeta,3,3.4,4.0,Descuento,No
+1293,2025-06-29,6,Domingo,Sur,Villamontes,Papelería,Bolígrafo,Redes sociales,Mujer,30,5,4.66,0.25,17.48,18.13,-0.65,Efectivo,2,4.4,5.0,Descuento,No
+1294,2025-02-04,2,Martes,Occidente,Oruro,Hogar,Ventilador,Redes sociales,Mujer,40,5,371.64,0.1,1672.38,1182.5,489.88,Tarjeta,1,3.4,3.9,Fidelización,No
+1295,2025-12-05,12,Viernes,Oriente,Santa Cruz,Papelería,Mochila,Web,Hombre,20,5,223.1,0.2,892.4,836.97,55.43,Transferencia,5,3.0,1.3,Fidelización,No
+1296,2025-12-29,12,Lunes,Sur,Villamontes,Hogar,Ventilador,Web,Hombre,27,5,379.35,0.05,1801.91,1097.75,704.16,Efectivo,3,4.9,5.0,Temporada,No
+1297,2025-06-12,6,Jueves,Sur,Yacuiba,Tecnología,Laptop,Web,No especificado,35,1,4581.99,0.0,4581.99,2690.9,1891.09,Transferencia,2,3.9,4.0,Temporada,No
+1298,2025-10-09,10,Jueves,Oriente,Warnes,Hogar,Cafetera,Tienda física,Mujer,39,3,497.35,0.1,1342.85,988.75,354.1,Transferencia,0,3.9,3.9,Fidelización,No
+1299,2025-01-14,1,Martes,Oriente,Warnes,Tecnología,Laptop,Web,Hombre,33,4,4602.92,0.1,16570.51,10400.96,6169.55,Transferencia,4,4.5,4.8,Sin campaña,No
+1300,2025-02-04,2,Martes,Oriente,Montero,Tecnología,Mouse,Web,Mujer,36,4,93.2,0.0,372.8,300.43,72.37,Tarjeta,1,3.5,3.6,Descuento,No
+1301,2025-04-11,4,Viernes,Oriente,Montero,Papelería,Cuaderno,Aplicación móvil,Mujer,35,3,16.51,0.15,42.1,39.3,2.8,Transferencia,3,3.6,3.9,Descuento,No
+1302,2025-08-28,8,Jueves,Occidente,El Alto,Papelería,Marcadores,Tienda física,Mujer,32,4,33.24,0.1,119.66,74.88,44.78,Efectivo,0,4.2,4.1,Descuento,No
+1303,2025-02-18,2,Martes,Valle,Quillacollo,Tecnología,Mouse,Web,Hombre,31,5,80.87,0.15,343.7,313.91,29.79,Billetera móvil,2,2.8,3.5,Sin campaña,No
+1304,2025-01-13,1,Lunes,Valle,Cochabamba,Papelería,Cuaderno,Web,Mujer,30,3,15.63,0.05,44.55,32.23,12.32,Transferencia,2,4.2,4.6,Descuento,Sí
+1305,2025-09-02,9,Martes,Oriente,Santa Cruz,Tecnología,Laptop,Web,Mujer,36,5,4103.41,0.1,18465.34,15172.97,3292.37,Efectivo,2,3.4,3.6,Sin campaña,No
+1306,2025-10-09,10,Jueves,Valle,Cochabamba,Hogar,Lámpara,Redes sociales,Hombre,38,6,154.84,0.0,929.04,733.45,195.59,Transferencia,3,4.7,4.9,Sin campaña,No
+1307,2025-09-27,9,Sábado,Valle,Cochabamba,Deportes,Mochila deportiva,Aplicación móvil,Hombre,36,2,238.48,0.25,357.72,336.63,21.09,Tarjeta,4,4.4,4.9,Temporada,No
+1308,2025-10-19,10,Domingo,Oriente,Santa Cruz,Hogar,Lámpara,Tienda física,Mujer,22,3,162.6,0.05,463.41,283.61,179.8,Tarjeta,0,4.3,4.8,Descuento,No
+1309,2025-10-21,10,Martes,Occidente,La Paz,Deportes,Balón,Tienda física,Mujer,24,2,162.27,0.0,324.54,178.72,145.82,Tarjeta,0,2.7,2.6,Descuento,No
+1310,2025-08-08,8,Viernes,Occidente,Oruro,Papelería,Bolígrafo,Aplicación móvil,Hombre,38,5,5.98,0.0,29.9,20.46,9.44,Transferencia,5,3.8,4.2,Descuento,No
+1311,2025-07-09,7,Miércoles,Valle,Cochabamba,Tecnología,Monitor,Web,Hombre,49,3,1267.75,0.1,3422.92,3066.53,356.39,Transferencia,1,3.1,3.2,Descuento,No
+1312,2025-11-09,11,Domingo,Valle,Quillacollo,Tecnología,Teclado,Aplicación móvil,Hombre,36,4,180.32,0.25,540.96,508.22,32.74,Billetera móvil,3,4.0,4.9,Sin campaña,No
+1313,2025-05-08,5,Jueves,Occidente,La Paz,Papelería,Cuaderno,Tienda física,Mujer,30,1,16.16,0.2,12.93,10.52,2.41,Tarjeta,0,2.1,2.6,Descuento,No
+1314,2025-02-05,2,Miércoles,Valle,Quillacollo,Deportes,Balón,Tienda física,Hombre,36,5,174.22,0.1,783.99,486.38,297.61,Transferencia,0,2.8,2.5,Sin campaña,No
+1315,2025-10-02,10,Jueves,Valle,Cochabamba,Deportes,Mancuernas,Web,Hombre,23,2,268.75,0.25,403.12,428.41,-25.29,Transferencia,4,4.9,5.0,Fidelización,No
+1316,2025-04-11,4,Viernes,Valle,Sacaba,Hogar,Lámpara,Aplicación móvil,Mujer,47,8,132.75,0.15,902.7,677.91,224.79,Transferencia,2,4.3,3.4,Sin campaña,No
+1317,2025-12-24,12,Miércoles,Valle,Cochabamba,Hogar,Licuadora,Redes sociales,Mujer,36,10,352.8,0.05,3351.6,2611.74,739.86,Tarjeta,1,3.7,4.0,Temporada,No
+1318,2025-06-01,6,Domingo,Oriente,Montero,Deportes,Mochila deportiva,Redes sociales,No especificado,27,10,251.31,0.1,2261.79,1853.27,408.52,Tarjeta,5,3.1,2.8,Fidelización,No
+1319,2025-11-07,11,Viernes,Valle,Sacaba,Deportes,Bicicleta,Web,Mujer,32,4,2017.54,0.0,8070.16,4991.78,3078.38,Transferencia,5,3.0,3.8,Descuento,No
+1320,2025-01-16,1,Jueves,Sur,Yacuiba,Tecnología,Monitor,Aplicación móvil,Hombre,29,4,1213.78,0.0,4855.12,2753.92,2101.2,Tarjeta,1,4.2,4.3,Sin campaña,No
+1321,2025-08-29,8,Viernes,Sur,Yacuiba,Deportes,Mochila deportiva,Tienda física,Hombre,47,3,229.06,0.05,652.82,449.38,203.44,Efectivo,0,3.7,3.3,Descuento,No
+1322,2025-06-13,6,Viernes,Valle,Sacaba,Deportes,Mancuernas,Web,Mujer,32,5,278.66,0.0,1393.3,885.62,507.68,Tarjeta,4,5.0,4.9,Fidelización,No
+1323,2025-06-18,6,Miércoles,Valle,Quillacollo,Tecnología,Monitor,Redes sociales,Hombre,36,3,1328.25,0.2,3187.8,2945.01,242.79,Tarjeta,3,3.9,3.6,Fidelización,No
+1324,2025-04-07,4,Lunes,Valle,Sacaba,Hogar,Licuadora,Web,Mujer,40,4,359.77,0.25,1079.31,1110.02,-30.71,Efectivo,5,3.9,3.8,Fidelización,No
+1325,2025-12-21,12,Domingo,Oriente,Montero,Papelería,Bolígrafo,Redes sociales,Hombre,27,5,5.15,0.05,24.46,15.71,8.75,Efectivo,4,2.8,2.7,Temporada,Sí
+1326,2025-05-24,5,Sábado,Oriente,Santa Cruz,Deportes,Balón,Tienda física,Hombre,36,2,185.28,0.1,333.5,256.66,76.84,Transferencia,0,3.7,3.4,Descuento,No
+1327,2025-11-07,11,Viernes,Oriente,Montero,Tecnología,Laptop,Tienda física,Hombre,37,3,4501.46,0.05,12829.16,7575.47,5253.69,Billetera móvil,0,4.1,4.2,Fidelización,Sí
+1328,2025-06-05,6,Jueves,Valle,Cochabamba,Tecnología,Laptop,Web,Mujer,18,9,4121.11,0.0,37089.99,22545.12,14544.87,Tarjeta,4,3.6,3.8,Descuento,No
+1329,2025-01-18,1,Sábado,Oriente,Santa Cruz,Deportes,Balón,Redes sociales,Hombre,37,4,170.61,0.05,648.32,515.7,132.62,Efectivo,1,3.6,3.2,Fidelización,No
+1330,2025-11-17,11,Lunes,Valle,Quillacollo,Hogar,Licuadora,Tienda física,Hombre,34,4,363.67,0.0,1454.68,1111.69,342.99,Transferencia,0,4.3,3.6,Descuento,No
+1331,2025-03-09,3,Domingo,Oriente,Santa Cruz,Papelería,Bolígrafo,Aplicación móvil,Hombre,35,5,5.8,0.05,27.55,22.03,5.52,Tarjeta,4,5.0,5.0,Fidelización,No
+1332,2025-04-09,4,Miércoles,Occidente,El Alto,Deportes,Balón,Tienda física,Hombre,34,4,175.19,0.0,700.76,412.36,288.4,Billetera móvil,0,4.1,4.3,Sin campaña,No
+1333,2025-11-11,11,Martes,Oriente,Warnes,Papelería,Cuaderno,Aplicación móvil,Mujer,37,4,18.04,0.0,72.16,50.42,21.74,Transferencia,4,4.8,5.0,Sin campaña,No
+1334,2025-11-23,11,Domingo,Oriente,Warnes,Tecnología,Monitor,Web,Hombre,47,4,1228.33,0.0,4913.32,3263.09,1650.23,Efectivo,7,4.2,4.4,Sin campaña,No
+1335,2025-12-01,12,Lunes,Occidente,La Paz,Hogar,Licuadora,Tienda física,Mujer,22,3,334.75,0.2,803.4,821.18,-17.78,Tarjeta,0,4.9,5.0,Temporada,No
+1336,2025-06-05,6,Jueves,Oriente,Santa Cruz,Tecnología,Laptop,Aplicación móvil,Mujer,31,1,4762.46,0.0,4762.46,3460.4,1302.06,Tarjeta,4,3.4,3.8,Descuento,Sí
+1337,2025-10-04,10,Sábado,Occidente,El Alto,Deportes,Balón,Aplicación móvil,Hombre,41,6,165.55,0.05,943.64,797.13,146.51,Transferencia,3,3.8,5.0,Descuento,No
+1338,2025-04-30,4,Miércoles,Oriente,Montero,Tecnología,Laptop,Web,Hombre,39,3,4352.72,0.1,11752.34,7694.45,4057.89,Efectivo,3,3.8,5.0,Descuento,No
+1339,2025-09-28,9,Domingo,Occidente,Oruro,Hogar,Ventilador,Tienda física,No especificado,39,4,381.56,0.05,1449.93,1025.23,424.7,Billetera móvil,0,4.4,3.6,Descuento,No
+1340,2025-07-03,7,Jueves,Sur,Tarija,Hogar,Lámpara,Tienda física,Mujer,62,6,136.33,0.1,736.18,620.3,115.88,Transferencia,0,4.6,3.6,Temporada,No
+1341,2025-01-19,1,Domingo,Occidente,La Paz,Tecnología,Teclado,Redes sociales,Mujer,40,4,177.67,0.0,710.68,461.46,249.22,Billetera móvil,3,4.1,4.1,Temporada,No
+1342,2025-06-02,6,Lunes,Sur,Tarija,Tecnología,Teclado,Aplicación móvil,Mujer,45,6,181.95,0.1,982.53,786.87,195.66,Billetera móvil,6,4.5,4.7,Temporada,No
+1343,2025-06-20,6,Viernes,Oriente,Warnes,Deportes,Balón,Aplicación móvil,Mujer,31,4,181.99,0.1,655.16,500.95,154.21,Efectivo,1,3.5,3.5,Temporada,No
+1344,2025-04-04,4,Viernes,Oriente,Santa Cruz,Papelería,Mochila,Aplicación móvil,Hombre,24,6,205.97,0.1,1112.24,1010.68,101.56,Tarjeta,3,4.7,5.0,Sin campaña,No
+1345,2025-05-17,5,Sábado,Oriente,Montero,Tecnología,Laptop,Aplicación móvil,Hombre,31,6,4217.68,0.1,22775.47,15106.35,7669.12,Billetera móvil,5,4.7,4.6,Sin campaña,No
+1346,2025-07-03,7,Jueves,Oriente,Santa Cruz,Hogar,Ventilador,Tienda física,Mujer,41,4,353.69,0.05,1344.02,1135.41,208.61,Tarjeta,0,4.5,4.2,Descuento,No
+1347,2025-01-19,1,Domingo,Sur,Tarija,Tecnología,Mouse,Web,Mujer,38,5,89.87,0.05,426.88,295.86,131.02,Efectivo,3,4.1,3.9,Fidelización,No
+1348,2025-02-25,2,Martes,Occidente,Oruro,Papelería,Mochila,Aplicación móvil,Mujer,38,2,232.96,0.0,465.92,315.13,150.79,Tarjeta,2,4.6,4.5,Sin campaña,No
+1349,2025-10-07,10,Martes,Oriente,Santa Cruz,Hogar,Cafetera,Tienda física,Hombre,32,1,508.48,0.1,457.63,352.24,105.39,Tarjeta,0,3.3,3.7,Fidelización,No
+1350,2025-05-09,5,Viernes,Occidente,La Paz,Papelería,Marcadores,Tienda física,Hombre,30,5,32.52,0.0,162.6,101.08,61.52,Billetera móvil,0,4.2,4.0,Sin campaña,No
+1351,2025-08-11,8,Lunes,Oriente,Warnes,Tecnología,Mouse,Web,Mujer,32,4,88.91,0.05,337.86,288.14,49.72,Tarjeta,2,4.2,4.1,Sin campaña,No
+1352,2025-07-26,7,Sábado,Occidente,El Alto,Tecnología,Teclado,Redes sociales,Mujer,41,2,177.79,0.1,320.02,283.08,36.94,Transferencia,2,2.9,3.2,Sin campaña,Sí
+1353,2025-07-21,7,Lunes,Valle,Cochabamba,Deportes,Mochila deportiva,Aplicación móvil,Mujer,42,4,239.72,0.0,958.88,779.27,179.61,Billetera móvil,3,4.4,4.3,Temporada,No
+1354,2025-05-31,5,Sábado,Valle,Sacaba,Deportes,Bicicleta,Tienda física,Mujer,24,2,1896.47,0.0,3792.94,3107.06,685.88,Tarjeta,0,3.0,3.5,Fidelización,No
+1355,2025-06-26,6,Jueves,Valle,Quillacollo,Papelería,Bolígrafo,Redes sociales,Hombre,42,7,5.02,0.1,31.63,25.68,5.95,Transferencia,2,3.7,3.3,Descuento,No
+1356,2025-10-28,10,Martes,Valle,Sacaba,Papelería,Bolígrafo,Tienda física,Hombre,27,5,5.06,0.05,24.03,17.0,7.03,Efectivo,0,4.0,3.5,Temporada,No
+1357,2025-12-19,12,Viernes,Oriente,Montero,Papelería,Marcadores,Tienda física,Mujer,39,6,33.16,0.15,169.12,155.13,13.99,Efectivo,0,3.4,3.5,Temporada,No
+1358,2025-04-04,4,Viernes,Oriente,Montero,Deportes,Mancuernas,Redes sociales,Hombre,32,3,273.41,0.2,656.18,456.4,199.78,Efectivo,2,4.1,4.3,Descuento,No
+1359,2025-09-02,9,Martes,Valle,Sacaba,Hogar,Licuadora,Aplicación móvil,Mujer,50,5,313.79,0.2,1255.16,1216.39,38.77,Tarjeta,2,4.1,3.7,Fidelización,No
+1360,2025-12-20,12,Sábado,Oriente,Santa Cruz,Hogar,Cafetera,Redes sociales,Mujer,30,9,511.47,0.05,4373.07,3149.84,1223.23,Tarjeta,3,3.3,3.9,Sin campaña,No
+1361,2025-01-03,1,Viernes,Sur,Villamontes,Tecnología,Laptop,Aplicación móvil,Hombre,36,4,5110.74,0.0,20442.96,14959.53,5483.43,Tarjeta,5,4.3,5.0,Descuento,No
+1362,2025-10-14,10,Martes,Occidente,Oruro,Hogar,Licuadora,Aplicación móvil,Mujer,40,5,289.17,0.1,1301.27,941.24,360.03,Tarjeta,3,3.4,3.1,Sin campaña,No
+1363,2025-07-01,7,Martes,Occidente,La Paz,Hogar,Cafetera,Tienda física,Mujer,25,6,404.66,0.1,2185.16,1577.03,608.13,Efectivo,0,5.0,5.0,Descuento,No
+1364,2025-12-20,12,Sábado,Occidente,Oruro,Tecnología,Monitor,Tienda física,Hombre,33,5,1154.28,0.1,5194.26,3223.69,1970.57,Transferencia,0,3.9,2.8,Descuento,No
+1365,2025-07-31,7,Jueves,Oriente,Warnes,Tecnología,Monitor,Redes sociales,Hombre,31,4,1239.67,0.05,4710.75,3294.66,1416.09,Efectivo,1,3.1,3.6,Sin campaña,No
+1366,2025-11-02,11,Domingo,Valle,Quillacollo,Deportes,Mancuernas,Redes sociales,Mujer,29,3,300.07,0.0,900.21,594.37,305.84,Transferencia,3,3.2,2.8,Descuento,No
+1367,2025-03-02,3,Domingo,Oriente,Montero,Hogar,Cafetera,Tienda física,Hombre,30,2,471.29,0.0,942.58,575.63,366.95,Billetera móvil,0,4.9,5.0,Fidelización,No
+1368,2025-02-21,2,Viernes,Oriente,Montero,Papelería,Cuaderno,Web,Mujer,45,4,18.25,0.0,73.0,45.02,27.98,Transferencia,2,3.7,3.3,Descuento,No
+1369,2025-12-05,12,Viernes,Valle,Quillacollo,Hogar,Lámpara,Tienda física,Hombre,28,3,145.92,0.0,437.76,309.81,127.95,Transferencia,0,2.9,2.9,Sin campaña,No
+1370,2025-07-12,7,Sábado,Sur,Tarija,Papelería,Cuaderno,Tienda física,Mujer,40,5,17.0,0.2,68.0,54.04,13.96,Transferencia,0,4.7,4.3,Sin campaña,Sí
+1371,2025-07-23,7,Miércoles,Oriente,Warnes,Deportes,Mochila deportiva,Redes sociales,Hombre,37,5,225.51,0.0,1127.55,872.91,254.64,Transferencia,5,3.5,3.4,Descuento,No
+1372,2025-03-04,3,Martes,Occidente,Oruro,Tecnología,Monitor,Tienda física,Mujer,20,3,1247.99,0.1,3369.57,2171.78,1197.79,Billetera móvil,0,4.5,5.0,Temporada,No
+1373,2025-03-24,3,Lunes,Valle,Quillacollo,Tecnología,Teclado,Web,Hombre,39,3,157.19,0.2,377.26,332.91,44.35,Billetera móvil,2,4.7,4.7,Temporada,No
+1374,2025-10-26,10,Domingo,Valle,Sacaba,Deportes,Mancuernas,Redes sociales,Hombre,20,3,253.99,0.05,723.87,452.01,271.86,Tarjeta,2,4.2,5.0,Sin campaña,No
+1375,2025-04-21,4,Lunes,Occidente,El Alto,Deportes,Mochila deportiva,Web,Mujer,40,3,209.36,0.1,565.27,435.02,130.25,Transferencia,2,5.0,4.8,Fidelización,No
+1376,2025-08-02,8,Sábado,Occidente,La Paz,Hogar,Ventilador,Web,Hombre,29,3,403.23,0.1,1088.72,845.8,242.92,Transferencia,4,2.5,3.2,Descuento,No
+1377,2025-04-26,4,Sábado,Sur,Villamontes,Deportes,Bicicleta,Tienda física,Mujer,34,2,1886.31,0.05,3583.99,2729.19,854.8,Efectivo,0,3.3,2.6,Temporada,No
+1378,2025-04-07,4,Lunes,Valle,Sacaba,Papelería,Mochila,Tienda física,Hombre,21,4,220.27,0.05,837.03,586.27,250.76,Tarjeta,0,3.8,3.7,Sin campaña,No
+1379,2025-03-02,3,Domingo,Valle,Cochabamba,Hogar,Lámpara,Tienda física,Mujer,35,4,119.4,0.15,405.96,328.38,77.58,Transferencia,0,5.0,4.8,Descuento,No
+1380,2025-12-06,12,Sábado,Oriente,Warnes,Tecnología,Laptop,Tienda física,Mujer,43,2,3701.52,0.15,6292.58,4433.36,1859.22,Transferencia,0,5.0,5.0,Descuento,No
+1381,2025-12-10,12,Miércoles,Valle,Sacaba,Hogar,Lámpara,Tienda física,Hombre,26,6,147.43,0.15,751.89,597.1,154.79,Tarjeta,0,5.0,5.0,Sin campaña,No
+1382,2025-02-12,2,Miércoles,Sur,Yacuiba,Papelería,Mochila,Tienda física,Mujer,28,3,163.32,0.25,367.47,318.83,48.64,Tarjeta,0,3.4,2.5,Sin campaña,No
+1383,2025-05-09,5,Viernes,Oriente,Santa Cruz,Papelería,Cuaderno,Tienda física,Hombre,39,3,19.76,0.05,56.32,43.27,13.05,Efectivo,0,3.5,2.9,Sin campaña,No
+1384,2025-07-25,7,Viernes,Valle,Quillacollo,Papelería,Bolígrafo,Tienda física,Hombre,39,4,4.27,0.15,14.52,11.4,3.12,Tarjeta,0,3.3,2.8,Descuento,No
+1385,2025-05-20,5,Martes,Valle,Sacaba,Papelería,Mochila,Redes sociales,Mujer,18,3,224.17,0.1,605.26,511.39,93.87,Billetera móvil,5,3.2,3.6,Fidelización,No
+1386,2025-09-21,9,Domingo,Sur,Villamontes,Tecnología,Laptop,Tienda física,Mujer,54,3,3901.44,0.1,10533.89,7783.58,2750.31,Billetera móvil,0,5.0,5.0,Fidelización,No
+1387,2025-04-05,4,Sábado,Oriente,Warnes,Hogar,Cafetera,Web,Hombre,39,3,487.76,0.15,1243.79,897.95,345.84,Tarjeta,5,3.6,3.5,Sin campaña,No
+1388,2025-01-22,1,Miércoles,Sur,Tarija,Tecnología,Teclado,Redes sociales,Hombre,41,2,226.2,0.15,384.54,282.25,102.29,Tarjeta,2,3.9,3.7,Temporada,No
+1389,2025-05-03,5,Sábado,Occidente,La Paz,Tecnología,Teclado,Tienda física,Mujer,33,4,147.27,0.2,471.26,331.2,140.06,Transferencia,0,4.6,4.9,Descuento,No
+1390,2025-08-07,8,Jueves,Oriente,Warnes,Papelería,Mochila,Web,Mujer,18,3,221.68,0.05,631.79,462.72,169.07,Transferencia,4,2.6,2.1,Temporada,No
+1391,2025-03-07,3,Viernes,Oriente,Montero,Papelería,Cuaderno,Aplicación móvil,Hombre,41,6,15.4,0.1,83.16,71.55,11.61,Tarjeta,2,4.0,4.2,Sin campaña,No
+1392,2025-10-25,10,Sábado,Occidente,El Alto,Tecnología,Mouse,Web,Hombre,28,6,87.9,0.0,527.4,399.59,127.81,Tarjeta,4,3.0,3.2,Temporada,No
+1393,2025-01-05,1,Domingo,Oriente,Santa Cruz,Deportes,Mochila deportiva,Tienda física,Hombre,39,3,226.2,0.1,610.74,453.44,157.3,Efectivo,0,3.8,3.7,Temporada,No
+1394,2025-01-25,1,Sábado,Oriente,Montero,Deportes,Bicicleta,Aplicación móvil,Mujer,32,5,1869.21,0.15,7944.14,5635.22,2308.92,Transferencia,2,3.5,3.7,Temporada,No
+1395,2025-07-05,7,Sábado,Occidente,Oruro,Tecnología,Laptop,Aplicación móvil,Hombre,36,5,3893.67,0.15,16548.1,15246.46,1301.64,Transferencia,3,3.5,3.5,Temporada,No
+1396,2025-07-06,7,Domingo,Valle,Cochabamba,Papelería,Bolígrafo,Web,Hombre,26,3,5.31,0.05,15.13,9.01,6.12,Tarjeta,2,4.2,4.4,Descuento,No
+1397,2025-04-18,4,Viernes,Oriente,Montero,Papelería,Bolígrafo,Tienda física,Mujer,43,8,4.42,0.1,31.82,23.26,8.56,Billetera móvil,0,4.2,3.6,Fidelización,No
+1398,2025-04-05,4,Sábado,Valle,Quillacollo,Deportes,Bicicleta,Tienda física,Mujer,22,6,2033.76,0.05,11592.43,9533.69,2058.74,Transferencia,0,3.8,4.1,Descuento,No
+1399,2025-01-26,1,Domingo,Valle,Cochabamba,Deportes,Mancuernas,Aplicación móvil,Mujer,56,4,270.83,0.0,1083.32,710.83,372.49,Billetera móvil,3,4.3,4.8,Descuento,No
+1400,2025-08-30,8,Sábado,Valle,Cochabamba,Hogar,Ventilador,Tienda física,Hombre,56,5,337.36,0.0,1686.8,981.42,705.38,Tarjeta,0,3.3,3.4,Temporada,No
+1401,2025-05-19,5,Lunes,Valle,Quillacollo,Papelería,Bolígrafo,Tienda física,Mujer,50,3,5.64,0.2,13.54,10.52,3.02,Tarjeta,0,4.5,4.8,Sin campaña,No
+1402,2025-02-13,2,Jueves,Sur,Tarija,Hogar,Ventilador,Web,Hombre,47,4,377.95,0.05,1436.21,1076.41,359.8,Billetera móvil,3,3.8,3.8,Descuento,No
+1403,2025-05-26,5,Lunes,Oriente,Montero,Papelería,Cuaderno,Redes sociales,Hombre,33,4,20.75,0.25,62.25,49.06,13.19,Billetera móvil,3,3.6,4.0,Temporada,No
+1404,2025-12-09,12,Martes,Occidente,El Alto,Tecnología,Teclado,Tienda física,Mujer,46,6,197.59,0.0,1185.54,861.69,323.85,Billetera móvil,0,3.4,3.4,Sin campaña,No
+1405,2025-04-06,4,Domingo,Sur,Villamontes,Tecnología,Monitor,Tienda física,Hombre,33,2,1170.19,0.15,1989.32,1564.08,425.24,Transferencia,0,3.8,3.3,Sin campaña,No
+1406,2025-11-23,11,Domingo,Oriente,Santa Cruz,Papelería,Cuaderno,Web,Hombre,18,4,17.88,0.1,64.37,45.79,18.58,Tarjeta,3,5.0,5.0,Sin campaña,No
+1407,2025-04-05,4,Sábado,Valle,Sacaba,Hogar,Cafetera,Aplicación móvil,Mujer,49,6,454.36,0.1,2453.54,1676.72,776.82,Efectivo,2,3.9,3.2,Fidelización,No
+1408,2025-03-09,3,Domingo,Oriente,Santa Cruz,Hogar,Ventilador,Web,Hombre,45,5,426.4,0.1,1918.8,1646.54,272.26,Tarjeta,5,2.9,3.0,Temporada,Sí
+1409,2025-04-06,4,Domingo,Occidente,Oruro,Papelería,Marcadores,Redes sociales,Hombre,34,8,33.12,0.1,238.46,174.11,64.35,Billetera móvil,3,4.7,4.5,Sin campaña,No
+1410,2025-04-28,4,Lunes,Sur,Yacuiba,Tecnología,Teclado,Tienda física,Mujer,22,5,182.54,0.2,730.16,683.97,46.19,Tarjeta,0,3.6,3.4,Descuento,No
+1411,2025-02-14,2,Viernes,Oriente,Montero,Deportes,Bicicleta,Tienda física,Hombre,28,7,1820.42,0.1,11468.65,8523.7,2944.95,Transferencia,0,4.2,4.3,Descuento,No
+1412,2025-08-03,8,Domingo,Oriente,Montero,Hogar,Ventilador,Tienda física,Hombre,18,7,378.46,0.0,2649.22,1522.78,1126.44,Billetera móvil,0,3.5,3.2,Fidelización,No
+1413,2025-05-02,5,Viernes,Occidente,La Paz,Tecnología,Teclado,Tienda física,Mujer,43,3,198.79,0.0,596.37,398.93,197.44,Billetera móvil,0,5.0,5.0,Fidelización,No
+1414,2025-09-20,9,Sábado,Sur,Villamontes,Papelería,Cuaderno,Web,No especificado,18,7,18.01,0.1,113.46,86.62,26.84,Billetera móvil,2,3.5,3.5,Temporada,No
+1415,2025-06-29,6,Domingo,Occidente,El Alto,Tecnología,Monitor,Aplicación móvil,Hombre,37,4,1210.5,0.05,4599.9,3261.66,1338.24,Tarjeta,4,5.0,4.7,Sin campaña,No
+1416,2025-06-11,6,Miércoles,Occidente,La Paz,Tecnología,Mouse,Tienda física,Hombre,26,4,81.16,0.1,292.18,250.1,42.08,Tarjeta,0,3.2,3.8,Sin campaña,No
+1417,2025-06-21,6,Sábado,Occidente,El Alto,Deportes,Balón,Aplicación móvil,Mujer,20,5,152.91,0.1,688.1,608.53,79.57,Billetera móvil,2,3.8,3.9,Descuento,No
+1418,2025-02-27,2,Jueves,Oriente,Warnes,Papelería,Bolígrafo,Tienda física,Mujer,36,3,4.44,0.05,12.65,10.16,2.49,Efectivo,0,5.0,5.0,Descuento,No
+1419,2025-09-18,9,Jueves,Occidente,Oruro,Tecnología,Mouse,Web,Mujer,31,3,79.9,0.15,203.74,169.55,34.19,Efectivo,6,3.9,4.5,Descuento,No
+1420,2025-02-08,2,Sábado,Sur,Yacuiba,Deportes,Balón,Web,Hombre,42,5,179.18,0.15,761.52,623.72,137.8,Billetera móvil,3,5.0,5.0,Sin campaña,No
+1421,2025-09-21,9,Domingo,Oriente,Santa Cruz,Deportes,Mochila deportiva,Web,Hombre,21,7,226.2,0.1,1425.06,1146.45,278.61,Transferencia,4,3.7,4.0,Sin campaña,No
+1422,2025-12-31,12,Miércoles,Occidente,El Alto,Papelería,Cuaderno,Tienda física,Hombre,26,8,19.01,0.1,136.87,95.46,41.41,Tarjeta,0,4.2,4.1,Temporada,No
+1423,2025-10-06,10,Lunes,Occidente,El Alto,Tecnología,Mouse,Redes sociales,Mujer,18,5,68.14,0.2,272.56,262.07,10.49,Efectivo,6,5.0,4.4,Sin campaña,No
+1424,2025-06-16,6,Lunes,Occidente,El Alto,Papelería,Bolígrafo,Redes sociales,Hombre,18,2,5.23,0.1,9.41,8.17,1.24,Tarjeta,1,2.8,2.9,Descuento,No
+1425,2025-04-25,4,Viernes,Oriente,Santa Cruz,Deportes,Mochila deportiva,Aplicación móvil,Hombre,52,2,227.03,0.25,340.54,282.49,58.05,Billetera móvil,4,2.6,3.1,Fidelización,Sí
+1426,2025-11-15,11,Sábado,Oriente,Montero,Papelería,Marcadores,Redes sociales,Hombre,55,6,30.77,0.0,184.62,146.54,38.08,Transferencia,2,3.4,3.6,Sin campaña,No
+1427,2025-04-04,4,Viernes,Occidente,El Alto,Hogar,Lámpara,Tienda física,Hombre,35,3,142.03,0.1,383.48,331.99,51.49,Tarjeta,0,4.7,3.1,Sin campaña,Sí
+1428,2025-06-26,6,Jueves,Oriente,Warnes,Papelería,Cuaderno,Web,Hombre,26,3,17.29,0.1,46.68,34.47,12.21,Tarjeta,3,2.7,3.1,Descuento,No
+1429,2025-10-09,10,Jueves,Occidente,El Alto,Deportes,Mochila deportiva,Tienda física,Mujer,31,5,190.92,0.05,906.87,759.32,147.55,Billetera móvil,0,4.5,4.9,Descuento,No
+1430,2025-12-03,12,Miércoles,Oriente,Montero,Tecnología,Monitor,Redes sociales,Hombre,43,4,1342.22,0.0,5368.88,3127.47,2241.41,Billetera móvil,2,4.4,4.3,Sin campaña,No
+1431,2025-12-03,12,Miércoles,Sur,Yacuiba,Papelería,Bolígrafo,Tienda física,No especificado,29,3,5.1,0.1,13.77,8.53,5.24,Tarjeta,0,5.0,5.0,Fidelización,No
+1432,2025-02-02,2,Domingo,Oriente,Santa Cruz,Papelería,Marcadores,Tienda física,Hombre,36,3,31.2,0.05,88.92,60.27,28.65,Transferencia,0,4.8,5.0,Sin campaña,No
+1433,2025-11-24,11,Lunes,Oriente,Santa Cruz,Hogar,Licuadora,Aplicación móvil,Mujer,34,4,295.27,0.2,944.86,829.91,114.95,Tarjeta,3,4.3,4.0,Sin campaña,No
+1434,2025-02-11,2,Martes,Oriente,Warnes,Deportes,Mochila deportiva,Tienda física,No especificado,28,3,202.95,0.05,578.41,392.64,185.77,Tarjeta,0,5.0,5.0,Sin campaña,No
+1435,2025-08-02,8,Sábado,Occidente,Oruro,Hogar,Lámpara,Aplicación móvil,Mujer,29,5,142.51,0.0,712.55,573.15,139.4,Efectivo,1,4.4,3.8,Sin campaña,No
+1436,2025-12-06,12,Sábado,Occidente,Oruro,Deportes,Mancuernas,Tienda física,Mujer,37,2,316.14,0.1,569.05,391.24,177.81,Tarjeta,0,3.6,3.6,Descuento,No
+1437,2025-08-28,8,Jueves,Occidente,El Alto,Papelería,Marcadores,Aplicación móvil,Mujer,24,3,32.52,0.05,92.68,61.07,31.61,Transferencia,5,2.9,2.8,Temporada,No
+1438,2025-12-12,12,Viernes,Valle,Cochabamba,Papelería,Bolígrafo,Redes sociales,Mujer,39,4,4.45,0.0,17.8,12.84,4.96,Tarjeta,3,3.5,3.1,Sin campaña,No
+1439,2025-05-06,5,Martes,Oriente,Warnes,Tecnología,Laptop,Web,Mujer,29,7,4275.64,0.1,26936.53,16492.44,10444.09,Tarjeta,4,3.9,4.0,Descuento,No
+1440,2025-04-25,4,Viernes,Oriente,Montero,Papelería,Marcadores,Tienda física,Hombre,35,2,31.86,0.1,57.35,47.56,9.79,Efectivo,0,4.1,4.7,Descuento,No
+1441,2025-04-30,4,Miércoles,Oriente,Santa Cruz,Hogar,Ventilador,Tienda física,Hombre,48,4,406.27,0.0,1625.08,1059.42,565.66,Efectivo,0,2.3,2.9,Fidelización,No
+1442,2025-05-10,5,Sábado,Occidente,Oruro,Deportes,Mochila deportiva,Tienda física,Mujer,32,4,241.16,0.1,868.18,785.21,82.97,Transferencia,0,3.8,4.1,Fidelización,No
+1443,2025-09-07,9,Domingo,Oriente,Warnes,Papelería,Mochila,Tienda física,Hombre,43,1,159.84,0.1,143.86,117.75,26.11,Efectivo,0,4.0,3.2,Sin campaña,No
+1444,2025-06-15,6,Domingo,Occidente,Oruro,Hogar,Cafetera,Web,Hombre,18,6,469.63,0.15,2395.11,1589.5,805.61,Efectivo,3,4.4,3.8,Fidelización,No
+1445,2025-09-27,9,Sábado,Occidente,La Paz,Hogar,Lámpara,Tienda física,Hombre,29,9,128.76,0.05,1100.9,666.34,434.56,Billetera móvil,0,5.0,5.0,Sin campaña,No
+1446,2025-06-01,6,Domingo,Oriente,Warnes,Hogar,Ventilador,Tienda física,Mujer,34,4,336.78,0.0,1347.12,772.98,574.14,Tarjeta,0,4.1,4.1,Fidelización,No
+1447,2025-04-23,4,Miércoles,Sur,Yacuiba,Papelería,Marcadores,Tienda física,Mujer,53,5,31.52,0.2,126.08,127.22,-1.14,Billetera móvil,0,3.3,3.1,Sin campaña,No
+1448,2025-03-11,3,Martes,Oriente,Montero,Hogar,Ventilador,Redes sociales,Hombre,18,3,392.49,0.1,1059.72,865.08,194.64,Transferencia,3,2.5,3.4,Fidelización,No
+1449,2025-07-21,7,Lunes,Occidente,Oruro,Hogar,Lámpara,Tienda física,Hombre,33,4,121.62,0.0,486.48,323.73,162.75,Transferencia,0,4.5,4.5,Descuento,No
+1450,2025-11-24,11,Lunes,Oriente,Montero,Hogar,Ventilador,Tienda física,Hombre,49,4,401.42,0.15,1364.83,970.04,394.79,Transferencia,0,3.3,3.5,Fidelización,No
+1451,2025-11-10,11,Lunes,Occidente,La Paz,Tecnología,Laptop,Web,Mujer,26,3,4456.48,0.0,13369.44,10506.81,2862.63,Efectivo,4,4.6,5.0,Sin campaña,No
+1452,2025-04-03,4,Jueves,Sur,Tarija,Hogar,Licuadora,Tienda física,Hombre,32,5,321.2,0.15,1365.1,970.7,394.4,Billetera móvil,0,5.0,5.0,Fidelización,No
+1453,2025-06-24,6,Martes,Oriente,Montero,Tecnología,Mouse,Redes sociales,Hombre,37,5,79.1,0.1,355.95,292.99,62.96,Transferencia,2,2.8,4.0,Fidelización,No
+1454,2025-09-15,9,Lunes,Occidente,Oruro,Tecnología,Teclado,Tienda física,Hombre,36,3,165.9,0.25,373.28,376.31,-3.03,Tarjeta,0,4.4,4.0,Descuento,No
+1455,2025-08-12,8,Martes,Occidente,Oruro,Deportes,Bicicleta,Aplicación móvil,Hombre,50,7,2001.84,0.25,10509.66,8821.91,1687.75,Transferencia,3,5.0,4.7,Sin campaña,No
+1456,2025-01-25,1,Sábado,Occidente,El Alto,Tecnología,Mouse,Web,Hombre,38,9,74.72,0.0,672.48,461.54,210.94,Tarjeta,3,4.8,4.4,Sin campaña,No
+1457,2025-08-04,8,Lunes,Sur,Villamontes,Deportes,Bicicleta,Aplicación móvil,Hombre,47,3,2007.54,0.15,5119.23,3675.05,1444.18,Billetera móvil,3,2.3,3.0,Sin campaña,No
+1458,2025-01-15,1,Miércoles,Valle,Quillacollo,Papelería,Mochila,Aplicación móvil,Hombre,30,6,207.22,0.05,1181.15,811.03,370.12,Transferencia,2,3.3,3.7,Fidelización,Sí
+1459,2025-02-12,2,Miércoles,Oriente,Montero,Deportes,Mancuernas,Aplicación móvil,Hombre,27,3,277.85,0.1,750.2,675.66,74.54,Efectivo,5,2.8,2.6,Descuento,No
+1460,2025-08-27,8,Miércoles,Oriente,Montero,Hogar,Cafetera,Web,Hombre,32,1,388.51,0.1,349.66,286.39,63.27,Billetera móvil,3,4.4,4.0,Fidelización,Sí
+1461,2025-02-07,2,Viernes,Valle,Quillacollo,Tecnología,Teclado,Web,Mujer,22,1,177.89,0.0,177.89,138.5,39.39,Billetera móvil,5,4.2,4.8,Fidelización,No
+1462,2025-05-04,5,Domingo,Occidente,El Alto,Papelería,Bolígrafo,Aplicación móvil,Hombre,39,4,5.25,0.0,21.0,14.62,6.38,Transferencia,3,1.8,2.0,Fidelización,No
+1463,2025-08-03,8,Domingo,Sur,Tarija,Papelería,Mochila,Web,Hombre,30,7,187.55,0.0,1312.85,806.8,506.05,Efectivo,4,3.7,4.3,Fidelización,No
+1464,2025-08-28,8,Jueves,Valle,Quillacollo,Deportes,Mochila deportiva,Web,Mujer,27,3,239.17,0.0,717.51,532.74,184.77,Transferencia,4,4.6,4.6,Descuento,No
+1465,2025-06-12,6,Jueves,Valle,Sacaba,Tecnología,Teclado,Tienda física,Mujer,39,2,181.28,0.0,362.56,248.41,114.15,Transferencia,0,4.1,4.3,Descuento,No
+1466,2025-02-04,2,Martes,Oriente,Montero,Tecnología,Mouse,Tienda física,Hombre,23,7,80.62,0.2,451.47,337.33,114.14,Tarjeta,0,4.1,4.2,Sin campaña,No
+1467,2025-10-19,10,Domingo,Oriente,Warnes,Hogar,Ventilador,Tienda física,Hombre,42,5,405.98,0.1,1826.91,1342.49,484.42,Billetera móvil,0,3.7,3.4,Temporada,No
+1468,2025-12-13,12,Sábado,Sur,Villamontes,Tecnología,Laptop,Tienda física,Mujer,29,4,3460.04,0.15,11764.14,9984.39,1779.75,Transferencia,0,3.2,3.1,Temporada,No
+1469,2025-11-21,11,Viernes,Occidente,La Paz,Papelería,Bolígrafo,Web,Mujer,46,2,5.14,0.15,8.74,7.69,1.05,Billetera móvil,5,3.8,3.3,Descuento,No
+1470,2025-10-01,10,Miércoles,Valle,Sacaba,Tecnología,Laptop,Tienda física,Mujer,30,4,4744.13,0.15,16130.04,11683.27,4446.77,Transferencia,0,4.0,4.2,Temporada,No
+1471,2025-05-27,5,Martes,Valle,Cochabamba,Hogar,Licuadora,Web,No especificado,40,4,356.86,0.05,1356.07,1122.71,233.36,Tarjeta,4,4.4,4.7,Temporada,No
+1472,2025-11-16,11,Domingo,Valle,Sacaba,Papelería,Cuaderno,Aplicación móvil,Hombre,36,3,18.56,0.15,47.33,36.33,11.0,Billetera móvil,3,4.6,5.0,Descuento,No
+1473,2025-06-28,6,Sábado,Occidente,El Alto,Papelería,Marcadores,Web,Hombre,41,5,31.23,0.15,132.73,97.31,35.42,Transferencia,4,4.0,4.3,Fidelización,No
+1474,2025-02-19,2,Miércoles,Occidente,El Alto,Tecnología,Laptop,Aplicación móvil,Mujer,35,5,3986.37,0.15,16942.07,12012.58,4929.49,Tarjeta,4,4.8,4.7,Fidelización,No
+1475,2025-11-07,11,Viernes,Occidente,Oruro,Hogar,Ventilador,Tienda física,Hombre,18,4,370.79,0.2,1186.53,1137.77,48.76,Tarjeta,0,3.7,4.4,Sin campaña,No
+1476,2025-04-27,4,Domingo,Valle,Sacaba,Deportes,Mancuernas,Tienda física,Hombre,44,6,292.18,0.1,1577.77,1131.83,445.94,Efectivo,0,2.8,3.2,Sin campaña,No
+1477,2025-12-09,12,Martes,Valle,Sacaba,Deportes,Mancuernas,Aplicación móvil,No especificado,33,5,261.92,0.1,1178.64,891.21,287.43,Transferencia,3,4.4,5.0,Descuento,No
+1478,2025-05-15,5,Jueves,Oriente,Montero,Papelería,Mochila,Aplicación móvil,Mujer,42,4,222.72,0.2,712.7,543.58,169.12,Tarjeta,3,4.1,4.8,Fidelización,No
+1479,2025-11-14,11,Viernes,Oriente,Santa Cruz,Papelería,Marcadores,Aplicación móvil,Mujer,41,3,37.46,0.05,106.76,82.63,24.13,Billetera móvil,5,4.2,4.1,Sin campaña,No
+1480,2025-07-16,7,Miércoles,Valle,Cochabamba,Papelería,Marcadores,Aplicación móvil,Hombre,26,3,31.84,0.15,81.19,72.68,8.51,Billetera móvil,2,3.0,3.2,Fidelización,No
+1481,2025-06-20,6,Viernes,Valle,Quillacollo,Tecnología,Teclado,Aplicación móvil,Mujer,25,1,160.64,0.0,160.64,103.07,57.57,Transferencia,1,5.0,5.0,Fidelización,No
+1482,2025-04-19,4,Sábado,Occidente,La Paz,Tecnología,Laptop,Aplicación móvil,Hombre,41,3,3748.17,0.0,11244.51,9053.76,2190.75,Tarjeta,4,4.5,4.0,Fidelización,No
+1483,2025-11-02,11,Domingo,Oriente,Santa Cruz,Deportes,Balón,Aplicación móvil,Hombre,31,4,169.94,0.1,611.78,379.49,232.29,Transferencia,1,3.8,3.3,Sin campaña,No
+1484,2025-01-23,1,Jueves,Valle,Quillacollo,Tecnología,Teclado,Aplicación móvil,Mujer,43,2,179.14,0.0,358.28,209.91,148.37,Efectivo,1,3.3,2.7,Descuento,No
+1485,2025-06-21,6,Sábado,Occidente,La Paz,Hogar,Lámpara,Tienda física,Mujer,32,2,149.82,0.25,224.73,212.44,12.29,Transferencia,0,4.9,4.9,Sin campaña,No
+1486,2025-05-15,5,Jueves,Valle,Sacaba,Tecnología,Laptop,Tienda física,Hombre,44,6,4020.7,0.0,24124.2,17836.95,6287.25,Tarjeta,0,3.1,3.0,Sin campaña,No
+1487,2025-07-18,7,Viernes,Valle,Quillacollo,Papelería,Cuaderno,Web,Hombre,38,4,19.2,0.1,69.12,47.44,21.68,Billetera móvil,4,5.0,4.4,Sin campaña,No
+1488,2025-04-03,4,Jueves,Occidente,El Alto,Tecnología,Monitor,Web,Hombre,37,2,1234.17,0.0,2468.34,1726.85,741.49,Tarjeta,3,3.5,3.6,Sin campaña,No
+1489,2025-08-31,8,Domingo,Valle,Cochabamba,Tecnología,Monitor,Aplicación móvil,Mujer,30,4,1176.75,0.25,3530.25,2993.48,536.77,Tarjeta,1,5.0,5.0,Sin campaña,No
+1490,2025-05-21,5,Miércoles,Valle,Cochabamba,Tecnología,Laptop,Tienda física,Hombre,36,4,4065.26,0.05,15447.99,11376.29,4071.7,Billetera móvil,0,3.9,4.4,Descuento,No
+1491,2025-03-10,3,Lunes,Oriente,Warnes,Tecnología,Mouse,Tienda física,Mujer,46,7,76.86,0.0,538.02,391.69,146.33,Tarjeta,0,5.0,5.0,Descuento,No
+1492,2025-03-13,3,Jueves,Oriente,Santa Cruz,Deportes,Bicicleta,Aplicación móvil,Hombre,33,2,2144.43,0.0,4288.86,3485.38,803.48,Billetera móvil,1,3.4,3.6,Sin campaña,No
+1493,2025-09-12,9,Viernes,Oriente,Warnes,Hogar,Licuadora,Tienda física,Hombre,39,6,317.53,0.1,1714.66,1282.26,432.4,Billetera móvil,0,4.0,3.7,Temporada,Sí
+1494,2025-04-06,4,Domingo,Valle,Cochabamba,Papelería,Bolígrafo,Aplicación móvil,Mujer,34,2,5.26,0.25,7.89,7.63,0.26,Tarjeta,3,4.6,4.9,Descuento,No
+1495,2025-04-23,4,Miércoles,Oriente,Santa Cruz,Hogar,Cafetera,Tienda física,Hombre,35,5,430.67,0.25,1615.01,1520.42,94.59,Tarjeta,0,4.5,4.5,Temporada,No
+1496,2025-08-17,8,Domingo,Valle,Quillacollo,Deportes,Bicicleta,Tienda física,Hombre,51,2,1694.31,0.05,3219.19,2154.28,1064.91,Tarjeta,0,4.9,4.8,Fidelización,No
+1497,2025-05-01,5,Jueves,Valle,Quillacollo,Deportes,Mancuernas,Web,Mujer,46,5,274.76,0.05,1305.11,849.46,455.65,Billetera móvil,4,3.5,3.1,Sin campaña,No
+1498,2025-05-22,5,Jueves,Oriente,Warnes,Deportes,Mancuernas,Tienda física,Hombre,35,7,304.67,0.0,2132.69,1741.82,390.87,Billetera móvil,0,4.1,3.9,Temporada,No
+1499,2025-03-31,3,Lunes,Valle,Quillacollo,Papelería,Bolígrafo,Tienda física,Hombre,36,3,4.79,0.1,12.93,8.71,4.22,Tarjeta,0,5.0,4.9,Temporada,No
+1500,2025-05-07,5,Miércoles,Valle,Cochabamba,Tecnología,Monitor,Tienda física,Hombre,27,5,1162.95,0.1,5233.28,4438.83,794.45,Transferencia,0,3.4,3.8,Fidelización,No
+1501,2025-09-10,9,Miércoles,Oriente,Warnes,Deportes,Balón,Tienda física,Mujer,32,4,161.99,0.0,647.96,382.02,265.94,Tarjeta,0,4.5,4.7,Descuento,No
+1502,2025-07-14,7,Lunes,Sur,Villamontes,Papelería,Cuaderno,Tienda física,Hombre,37,3,18.72,0.1,50.54,43.08,7.46,Transferencia,0,3.8,4.6,Descuento,No
+1503,2025-12-31,12,Miércoles,Sur,Tarija,Papelería,Cuaderno,Aplicación móvil,Mujer,43,4,20.37,0.2,65.18,48.9,16.28,Transferencia,4,4.1,4.4,Descuento,No
+1504,2025-10-09,10,Jueves,Valle,Cochabamba,Deportes,Mochila deportiva,Tienda física,Hombre,41,3,236.51,0.0,709.53,575.52,134.01,Billetera móvil,0,4.1,4.3,Fidelización,Sí
+1505,2025-01-07,1,Martes,Valle,Quillacollo,Deportes,Mochila deportiva,Web,Hombre,23,6,241.85,0.0,1451.1,1066.87,384.23,Tarjeta,4,3.3,3.2,Descuento,No
+1506,2025-05-19,5,Lunes,Oriente,Santa Cruz,Papelería,Marcadores,Tienda física,Mujer,44,2,33.84,0.0,67.68,38.87,28.81,Tarjeta,0,3.8,3.3,Sin campaña,Sí
+1507,2025-04-16,4,Miércoles,Valle,Quillacollo,Deportes,Balón,Redes sociales,Mujer,33,4,145.24,0.0,580.96,428.26,152.7,Tarjeta,3,4.1,3.8,Sin campaña,No
+1508,2025-08-03,8,Domingo,Oriente,Santa Cruz,Papelería,Mochila,Aplicación móvil,Hombre,24,2,193.82,0.0,387.64,276.38,111.26,Efectivo,2,3.9,3.6,Sin campaña,No
+1509,2025-04-07,4,Lunes,Valle,Cochabamba,Tecnología,Mouse,Redes sociales,Mujer,47,7,77.63,0.1,489.07,348.4,140.67,Tarjeta,4,5.0,3.8,Sin campaña,No
+1510,2025-12-19,12,Viernes,Occidente,La Paz,Hogar,Lámpara,Redes sociales,Hombre,49,6,125.08,0.0,750.48,465.6,284.88,Billetera móvil,1,4.8,4.3,Descuento,No
+1511,2025-04-20,4,Domingo,Occidente,La Paz,Tecnología,Mouse,Tienda física,Hombre,37,4,90.41,0.15,307.39,269.08,38.31,Tarjeta,0,4.2,4.9,Temporada,No
+1512,2025-07-10,7,Jueves,Oriente,Warnes,Tecnología,Monitor,Aplicación móvil,Hombre,41,2,1279.01,0.2,2046.42,1918.94,127.48,Tarjeta,4,3.3,3.5,Sin campaña,No
+1513,2025-02-14,2,Viernes,Occidente,Oruro,Hogar,Lámpara,Tienda física,Mujer,42,1,140.89,0.2,112.71,89.94,22.77,Transferencia,0,3.3,3.1,Sin campaña,No
+1514,2025-11-29,11,Sábado,Valle,Quillacollo,Tecnología,Laptop,Redes sociales,Mujer,48,6,3328.85,0.1,17975.79,15710.47,2265.32,Efectivo,2,5.0,5.0,Sin campaña,No
+1515,2025-11-29,11,Sábado,Valle,Quillacollo,Hogar,Ventilador,Web,Mujer,41,3,442.49,0.0,1327.47,826.46,501.01,Tarjeta,5,3.0,2.1,Descuento,No
+1516,2025-10-17,10,Viernes,Occidente,La Paz,Hogar,Cafetera,Web,Hombre,21,2,417.81,0.0,835.62,475.35,360.27,Billetera móvil,5,3.9,4.0,Descuento,No
+1517,2025-05-09,5,Viernes,Valle,Quillacollo,Deportes,Mancuernas,Redes sociales,No especificado,54,6,325.96,0.0,1955.76,1392.43,563.33,Efectivo,4,4.2,4.8,Descuento,No
+1518,2025-01-22,1,Miércoles,Oriente,Montero,Papelería,Bolígrafo,Aplicación móvil,Hombre,45,5,4.42,0.25,16.58,12.79,3.79,Tarjeta,4,3.7,3.6,Temporada,No
+1519,2025-09-17,9,Miércoles,Occidente,El Alto,Papelería,Marcadores,Redes sociales,Mujer,29,4,29.92,0.25,89.76,74.76,15.0,Transferencia,3,3.2,2.4,Temporada,No
+1520,2025-06-06,6,Viernes,Oriente,Warnes,Hogar,Cafetera,Tienda física,Mujer,24,5,370.7,0.05,1760.82,1273.24,487.58,Efectivo,0,3.4,3.2,Temporada,No
+1521,2025-12-28,12,Domingo,Oriente,Warnes,Hogar,Ventilador,Tienda física,Mujer,39,5,391.01,0.05,1857.3,1226.44,630.86,Tarjeta,0,3.6,4.2,Temporada,Sí
+1522,2025-09-12,9,Viernes,Valle,Quillacollo,Papelería,Marcadores,Tienda física,No especificado,31,2,29.18,0.1,52.52,35.49,17.03,Efectivo,0,3.4,3.5,Descuento,No
+1523,2025-07-16,7,Miércoles,Occidente,El Alto,Tecnología,Monitor,Web,Mujer,37,11,1142.7,0.0,12569.7,9299.82,3269.88,Tarjeta,2,5.0,4.4,Descuento,No
+1524,2025-12-27,12,Sábado,Oriente,Montero,Deportes,Mochila deportiva,Web,Mujer,41,4,204.75,0.25,614.25,571.41,42.84,Billetera móvil,3,4.0,5.0,Descuento,No
+1525,2025-10-20,10,Lunes,Occidente,Oruro,Hogar,Licuadora,Tienda física,Hombre,28,4,339.9,0.0,1359.6,1056.05,303.55,Tarjeta,0,3.6,3.0,Fidelización,No
+1526,2025-06-17,6,Martes,Valle,Cochabamba,Tecnología,Monitor,Aplicación móvil,Hombre,23,7,1321.15,0.05,8785.65,6537.77,2247.88,Tarjeta,5,3.9,3.8,Sin campaña,Sí
+1527,2025-01-07,1,Martes,Sur,Tarija,Deportes,Balón,Tienda física,Mujer,38,3,183.19,0.05,522.09,374.0,148.09,Tarjeta,0,4.5,4.0,Sin campaña,No
+1528,2025-02-03,2,Lunes,Sur,Yacuiba,Hogar,Ventilador,Aplicación móvil,Hombre,29,6,359.15,0.0,2154.9,1337.2,817.7,Billetera móvil,6,3.5,3.0,Sin campaña,No
+1529,2025-06-11,6,Miércoles,Oriente,Santa Cruz,Tecnología,Mouse,Aplicación móvil,Mujer,35,2,86.49,0.05,164.33,132.13,32.2,Efectivo,2,4.7,4.5,Descuento,No
+1530,2025-07-25,7,Viernes,Valle,Cochabamba,Deportes,Bicicleta,Web,Mujer,21,4,1659.18,0.15,5641.21,4002.97,1638.24,Billetera móvil,1,3.0,3.3,Fidelización,No
+1531,2025-01-12,1,Domingo,Oriente,Warnes,Tecnología,Teclado,Tienda física,Mujer,31,5,175.18,0.0,875.9,539.03,336.87,Tarjeta,0,4.9,5.0,Sin campaña,No
+1532,2025-02-16,2,Domingo,Oriente,Warnes,Deportes,Mochila deportiva,Tienda física,Mujer,41,4,220.45,0.1,793.62,685.36,108.26,Billetera móvil,0,4.0,3.8,Descuento,Sí
+1533,2025-09-15,9,Lunes,Valle,Sacaba,Tecnología,Mouse,Tienda física,No especificado,40,3,88.16,0.05,251.26,198.39,52.87,Tarjeta,0,4.0,3.5,Descuento,No
+1534,2025-10-02,10,Jueves,Oriente,Montero,Hogar,Lámpara,Aplicación móvil,Hombre,26,3,151.39,0.0,454.17,324.95,129.22,Efectivo,1,3.4,3.6,Fidelización,No
+1535,2025-01-11,1,Sábado,Occidente,El Alto,Papelería,Bolígrafo,Web,Hombre,22,4,5.4,0.0,21.6,12.11,9.49,Tarjeta,2,3.0,3.2,Sin campaña,No
+1536,2025-07-05,7,Sábado,Occidente,Oruro,Tecnología,Laptop,Tienda física,Mujer,34,2,3916.82,0.0,7833.64,4577.66,3255.98,Efectivo,0,2.7,2.8,Sin campaña,No
+1537,2025-01-30,1,Jueves,Valle,Sacaba,Papelería,Bolígrafo,Redes sociales,Hombre,40,2,5.4,0.0,10.8,7.4,3.4,Transferencia,3,3.4,3.5,Descuento,No
+1538,2025-09-22,9,Lunes,Occidente,La Paz,Deportes,Bicicleta,Aplicación móvil,No especificado,38,5,1843.48,0.05,8756.53,6926.98,1829.55,Transferencia,3,4.5,4.4,Descuento,No
+1539,2025-11-01,11,Sábado,Occidente,El Alto,Papelería,Marcadores,Aplicación móvil,Mujer,29,4,31.17,0.15,105.98,84.2,21.78,Transferencia,3,3.2,3.2,Temporada,No
+1540,2025-11-14,11,Viernes,Oriente,Montero,Tecnología,Monitor,Web,No especificado,37,4,1179.15,0.1,4244.94,2616.15,1628.79,Efectivo,5,2.6,2.5,Descuento,Sí
+1541,2025-08-07,8,Jueves,Sur,Villamontes,Deportes,Balón,Redes sociales,Hombre,49,3,152.83,0.2,366.79,274.98,91.81,Transferencia,4,3.2,3.7,Temporada,No
+1542,2025-08-18,8,Lunes,Valle,Quillacollo,Papelería,Bolígrafo,Tienda física,Hombre,36,4,5.7,0.05,21.66,16.16,5.5,Tarjeta,0,3.7,4.7,Sin campaña,No
+1543,2025-12-05,12,Viernes,Oriente,Warnes,Papelería,Mochila,Tienda física,Mujer,18,6,215.16,0.1,1161.86,952.0,209.86,Billetera móvil,0,3.7,3.8,Descuento,No
+1544,2025-08-12,8,Martes,Sur,Yacuiba,Tecnología,Mouse,Redes sociales,Hombre,36,3,86.19,0.1,232.71,144.55,88.16,Transferencia,3,3.9,3.9,Temporada,No
+1545,2025-06-12,6,Jueves,Occidente,El Alto,Papelería,Cuaderno,Redes sociales,Hombre,54,3,17.62,0.0,52.86,29.69,23.17,Transferencia,3,4.8,4.9,Sin campaña,No
+1546,2025-10-03,10,Viernes,Valle,Sacaba,Tecnología,Monitor,Web,Hombre,21,2,1494.6,0.05,2839.74,1854.96,984.78,Billetera móvil,3,5.0,4.7,Fidelización,No
+1547,2025-08-04,8,Lunes,Valle,Cochabamba,Deportes,Mancuernas,Tienda física,Hombre,34,4,309.23,0.1,1113.23,708.19,405.04,Transferencia,0,5.0,5.0,Sin campaña,No
+1548,2025-11-04,11,Martes,Occidente,Oruro,Hogar,Lámpara,Tienda física,Mujer,32,6,131.92,0.15,672.79,551.16,121.63,Tarjeta,0,2.7,2.9,Descuento,No
+1549,2025-07-11,7,Viernes,Oriente,Warnes,Deportes,Mochila deportiva,Aplicación móvil,Hombre,35,7,224.97,0.05,1496.05,918.73,577.32,Efectivo,3,3.3,3.1,Sin campaña,No
+1550,2025-11-14,11,Viernes,Valle,Quillacollo,Deportes,Mochila deportiva,Aplicación móvil,Hombre,36,7,226.06,0.0,1582.42,1147.28,435.14,Transferencia,5,4.4,4.8,Descuento,No
+1551,2025-01-17,1,Viernes,Valle,Cochabamba,Tecnología,Teclado,Tienda física,Hombre,45,3,182.1,0.25,409.72,415.11,-5.39,Tarjeta,0,3.6,3.6,Fidelización,No
+1552,2025-01-14,1,Martes,Occidente,La Paz,Deportes,Mochila deportiva,Tienda física,Mujer,35,2,217.1,0.0,434.2,352.59,81.61,Efectivo,0,4.7,4.3,Sin campaña,No
+1553,2025-02-06,2,Jueves,Occidente,Oruro,Papelería,Mochila,Aplicación móvil,Mujer,47,3,217.37,0.2,521.69,525.65,-3.96,Transferencia,3,4.2,4.4,Sin campaña,No
+1554,2025-07-23,7,Miércoles,Sur,Yacuiba,Hogar,Cafetera,Aplicación móvil,Mujer,33,6,502.28,0.15,2561.63,1879.96,681.67,Efectivo,2,5.0,5.0,Sin campaña,No
+1555,2025-09-16,9,Martes,Occidente,Oruro,Hogar,Licuadora,Web,Mujer,30,4,286.37,0.15,973.66,639.11,334.55,Transferencia,1,4.8,5.0,Sin campaña,No
+1556,2025-03-20,3,Jueves,Occidente,El Alto,Papelería,Bolígrafo,Web,No especificado,27,4,4.55,0.15,15.47,11.63,3.84,Efectivo,3,4.8,5.0,Descuento,No
+1557,2025-02-26,2,Miércoles,Valle,Sacaba,Tecnología,Teclado,Redes sociales,Mujer,18,2,173.04,0.0,346.08,256.55,89.53,Tarjeta,5,3.5,3.5,Temporada,No
+1558,2025-11-11,11,Martes,Valle,Sacaba,Hogar,Ventilador,Tienda física,Hombre,37,5,366.72,0.1,1650.24,1038.09,612.15,Billetera móvil,0,3.9,3.7,Sin campaña,No
+1559,2025-10-01,10,Miércoles,Oriente,Warnes,Deportes,Balón,Web,Hombre,55,6,185.58,0.15,946.46,720.56,225.9,Efectivo,3,3.8,3.8,Descuento,No
+1560,2025-08-25,8,Lunes,Valle,Sacaba,Hogar,Ventilador,Web,Hombre,39,2,410.45,0.15,697.76,517.55,180.21,Transferencia,1,2.8,3.0,Descuento,No
+1561,2025-06-28,6,Sábado,Occidente,Oruro,Papelería,Cuaderno,Web,Mujer,41,3,19.36,0.0,58.08,35.38,22.7,Transferencia,4,5.0,5.0,Sin campaña,No
+1562,2025-06-03,6,Martes,Occidente,La Paz,Hogar,Ventilador,Redes sociales,Hombre,30,3,371.96,0.0,1115.88,826.48,289.4,Billetera móvil,3,4.6,4.7,Sin campaña,No
+1563,2025-01-08,1,Miércoles,Oriente,Montero,Papelería,Marcadores,Web,Hombre,32,1,31.27,0.05,29.71,22.76,6.95,Efectivo,2,3.7,3.7,Fidelización,No
+1564,2025-03-10,3,Lunes,Oriente,Warnes,Tecnología,Teclado,Web,Hombre,44,4,159.1,0.05,604.58,442.03,162.55,Transferencia,3,5.0,5.0,Descuento,Sí
+1565,2025-11-24,11,Lunes,Oriente,Warnes,Deportes,Mancuernas,Tienda física,Mujer,54,3,297.51,0.1,803.28,710.37,92.91,Tarjeta,0,3.5,3.2,Temporada,No
+1566,2025-05-04,5,Domingo,Oriente,Warnes,Deportes,Mancuernas,Aplicación móvil,Hombre,49,6,291.0,0.15,1484.1,1008.92,475.18,Tarjeta,2,2.5,3.6,Descuento,No
+1567,2025-09-15,9,Lunes,Oriente,Santa Cruz,Tecnología,Teclado,Tienda física,Mujer,42,7,198.52,0.15,1181.19,820.47,360.72,Tarjeta,0,4.8,5.0,Descuento,Sí
+1568,2025-09-14,9,Domingo,Occidente,Oruro,Tecnología,Teclado,Tienda física,Hombre,34,5,176.96,0.1,796.32,578.24,218.08,Tarjeta,0,3.0,2.5,Temporada,No
+1569,2025-04-23,4,Miércoles,Valle,Quillacollo,Deportes,Mochila deportiva,Web,Mujer,36,2,227.39,0.0,454.78,330.67,124.11,Tarjeta,3,3.8,3.9,Temporada,No
+1570,2025-03-16,3,Domingo,Valle,Quillacollo,Deportes,Mancuernas,Web,Mujer,26,2,283.81,0.05,539.24,401.71,137.53,Efectivo,2,4.2,4.5,Temporada,No
+1571,2025-09-10,9,Miércoles,Valle,Cochabamba,Deportes,Mancuernas,Redes sociales,Hombre,20,2,299.98,0.05,569.96,341.97,227.99,Tarjeta,3,4.3,4.1,Sin campaña,No
+1572,2025-02-04,2,Martes,Oriente,Warnes,Tecnología,Mouse,Aplicación móvil,Mujer,23,2,75.0,0.0,150.0,121.32,28.68,Transferencia,4,4.6,3.9,Temporada,No
+1573,2025-06-30,6,Lunes,Valle,Quillacollo,Deportes,Bicicleta,Aplicación móvil,Hombre,34,8,1958.94,0.0,15671.52,9910.16,5761.36,Tarjeta,1,4.5,4.0,Temporada,No
+1574,2025-11-21,11,Viernes,Oriente,Warnes,Papelería,Cuaderno,Tienda física,Hombre,31,4,17.97,0.05,68.29,46.5,21.79,Efectivo,0,4.4,4.6,Fidelización,No
+1575,2025-09-17,9,Miércoles,Oriente,Santa Cruz,Tecnología,Mouse,Web,Mujer,19,1,77.8,0.0,77.8,55.89,21.91,Tarjeta,2,3.4,2.6,Fidelización,No
+1576,2025-10-06,10,Lunes,Valle,Quillacollo,Hogar,Licuadora,Redes sociales,Mujer,34,4,266.63,0.1,959.87,858.76,101.11,Tarjeta,4,4.2,3.5,Temporada,Sí
+1577,2025-01-31,1,Viernes,Sur,Tarija,Hogar,Ventilador,Web,Mujer,31,5,375.85,0.0,1879.25,1369.83,509.42,Transferencia,2,2.8,3.0,Descuento,No
+1578,2025-03-14,3,Viernes,Oriente,Montero,Papelería,Mochila,Aplicación móvil,Hombre,22,2,234.32,0.0,468.64,378.56,90.08,Billetera móvil,2,5.0,4.9,Fidelización,No
+1579,2025-04-11,4,Viernes,Oriente,Montero,Hogar,Lámpara,Web,Hombre,30,6,158.76,0.0,952.56,572.15,380.41,Tarjeta,5,2.7,2.4,Fidelización,No
+1580,2025-04-17,4,Jueves,Valle,Sacaba,Hogar,Cafetera,Tienda física,Mujer,31,7,462.79,0.1,2915.58,2323.0,592.58,Transferencia,0,3.7,3.5,Fidelización,Sí
+1581,2025-03-12,3,Miércoles,Valle,Quillacollo,Deportes,Balón,Web,Hombre,28,4,185.11,0.1,666.4,572.95,93.45,Efectivo,4,2.9,2.2,Fidelización,No
+1582,2025-12-21,12,Domingo,Valle,Cochabamba,Tecnología,Laptop,Tienda física,Mujer,43,5,4185.57,0.05,19881.46,14386.57,5494.89,Billetera móvil,0,3.4,3.6,Sin campaña,No
+1583,2025-03-02,3,Domingo,Occidente,El Alto,Papelería,Cuaderno,Tienda física,Hombre,18,3,19.37,0.0,58.11,37.64,20.47,Tarjeta,0,4.0,3.6,Sin campaña,No
+1584,2025-09-16,9,Martes,Valle,Sacaba,Papelería,Mochila,Tienda física,Hombre,18,7,202.42,0.2,1133.55,1156.06,-22.51,Tarjeta,0,3.6,3.4,Descuento,No
+1585,2025-08-03,8,Domingo,Sur,Yacuiba,Deportes,Mochila deportiva,Tienda física,Mujer,34,3,220.53,0.1,595.43,389.06,206.37,Efectivo,0,4.9,5.0,Fidelización,No
+1586,2025-08-11,8,Lunes,Oriente,Santa Cruz,Deportes,Bicicleta,Web,Hombre,35,2,1749.73,0.1,3149.51,2312.97,836.54,Efectivo,2,4.2,4.1,Fidelización,No
+1587,2025-03-20,3,Jueves,Occidente,La Paz,Deportes,Balón,Redes sociales,Mujer,38,5,133.63,0.1,601.34,525.04,76.3,Transferencia,3,3.6,3.3,Temporada,No
+1588,2025-04-23,4,Miércoles,Valle,Cochabamba,Papelería,Cuaderno,Web,Hombre,29,3,19.85,0.15,50.62,47.23,3.39,Tarjeta,4,3.8,2.9,Fidelización,No
+1589,2025-08-10,8,Domingo,Occidente,El Alto,Papelería,Mochila,Aplicación móvil,Hombre,25,3,199.22,0.2,478.13,486.92,-8.79,Tarjeta,1,5.0,5.0,Descuento,No
+1590,2025-04-20,4,Domingo,Occidente,El Alto,Hogar,Cafetera,Web,No especificado,34,4,421.15,0.05,1600.37,1329.0,271.37,Efectivo,2,4.7,4.7,Sin campaña,No
+1591,2025-09-11,9,Jueves,Sur,Yacuiba,Hogar,Licuadora,Tienda física,Hombre,30,4,289.79,0.1,1043.24,653.49,389.75,Billetera móvil,0,3.1,2.9,Fidelización,No
+1592,2025-01-15,1,Miércoles,Valle,Sacaba,Deportes,Balón,Tienda física,Hombre,50,4,157.38,0.0,629.52,504.27,125.25,Transferencia,0,3.5,3.0,Temporada,No
+1593,2025-01-27,1,Lunes,Valle,Cochabamba,Tecnología,Mouse,Redes sociales,Mujer,31,4,96.99,0.1,349.16,258.23,90.93,Billetera móvil,6,4.1,4.1,Fidelización,No
+1594,2025-09-23,9,Martes,Oriente,Santa Cruz,Papelería,Marcadores,Web,Hombre,33,4,37.36,0.05,141.97,108.48,33.49,Billetera móvil,2,4.3,4.5,Temporada,No
+1595,2025-08-14,8,Jueves,Occidente,El Alto,Papelería,Mochila,Redes sociales,Mujer,59,5,182.1,0.0,910.5,597.7,312.8,Billetera móvil,2,3.2,3.2,Temporada,No
+1596,2025-01-16,1,Jueves,Occidente,Oruro,Deportes,Mancuernas,Tienda física,Hombre,32,4,272.06,0.2,870.59,837.61,32.98,Tarjeta,0,4.6,5.0,Descuento,No
+1597,2025-11-25,11,Martes,Oriente,Santa Cruz,Hogar,Ventilador,Aplicación móvil,Mujer,40,4,348.56,0.15,1185.1,983.63,201.47,Efectivo,4,3.2,3.5,Fidelización,No
+1598,2025-01-02,1,Jueves,Oriente,Warnes,Hogar,Licuadora,Aplicación móvil,No especificado,40,5,345.3,0.0,1726.5,1343.73,382.77,Tarjeta,3,5.0,5.0,Descuento,No
+1599,2025-12-15,12,Lunes,Sur,Yacuiba,Hogar,Licuadora,Redes sociales,Hombre,41,4,327.34,0.25,982.02,788.65,193.37,Tarjeta,2,4.4,4.7,Descuento,No
+1600,2025-09-24,9,Miércoles,Oriente,Santa Cruz,Deportes,Balón,Tienda física,Mujer,37,4,151.85,0.05,577.03,364.41,212.62,Transferencia,0,3.1,3.1,Sin campaña,No
+1601,2025-12-27,12,Sábado,Valle,Sacaba,Papelería,Mochila,Redes sociales,Hombre,36,6,211.22,0.05,1203.95,847.71,356.24,Efectivo,2,3.6,3.6,Sin campaña,No
+1602,2025-12-13,12,Sábado,Oriente,Santa Cruz,Deportes,Bicicleta,Web,Hombre,35,5,1779.34,0.15,7562.19,4904.6,2657.59,Efectivo,4,3.5,4.1,Sin campaña,No
+1603,2025-04-25,4,Viernes,Sur,Tarija,Papelería,Mochila,Aplicación móvil,Mujer,28,3,237.12,0.05,675.79,524.32,151.47,Transferencia,7,3.8,3.4,Fidelización,No
+1604,2025-10-04,10,Sábado,Oriente,Montero,Papelería,Cuaderno,Web,Hombre,37,6,18.79,0.05,107.1,71.02,36.08,Efectivo,4,3.8,3.8,Sin campaña,No
+1605,2025-03-18,3,Martes,Sur,Yacuiba,Deportes,Balón,Web,Hombre,54,5,168.57,0.1,758.56,590.39,168.17,Efectivo,3,3.1,3.6,Descuento,No
+1606,2025-06-22,6,Domingo,Oriente,Warnes,Hogar,Lámpara,Tienda física,Hombre,46,4,110.13,0.0,440.52,250.61,189.91,Efectivo,0,2.9,3.0,Descuento,No
+1607,2025-03-29,3,Sábado,Oriente,Santa Cruz,Deportes,Balón,Aplicación móvil,Mujer,37,4,159.15,0.05,604.77,379.46,225.31,Transferencia,1,4.4,4.2,Descuento,No
+1608,2025-06-27,6,Viernes,Occidente,Oruro,Hogar,Licuadora,Tienda física,Hombre,43,6,373.33,0.05,2127.98,1608.69,519.29,Efectivo,0,4.2,3.4,Temporada,Sí
+1609,2025-11-15,11,Sábado,Oriente,Santa Cruz,Deportes,Bicicleta,Web,Mujer,25,4,2046.27,0.1,7366.57,5177.3,2189.27,Efectivo,4,4.0,3.0,Descuento,No
+1610,2025-06-09,6,Lunes,Valle,Cochabamba,Papelería,Marcadores,Web,Hombre,31,3,27.27,0.0,81.81,49.74,32.07,Efectivo,3,4.2,5.0,Sin campaña,No
+1611,2025-02-03,2,Lunes,Valle,Quillacollo,Hogar,Licuadora,Aplicación móvil,Mujer,43,8,311.98,0.0,2495.84,1526.93,968.91,Transferencia,5,3.3,3.4,Temporada,No
+1612,2025-04-29,4,Martes,Oriente,Warnes,Deportes,Mancuernas,Web,Mujer,49,4,253.09,0.1,911.12,615.52,295.6,Efectivo,3,4.1,3.8,Temporada,No
+1613,2025-10-15,10,Miércoles,Sur,Yacuiba,Tecnología,Teclado,Aplicación móvil,Mujer,26,4,204.64,0.0,818.56,587.87,230.69,Efectivo,4,5.0,5.0,Fidelización,No
+1614,2025-07-10,7,Jueves,Sur,Tarija,Deportes,Mancuernas,Web,Mujer,29,3,285.47,0.05,813.59,509.8,303.79,Billetera móvil,4,4.9,4.5,Fidelización,No
+1615,2025-07-24,7,Jueves,Valle,Cochabamba,Hogar,Cafetera,Aplicación móvil,Hombre,56,3,422.36,0.1,1140.37,820.98,319.39,Billetera móvil,3,3.8,3.7,Sin campaña,No
+1616,2025-06-07,6,Sábado,Oriente,Montero,Hogar,Licuadora,Aplicación móvil,Hombre,35,1,320.87,0.15,272.74,236.07,36.67,Efectivo,2,3.6,3.2,Fidelización,No
+1617,2025-04-17,4,Jueves,Oriente,Montero,Deportes,Mancuernas,Aplicación móvil,Hombre,52,3,221.6,0.0,664.8,457.84,206.96,Tarjeta,3,1.7,1.1,Sin campaña,No
+1618,2025-08-07,8,Jueves,Valle,Quillacollo,Tecnología,Monitor,Aplicación móvil,Hombre,36,3,1141.5,0.15,2910.82,2435.73,475.09,Efectivo,4,4.8,3.9,Descuento,No
+1619,2025-08-20,8,Miércoles,Occidente,La Paz,Deportes,Bicicleta,Web,Mujer,36,5,1855.39,0.15,7885.41,5730.79,2154.62,Transferencia,2,4.6,3.9,Sin campaña,No
+1620,2025-11-24,11,Lunes,Occidente,La Paz,Deportes,Mochila deportiva,Tienda física,Mujer,31,5,245.56,0.05,1166.41,984.49,181.92,Tarjeta,0,3.6,4.1,Fidelización,No
+1621,2025-08-14,8,Jueves,Oriente,Warnes,Hogar,Licuadora,Aplicación móvil,Hombre,43,3,270.3,0.15,689.27,536.61,152.66,Billetera móvil,2,2.9,2.5,Sin campaña,No
+1622,2025-12-30,12,Martes,Valle,Cochabamba,Tecnología,Laptop,Tienda física,Hombre,48,3,4071.93,0.15,10383.42,7665.17,2718.25,Transferencia,0,3.1,3.3,Sin campaña,No
+1623,2025-10-29,10,Miércoles,Sur,Tarija,Hogar,Ventilador,Tienda física,Hombre,24,3,410.69,0.1,1108.86,978.47,130.39,Transferencia,0,4.4,4.8,Sin campaña,No
+1624,2025-01-29,1,Miércoles,Valle,Sacaba,Tecnología,Laptop,Aplicación móvil,Mujer,30,5,3712.31,0.1,16705.4,13492.91,3212.49,Efectivo,1,3.9,3.9,Fidelización,Sí
+1625,2025-05-24,5,Sábado,Sur,Yacuiba,Hogar,Ventilador,Web,Hombre,43,3,386.97,0.15,986.77,830.94,155.83,Billetera móvil,3,4.6,4.5,Sin campaña,No
+1626,2025-05-21,5,Miércoles,Valle,Sacaba,Deportes,Mochila deportiva,Web,Mujer,33,5,231.21,0.25,867.04,912.61,-45.57,Transferencia,5,3.9,4.0,Descuento,No
+1627,2025-01-02,1,Jueves,Oriente,Warnes,Tecnología,Mouse,Redes sociales,Hombre,29,2,96.66,0.1,173.99,109.38,64.61,Transferencia,1,4.8,4.6,Sin campaña,No
+1628,2025-03-07,3,Viernes,Occidente,Oruro,Deportes,Bicicleta,Tienda física,Mujer,44,5,1815.94,0.15,7717.75,7047.42,670.33,Efectivo,0,4.3,4.8,Fidelización,No
+1629,2025-10-06,10,Lunes,Valle,Cochabamba,Tecnología,Teclado,Tienda física,Hombre,45,4,177.53,0.15,603.6,520.53,83.07,Transferencia,0,4.7,5.0,Sin campaña,No
+1630,2025-05-09,5,Viernes,Oriente,Warnes,Papelería,Cuaderno,Tienda física,Mujer,30,5,19.23,0.15,81.73,62.23,19.5,Transferencia,0,2.3,3.0,Temporada,No
+1631,2025-02-23,2,Domingo,Sur,Yacuiba,Deportes,Mochila deportiva,Tienda física,Hombre,36,8,205.6,0.2,1315.84,1018.48,297.36,Billetera móvil,0,3.0,2.0,Sin campaña,No
+1632,2025-04-15,4,Martes,Oriente,Santa Cruz,Hogar,Licuadora,Aplicación móvil,Mujer,22,2,314.35,0.0,628.7,363.58,265.12,Transferencia,4,3.6,3.4,Sin campaña,No
+1633,2025-04-11,4,Viernes,Occidente,Oruro,Deportes,Mochila deportiva,Aplicación móvil,Hombre,25,1,221.61,0.0,221.61,178.19,43.42,Tarjeta,4,4.8,4.8,Sin campaña,No
+1634,2025-03-05,3,Miércoles,Valle,Cochabamba,Tecnología,Teclado,Web,Mujer,35,2,178.0,0.1,320.4,209.44,110.96,Tarjeta,2,5.0,5.0,Sin campaña,No
+1635,2025-02-06,2,Jueves,Occidente,El Alto,Tecnología,Laptop,Tienda física,Hombre,34,5,4485.06,0.05,21304.04,13904.77,7399.27,Transferencia,0,3.9,3.1,Descuento,No
+1636,2025-10-06,10,Lunes,Occidente,Oruro,Papelería,Marcadores,Web,Mujer,24,4,33.42,0.1,120.31,98.47,21.84,Billetera móvil,3,3.5,2.7,Sin campaña,No
+1637,2025-10-28,10,Martes,Oriente,Santa Cruz,Papelería,Cuaderno,Tienda física,Mujer,27,3,16.92,0.15,43.15,37.65,5.5,Transferencia,0,2.4,3.0,Temporada,No
+1638,2025-07-01,7,Martes,Oriente,Santa Cruz,Tecnología,Teclado,Aplicación móvil,Hombre,23,4,181.97,0.2,582.3,431.93,150.37,Efectivo,1,4.7,4.4,Descuento,No
+1639,2025-08-13,8,Miércoles,Oriente,Montero,Hogar,Lámpara,Web,Mujer,39,5,156.69,0.05,744.28,603.11,141.17,Efectivo,3,3.6,2.9,Sin campaña,No
+1640,2025-12-02,12,Martes,Oriente,Warnes,Tecnología,Monitor,Tienda física,Mujer,18,6,1166.86,0.1,6301.04,4815.24,1485.8,Transferencia,0,5.0,4.5,Descuento,No
+1641,2025-11-04,11,Martes,Oriente,Santa Cruz,Hogar,Lámpara,Aplicación móvil,Hombre,24,2,141.63,0.0,283.26,220.68,62.58,Billetera móvil,3,3.4,3.6,Sin campaña,No
+1642,2025-01-12,1,Domingo,Oriente,Montero,Hogar,Cafetera,Aplicación móvil,Hombre,18,3,443.05,0.1,1196.24,762.36,433.88,Efectivo,5,5.0,4.6,Sin campaña,No
+1643,2025-12-14,12,Domingo,Occidente,El Alto,Hogar,Ventilador,Tienda física,Hombre,38,4,378.08,0.0,1512.32,849.26,663.06,Tarjeta,0,4.6,4.7,Sin campaña,No
+1644,2025-01-25,1,Sábado,Occidente,La Paz,Deportes,Mancuernas,Web,Mujer,18,4,243.47,0.1,876.49,703.13,173.36,Billetera móvil,3,3.2,2.8,Sin campaña,No
+1645,2025-01-10,1,Viernes,Oriente,Warnes,Tecnología,Monitor,Web,Hombre,34,5,1391.08,0.1,6259.86,4107.21,2152.65,Tarjeta,2,4.2,3.4,Sin campaña,Sí
+1646,2025-05-28,5,Miércoles,Oriente,Warnes,Papelería,Bolígrafo,Tienda física,Hombre,50,4,4.69,0.15,15.95,12.98,2.97,Efectivo,0,4.6,5.0,Temporada,No
+1647,2025-09-30,9,Martes,Occidente,El Alto,Deportes,Mochila deportiva,Tienda física,Mujer,51,2,248.88,0.1,447.98,275.66,172.32,Tarjeta,0,3.8,4.0,Fidelización,No
+1648,2025-01-30,1,Jueves,Valle,Cochabamba,Papelería,Bolígrafo,Aplicación móvil,Hombre,18,6,4.75,0.05,27.08,21.68,5.4,Tarjeta,3,4.7,4.5,Temporada,No
+1649,2025-04-17,4,Jueves,Oriente,Santa Cruz,Tecnología,Teclado,Redes sociales,Mujer,37,4,170.99,0.0,683.96,542.29,141.67,Efectivo,3,4.7,4.5,Sin campaña,No
+1650,2025-04-06,4,Domingo,Occidente,El Alto,Deportes,Balón,Web,Hombre,24,8,175.53,0.0,1404.24,1090.39,313.85,Transferencia,6,4.2,4.9,Temporada,No
+1651,2025-05-26,5,Lunes,Valle,Sacaba,Papelería,Marcadores,Web,Hombre,22,1,34.54,0.25,25.9,27.93,-2.03,Transferencia,4,3.9,4.2,Descuento,No
+1652,2025-12-26,12,Viernes,Sur,Yacuiba,Tecnología,Laptop,Aplicación móvil,Hombre,33,4,4270.11,0.2,13664.35,13559.07,105.28,Transferencia,2,3.1,3.6,Sin campaña,No
+1653,2025-05-01,5,Jueves,Oriente,Santa Cruz,Papelería,Cuaderno,Web,Mujer,46,4,19.1,0.05,72.58,51.18,21.4,Transferencia,1,3.9,3.6,Temporada,No
+1654,2025-03-18,3,Martes,Occidente,El Alto,Hogar,Cafetera,Tienda física,Mujer,40,6,439.61,0.0,2637.66,1734.4,903.26,Efectivo,0,4.1,4.1,Sin campaña,No
+1655,2025-02-14,2,Viernes,Oriente,Santa Cruz,Papelería,Bolígrafo,Web,Mujer,27,3,5.0,0.05,14.25,11.88,2.37,Efectivo,4,2.4,2.6,Descuento,Sí
+1656,2025-03-14,3,Viernes,Valle,Quillacollo,Hogar,Ventilador,Redes sociales,Hombre,41,5,359.89,0.1,1619.5,1440.05,179.45,Efectivo,3,4.1,3.9,Temporada,No
+1657,2025-02-18,2,Martes,Oriente,Warnes,Papelería,Bolígrafo,Aplicación móvil,Hombre,18,2,5.36,0.05,10.18,8.71,1.47,Efectivo,4,3.8,3.8,Descuento,No
+1658,2025-07-29,7,Martes,Valle,Sacaba,Tecnología,Laptop,Redes sociales,Hombre,26,5,3967.01,0.0,19835.05,15023.97,4811.08,Transferencia,3,3.0,2.7,Descuento,Sí
+1659,2025-06-03,6,Martes,Oriente,Santa Cruz,Hogar,Cafetera,Tienda física,Mujer,26,5,503.47,0.05,2391.48,1521.83,869.65,Efectivo,0,3.7,3.9,Descuento,No
+1660,2025-07-01,7,Martes,Valle,Quillacollo,Hogar,Cafetera,Web,Hombre,35,1,438.63,0.0,438.63,353.16,85.47,Transferencia,1,3.8,3.2,Sin campaña,No
+1661,2025-10-31,10,Viernes,Occidente,La Paz,Tecnología,Teclado,Web,Mujer,32,5,180.3,0.05,856.42,726.36,130.06,Efectivo,6,5.0,5.0,Temporada,No
+1662,2025-07-31,7,Jueves,Sur,Villamontes,Hogar,Ventilador,Tienda física,Mujer,33,7,403.07,0.0,2821.49,2059.28,762.21,Efectivo,0,4.2,4.3,Sin campaña,Sí
+1663,2025-02-26,2,Miércoles,Occidente,La Paz,Hogar,Licuadora,Tienda física,Hombre,32,3,320.61,0.1,865.65,751.64,114.01,Efectivo,0,4.8,4.7,Sin campaña,No
+1664,2025-05-18,5,Domingo,Occidente,El Alto,Tecnología,Teclado,Aplicación móvil,Hombre,34,2,175.71,0.1,316.28,246.53,69.75,Tarjeta,3,3.9,4.1,Sin campaña,No
+1665,2025-04-25,4,Viernes,Valle,Cochabamba,Deportes,Bicicleta,Aplicación móvil,Hombre,39,1,1845.56,0.0,1845.56,1485.52,360.04,Transferencia,3,2.5,2.3,Temporada,No
+1666,2025-10-29,10,Miércoles,Oriente,Santa Cruz,Deportes,Mochila deportiva,Aplicación móvil,No especificado,35,4,246.45,0.1,887.22,567.19,320.03,Transferencia,3,4.5,4.2,Fidelización,No
+1667,2025-04-23,4,Miércoles,Oriente,Warnes,Papelería,Marcadores,Tienda física,Mujer,31,5,30.3,0.05,143.92,118.67,25.25,Efectivo,0,3.5,3.7,Descuento,No
+1668,2025-02-20,2,Jueves,Sur,Villamontes,Deportes,Mochila deportiva,Web,Hombre,38,4,227.68,0.15,774.11,514.54,259.57,Transferencia,4,3.7,4.0,Temporada,No
+1669,2025-09-26,9,Viernes,Valle,Cochabamba,Tecnología,Laptop,Tienda física,Hombre,42,5,4203.46,0.2,16813.84,13483.84,3330.0,Transferencia,0,3.2,3.0,Sin campaña,No
+1670,2025-06-06,6,Viernes,Valle,Quillacollo,Tecnología,Teclado,Tienda física,Hombre,28,2,192.45,0.0,384.9,225.76,159.14,Tarjeta,0,4.1,3.8,Temporada,No
+1671,2025-02-04,2,Martes,Occidente,La Paz,Hogar,Licuadora,Web,Mujer,33,2,317.44,0.2,507.9,431.32,76.58,Efectivo,4,4.8,4.7,Sin campaña,No
+1672,2025-09-09,9,Martes,Valle,Cochabamba,Hogar,Licuadora,Tienda física,Mujer,46,5,366.29,0.1,1648.3,1122.14,526.16,Efectivo,0,4.7,4.5,Descuento,No
+1673,2025-03-18,3,Martes,Sur,Tarija,Tecnología,Monitor,Redes sociales,Mujer,23,2,1234.35,0.1,2221.83,1992.39,229.44,Efectivo,3,5.0,5.0,Sin campaña,No
+1674,2025-11-13,11,Jueves,Oriente,Montero,Papelería,Bolígrafo,Web,Mujer,52,2,4.9,0.05,9.31,6.87,2.44,Billetera móvil,5,5.0,5.0,Temporada,No
+1675,2025-10-31,10,Viernes,Oriente,Santa Cruz,Deportes,Bicicleta,Tienda física,Mujer,21,6,1824.69,0.05,10400.73,8675.17,1725.56,Tarjeta,0,2.4,2.4,Temporada,No
+1676,2025-05-15,5,Jueves,Valle,Sacaba,Deportes,Bicicleta,Tienda física,Hombre,31,7,1655.14,0.0,11585.98,7242.12,4343.86,Tarjeta,0,3.0,2.6,Descuento,No
+1677,2025-07-22,7,Martes,Sur,Tarija,Tecnología,Teclado,Aplicación móvil,Hombre,24,3,165.07,0.25,371.41,275.84,95.57,Transferencia,3,2.6,2.9,Sin campaña,No
+1678,2025-07-27,7,Domingo,Valle,Cochabamba,Papelería,Cuaderno,Tienda física,Mujer,56,3,17.24,0.1,46.55,39.28,7.27,Tarjeta,0,4.5,4.2,Sin campaña,No
+1679,2025-08-27,8,Miércoles,Occidente,El Alto,Tecnología,Laptop,Tienda física,Hombre,29,3,4581.64,0.05,13057.67,10166.32,2891.35,Transferencia,0,3.4,3.1,Descuento,No
+1680,2025-01-26,1,Domingo,Valle,Quillacollo,Hogar,Licuadora,Web,Hombre,29,2,319.15,0.1,574.47,445.08,129.39,Efectivo,4,3.5,3.8,Sin campaña,No
+1681,2025-04-29,4,Martes,Occidente,Oruro,Hogar,Lámpara,Tienda física,Hombre,30,5,134.57,0.0,672.85,518.19,154.66,Tarjeta,0,3.8,4.0,Sin campaña,No
+1682,2025-03-04,3,Martes,Occidente,El Alto,Papelería,Cuaderno,Web,Hombre,35,2,19.77,0.0,39.54,30.72,8.82,Efectivo,3,4.3,3.2,Fidelización,No
+1683,2025-09-12,9,Viernes,Occidente,La Paz,Hogar,Ventilador,Web,Hombre,31,2,427.16,0.1,768.89,605.49,163.4,Tarjeta,1,2.8,2.7,Descuento,No
+1684,2025-01-26,1,Domingo,Valle,Quillacollo,Tecnología,Mouse,Tienda física,Mujer,33,3,93.54,0.1,252.56,227.53,25.03,Tarjeta,0,3.0,3.1,Temporada,No
+1685,2025-07-08,7,Martes,Oriente,Warnes,Hogar,Licuadora,Aplicación móvil,Mujer,18,3,298.16,0.15,760.31,665.78,94.53,Transferencia,3,4.0,3.8,Descuento,No
+1686,2025-09-23,9,Martes,Valle,Quillacollo,Hogar,Cafetera,Web,Hombre,35,2,432.17,0.1,777.91,633.35,144.56,Transferencia,2,5.0,5.0,Sin campaña,No
+1687,2025-12-13,12,Sábado,Valle,Quillacollo,Tecnología,Laptop,Web,Hombre,34,3,4809.42,0.1,12985.43,9343.51,3641.92,Transferencia,2,4.0,3.2,Descuento,No
+1688,2025-04-16,4,Miércoles,Sur,Villamontes,Tecnología,Laptop,Tienda física,Hombre,44,6,4281.02,0.15,21833.2,14143.03,7690.17,Efectivo,0,3.4,2.1,Sin campaña,Sí
+1689,2025-01-03,1,Viernes,Oriente,Warnes,Tecnología,Laptop,Web,No especificado,47,3,4110.08,0.0,12330.24,7583.77,4746.47,Billetera móvil,2,2.3,1.9,Descuento,No
+1690,2025-09-22,9,Lunes,Valle,Sacaba,Hogar,Lámpara,Tienda física,Mujer,32,2,148.05,0.1,266.49,223.93,42.56,Efectivo,0,4.8,4.9,Fidelización,No
+1691,2025-01-01,1,Miércoles,Valle,Sacaba,Hogar,Ventilador,Web,Mujer,42,3,410.62,0.1,1108.67,913.63,195.04,Transferencia,2,3.4,1.9,Sin campaña,No
+1692,2025-01-25,1,Sábado,Sur,Tarija,Hogar,Lámpara,Tienda física,Hombre,23,4,133.6,0.0,534.4,341.68,192.72,Transferencia,0,3.1,2.7,Sin campaña,No
+1693,2025-12-28,12,Domingo,Occidente,La Paz,Deportes,Mancuernas,Redes sociales,Mujer,42,3,284.92,0.0,854.76,614.49,240.27,Transferencia,6,2.4,1.5,Temporada,No
+1694,2025-11-11,11,Martes,Valle,Quillacollo,Tecnología,Laptop,Tienda física,Hombre,28,6,4511.32,0.0,27067.92,16314.58,10753.34,Tarjeta,0,2.8,2.7,Descuento,No
+1695,2025-09-16,9,Martes,Sur,Villamontes,Papelería,Marcadores,Redes sociales,Hombre,22,4,29.03,0.0,116.12,72.13,43.99,Transferencia,5,3.1,4.0,Descuento,No
+1696,2025-11-01,11,Sábado,Valle,Quillacollo,Papelería,Mochila,Redes sociales,Hombre,32,4,210.21,0.1,756.76,677.55,79.21,Transferencia,3,3.8,3.7,Fidelización,No
+1697,2025-01-28,1,Martes,Oriente,Santa Cruz,Tecnología,Teclado,Web,Mujer,48,9,163.95,0.0,1475.55,976.16,499.39,Efectivo,3,3.0,3.0,Descuento,No
+1698,2025-02-02,2,Domingo,Oriente,Montero,Hogar,Licuadora,Tienda física,Hombre,36,6,294.82,0.1,1592.03,1089.91,502.12,Transferencia,0,4.1,4.5,Sin campaña,No
+1699,2025-04-20,4,Domingo,Oriente,Santa Cruz,Tecnología,Mouse,Web,Mujer,49,4,81.17,0.0,324.68,221.28,103.4,Efectivo,2,3.8,3.8,Temporada,No
+1700,2025-01-09,1,Jueves,Valle,Quillacollo,Hogar,Lámpara,Redes sociales,Hombre,27,4,145.34,0.0,581.36,380.5,200.86,Tarjeta,3,5.0,4.9,Temporada,No
+1701,2025-11-21,11,Viernes,Occidente,La Paz,Hogar,Ventilador,Web,Mujer,44,6,370.21,0.05,2110.2,1659.22,450.98,Transferencia,4,2.6,3.0,Sin campaña,No
+1702,2025-01-21,1,Martes,Valle,Cochabamba,Tecnología,Monitor,Web,Hombre,27,4,1185.16,0.0,4740.64,3838.83,901.81,Transferencia,5,4.0,4.2,Sin campaña,No
+1703,2025-07-18,7,Viernes,Occidente,El Alto,Tecnología,Teclado,Tienda física,Hombre,36,3,180.74,0.25,406.66,384.85,21.81,Tarjeta,0,4.1,4.2,Fidelización,No
+1704,2025-11-08,11,Sábado,Oriente,Warnes,Hogar,Licuadora,Aplicación móvil,Mujer,36,3,290.64,0.05,828.32,618.72,209.6,Efectivo,1,3.2,3.1,Descuento,No
+1705,2025-09-26,9,Viernes,Valle,Quillacollo,Deportes,Mochila deportiva,Tienda física,Hombre,41,4,237.89,0.0,951.56,617.09,334.47,Tarjeta,0,4.1,3.9,Descuento,No
+1706,2025-03-27,3,Jueves,Valle,Cochabamba,Hogar,Lámpara,Tienda física,Mujer,37,3,152.67,0.0,458.01,321.73,136.28,Tarjeta,0,4.6,5.0,Descuento,No
+1707,2025-06-21,6,Sábado,Oriente,Santa Cruz,Papelería,Marcadores,Tienda física,Mujer,27,4,31.8,0.05,120.84,80.93,39.91,Tarjeta,0,4.1,3.9,Fidelización,Sí
+1708,2025-07-20,7,Domingo,Oriente,Santa Cruz,Hogar,Lámpara,Web,Hombre,43,1,137.73,0.1,123.96,75.79,48.17,Tarjeta,4,5.0,5.0,Descuento,No
+1709,2025-10-08,10,Miércoles,Valle,Cochabamba,Papelería,Cuaderno,Redes sociales,Hombre,51,4,18.54,0.15,63.04,58.13,4.91,Transferencia,3,2.3,1.8,Sin campaña,No
+1710,2025-06-05,6,Jueves,Valle,Sacaba,Tecnología,Monitor,Aplicación móvil,Mujer,28,3,1047.15,0.05,2984.38,2092.05,892.33,Tarjeta,4,3.2,3.8,Sin campaña,No
+1711,2025-04-15,4,Martes,Sur,Tarija,Deportes,Balón,Tienda física,Hombre,18,2,166.87,0.1,300.37,227.9,72.47,Efectivo,0,5.0,5.0,Descuento,No
+1712,2025-10-18,10,Sábado,Oriente,Santa Cruz,Papelería,Mochila,Web,Hombre,39,7,262.11,0.05,1743.03,1050.49,692.54,Tarjeta,4,4.6,4.2,Temporada,No
+1713,2025-11-20,11,Jueves,Oriente,Montero,Tecnología,Laptop,Aplicación móvil,Hombre,31,4,4158.78,0.15,14139.85,12909.18,1230.67,Efectivo,1,4.4,4.6,Descuento,Sí
+1714,2025-06-28,6,Sábado,Sur,Tarija,Papelería,Marcadores,Web,Mujer,33,5,31.7,0.1,142.65,94.46,48.19,Efectivo,3,5.0,4.7,Descuento,No
+1715,2025-01-11,1,Sábado,Oriente,Santa Cruz,Hogar,Lámpara,Tienda física,Mujer,40,4,148.33,0.0,593.32,392.11,201.21,Tarjeta,0,2.5,2.5,Temporada,No
+1716,2025-07-02,7,Miércoles,Occidente,La Paz,Hogar,Licuadora,Web,Hombre,29,7,362.12,0.1,2281.36,1969.25,312.11,Tarjeta,6,4.4,4.2,Descuento,No
+1717,2025-11-21,11,Viernes,Valle,Cochabamba,Deportes,Balón,Web,Mujer,31,7,172.48,0.15,1026.26,813.28,212.98,Tarjeta,3,4.9,4.8,Descuento,No
+1718,2025-12-28,12,Domingo,Occidente,El Alto,Deportes,Mochila deportiva,Redes sociales,Mujer,33,3,190.34,0.05,542.47,457.62,84.85,Transferencia,4,3.4,3.8,Sin campaña,No
+1719,2025-05-27,5,Martes,Oriente,Warnes,Tecnología,Laptop,Aplicación móvil,Hombre,49,8,4389.3,0.25,26335.8,21297.41,5038.39,Billetera móvil,5,5.0,5.0,Fidelización,No
+1720,2025-02-24,2,Lunes,Sur,Villamontes,Papelería,Marcadores,Tienda física,Mujer,34,2,38.58,0.2,61.73,57.34,4.39,Tarjeta,0,4.2,3.7,Fidelización,No
+1721,2025-07-28,7,Lunes,Valle,Cochabamba,Deportes,Mochila deportiva,Aplicación móvil,Hombre,22,6,241.45,0.0,1448.7,1179.33,269.37,Tarjeta,5,2.1,1.6,Fidelización,No
+1722,2025-10-31,10,Viernes,Valle,Cochabamba,Papelería,Marcadores,Tienda física,Mujer,22,5,29.04,0.15,123.42,101.41,22.01,Efectivo,0,4.3,4.4,Sin campaña,Sí
+1723,2025-12-11,12,Jueves,Occidente,El Alto,Hogar,Cafetera,Redes sociales,Hombre,35,3,460.15,0.1,1242.4,1017.24,225.16,Efectivo,5,3.3,3.5,Descuento,No
+1724,2025-01-19,1,Domingo,Sur,Yacuiba,Deportes,Mancuernas,Web,No especificado,23,5,251.31,0.1,1130.9,824.51,306.39,Transferencia,4,4.9,4.6,Sin campaña,No
+1725,2025-04-17,4,Jueves,Occidente,Oruro,Hogar,Ventilador,Tienda física,No especificado,18,5,417.48,0.1,1878.66,1571.52,307.14,Transferencia,0,4.4,5.0,Temporada,Sí
+1726,2025-06-24,6,Martes,Occidente,Oruro,Papelería,Marcadores,Web,Hombre,40,3,29.55,0.15,75.35,70.51,4.84,Efectivo,2,3.5,3.9,Sin campaña,No
+1727,2025-02-05,2,Miércoles,Occidente,El Alto,Papelería,Marcadores,Tienda física,Hombre,41,4,32.19,0.1,115.88,95.26,20.62,Efectivo,0,5.0,4.7,Fidelización,No
+1728,2025-11-20,11,Jueves,Occidente,La Paz,Papelería,Cuaderno,Tienda física,Mujer,30,4,16.76,0.1,60.34,53.81,6.53,Tarjeta,0,4.8,4.5,Fidelización,No
+1729,2025-02-10,2,Lunes,Valle,Cochabamba,Deportes,Bicicleta,Web,No especificado,37,4,1769.13,0.0,7076.52,5016.8,2059.72,Tarjeta,5,3.2,3.1,Sin campaña,No
+1730,2025-08-31,8,Domingo,Valle,Cochabamba,Papelería,Marcadores,Aplicación móvil,Hombre,36,4,35.8,0.05,136.04,101.07,34.97,Billetera móvil,3,3.9,3.8,Descuento,No
+1731,2025-12-02,12,Martes,Valle,Cochabamba,Hogar,Ventilador,Aplicación móvil,Hombre,40,1,383.15,0.2,306.52,242.25,64.27,Efectivo,4,4.3,4.9,Sin campaña,No
+1732,2025-09-08,9,Lunes,Occidente,Oruro,Hogar,Licuadora,Web,Mujer,40,4,305.68,0.1,1100.45,906.77,193.68,Efectivo,5,3.5,3.9,Descuento,No
+1733,2025-10-06,10,Lunes,Occidente,La Paz,Papelería,Marcadores,Tienda física,Mujer,18,3,29.07,0.0,87.21,68.73,18.48,Tarjeta,0,3.7,3.7,Temporada,No
+1734,2025-04-07,4,Lunes,Valle,Quillacollo,Tecnología,Teclado,Web,Hombre,32,9,153.05,0.2,1101.96,997.97,103.99,Efectivo,3,4.0,4.3,Descuento,No
+1735,2025-10-30,10,Jueves,Occidente,El Alto,Deportes,Balón,Web,Hombre,39,3,143.98,0.15,367.15,264.74,102.41,Efectivo,1,3.1,3.5,Temporada,No
+1736,2025-06-02,6,Lunes,Oriente,Montero,Tecnología,Monitor,Tienda física,Mujer,30,4,1261.2,0.1,4540.32,3515.77,1024.55,Tarjeta,0,2.2,2.2,Sin campaña,No
+1737,2025-01-23,1,Jueves,Occidente,El Alto,Deportes,Bicicleta,Redes sociales,Mujer,34,6,1995.07,0.0,11970.42,9026.93,2943.49,Tarjeta,2,4.2,4.4,Descuento,No
+1738,2025-05-14,5,Miércoles,Valle,Quillacollo,Hogar,Cafetera,Redes sociales,Hombre,42,5,429.83,0.1,1934.24,1727.12,207.12,Efectivo,3,2.4,2.7,Temporada,No
+1739,2025-05-08,5,Jueves,Valle,Cochabamba,Hogar,Ventilador,Tienda física,Mujer,35,5,427.74,0.0,2138.7,1266.71,871.99,Transferencia,0,3.2,3.4,Temporada,No
+1740,2025-07-10,7,Jueves,Valle,Cochabamba,Hogar,Ventilador,Aplicación móvil,Hombre,49,3,358.19,0.05,1020.84,628.0,392.84,Tarjeta,6,2.3,1.9,Sin campaña,No
+1741,2025-04-07,4,Lunes,Occidente,El Alto,Hogar,Ventilador,Aplicación móvil,Mujer,45,3,372.76,0.1,1006.45,739.74,266.71,Efectivo,1,2.7,2.4,Fidelización,No
+1742,2025-06-18,6,Miércoles,Occidente,El Alto,Hogar,Cafetera,Tienda física,Mujer,33,3,411.14,0.2,986.74,720.21,266.53,Billetera móvil,0,4.3,4.2,Temporada,No
+1743,2025-06-06,6,Viernes,Oriente,Montero,Hogar,Lámpara,Web,Mujer,32,5,151.1,0.05,717.72,615.52,102.2,Tarjeta,4,3.7,3.4,Fidelización,No
+1744,2025-04-30,4,Miércoles,Occidente,Oruro,Deportes,Mochila deportiva,Tienda física,Hombre,18,2,268.59,0.15,456.6,356.99,99.61,Billetera móvil,0,3.8,3.1,Descuento,No
+1745,2025-09-12,9,Viernes,Valle,Sacaba,Papelería,Cuaderno,Tienda física,Hombre,31,4,15.46,0.2,49.47,42.92,6.55,Billetera móvil,0,2.9,3.2,Sin campaña,No
+1746,2025-04-22,4,Martes,Valle,Cochabamba,Deportes,Bicicleta,Redes sociales,Mujer,20,5,1798.77,0.0,8993.85,5498.06,3495.79,Tarjeta,4,3.4,3.6,Sin campaña,Sí
+1747,2025-10-07,10,Martes,Valle,Cochabamba,Deportes,Balón,Web,Mujer,36,1,176.19,0.0,176.19,118.27,57.92,Efectivo,1,4.3,3.7,Descuento,No
+1748,2025-04-02,4,Miércoles,Valle,Quillacollo,Papelería,Bolígrafo,Tienda física,Mujer,36,6,4.42,0.1,23.87,21.64,2.23,Billetera móvil,0,4.0,3.9,Descuento,No
+1749,2025-11-12,11,Miércoles,Oriente,Santa Cruz,Papelería,Mochila,Web,Mujer,41,5,219.52,0.15,932.96,748.5,184.46,Tarjeta,3,4.7,4.6,Sin campaña,No
+1750,2025-05-14,5,Miércoles,Oriente,Montero,Tecnología,Laptop,Redes sociales,Hombre,48,5,4610.41,0.05,21899.45,12733.55,9165.9,Efectivo,3,4.8,4.9,Sin campaña,No
+1751,2025-01-15,1,Miércoles,Occidente,El Alto,Deportes,Mancuernas,Web,Mujer,34,1,281.75,0.1,253.58,173.41,80.17,Tarjeta,2,3.8,3.3,Descuento,No
+1752,2025-02-24,2,Lunes,Valle,Quillacollo,Tecnología,Laptop,Redes sociales,Hombre,57,3,4384.89,0.1,11839.2,10710.31,1128.89,Tarjeta,2,2.5,1.9,Descuento,No
+1753,2025-10-22,10,Miércoles,Occidente,Oruro,Tecnología,Teclado,Redes sociales,Mujer,36,4,205.36,0.15,698.22,671.16,27.06,Billetera móvil,3,3.4,3.6,Descuento,No
+1754,2025-11-15,11,Sábado,Valle,Sacaba,Papelería,Bolígrafo,Tienda física,Mujer,21,4,5.78,0.1,20.81,14.03,6.78,Transferencia,0,3.9,3.2,Descuento,No
+1755,2025-03-19,3,Miércoles,Oriente,Santa Cruz,Tecnología,Teclado,Aplicación móvil,Mujer,28,3,179.11,0.0,537.33,384.79,152.54,Billetera móvil,3,3.4,3.3,Sin campaña,No
+1756,2025-08-08,8,Viernes,Occidente,El Alto,Papelería,Mochila,Aplicación móvil,Mujer,30,2,201.06,0.0,402.12,229.52,172.6,Transferencia,6,2.9,2.8,Temporada,No
+1757,2025-07-29,7,Martes,Valle,Sacaba,Papelería,Marcadores,Aplicación móvil,Mujer,40,3,29.64,0.0,88.92,62.77,26.15,Transferencia,2,4.1,4.0,Descuento,No
+1758,2025-02-18,2,Martes,Sur,Tarija,Papelería,Marcadores,Web,Mujer,25,3,34.5,0.2,82.8,60.44,22.36,Tarjeta,3,5.0,5.0,Sin campaña,No
+1759,2025-06-14,6,Sábado,Occidente,El Alto,Deportes,Balón,Tienda física,Mujer,31,4,142.44,0.2,455.81,439.31,16.5,Billetera móvil,0,3.6,4.3,Descuento,No
+1760,2025-09-11,9,Jueves,Valle,Cochabamba,Papelería,Cuaderno,Tienda física,No especificado,32,6,17.64,0.15,89.96,85.06,4.9,Billetera móvil,0,4.0,3.3,Descuento,No
+1761,2025-12-20,12,Sábado,Oriente,Montero,Tecnología,Monitor,Web,Mujer,30,6,1260.27,0.0,7561.62,4512.07,3049.55,Billetera móvil,2,3.0,3.4,Descuento,Sí
+1762,2025-11-06,11,Jueves,Occidente,Oruro,Papelería,Mochila,Aplicación móvil,Mujer,42,3,201.55,0.1,544.19,408.1,136.09,Transferencia,6,4.8,3.7,Descuento,No
+1763,2025-02-05,2,Miércoles,Occidente,Oruro,Tecnología,Teclado,Aplicación móvil,Mujer,40,6,184.03,0.0,1104.18,637.72,466.46,Transferencia,1,4.7,5.0,Fidelización,No
+1764,2025-03-28,3,Viernes,Occidente,La Paz,Hogar,Cafetera,Web,Hombre,46,6,542.32,0.05,3091.22,2087.61,1003.61,Tarjeta,6,4.4,3.5,Fidelización,No
+1765,2025-06-09,6,Lunes,Sur,Villamontes,Tecnología,Laptop,Tienda física,Hombre,31,4,4159.14,0.0,16636.56,9442.52,7194.04,Billetera móvil,0,5.0,5.0,Sin campaña,No
+1766,2025-02-24,2,Lunes,Occidente,La Paz,Hogar,Lámpara,Tienda física,Hombre,46,4,135.12,0.15,459.41,335.87,123.54,Efectivo,0,3.7,3.5,Sin campaña,No
+1767,2025-07-28,7,Lunes,Occidente,El Alto,Deportes,Mochila deportiva,Aplicación móvil,Hombre,20,3,248.68,0.0,746.04,609.78,136.26,Efectivo,5,3.6,4.2,Sin campaña,Sí
+1768,2025-01-04,1,Sábado,Occidente,La Paz,Hogar,Licuadora,Web,Hombre,20,3,326.13,0.1,880.55,549.9,330.65,Tarjeta,4,5.0,5.0,Descuento,No
+1769,2025-02-11,2,Martes,Occidente,La Paz,Papelería,Marcadores,Aplicación móvil,Mujer,22,3,35.68,0.25,80.28,83.7,-3.42,Transferencia,2,4.5,4.3,Descuento,No
+1770,2025-01-18,1,Sábado,Oriente,Santa Cruz,Deportes,Bicicleta,Tienda física,Hombre,34,3,1874.37,0.1,5060.8,3210.3,1850.5,Transferencia,0,2.2,2.0,Fidelización,No
+1771,2025-04-18,4,Viernes,Occidente,La Paz,Deportes,Mancuernas,Web,Hombre,46,4,274.44,0.0,1097.76,760.56,337.2,Efectivo,6,4.1,3.7,Sin campaña,No
+1772,2025-10-06,10,Lunes,Valle,Quillacollo,Papelería,Mochila,Redes sociales,Mujer,28,7,180.03,0.2,1008.17,846.95,161.22,Efectivo,2,3.5,3.9,Fidelización,No
+1773,2025-03-06,3,Jueves,Oriente,Santa Cruz,Hogar,Licuadora,Tienda física,Mujer,29,6,278.53,0.1,1504.06,1339.48,164.58,Efectivo,0,4.7,4.5,Sin campaña,No
+1774,2025-12-27,12,Sábado,Oriente,Montero,Hogar,Cafetera,Tienda física,Mujer,32,5,383.91,0.05,1823.57,1158.92,664.65,Tarjeta,0,4.3,3.9,Descuento,No
+1775,2025-04-09,4,Miércoles,Occidente,Oruro,Papelería,Cuaderno,Aplicación móvil,Mujer,40,6,18.55,0.1,100.17,66.61,33.56,Efectivo,3,2.6,2.8,Fidelización,No
+1776,2025-01-17,1,Viernes,Oriente,Warnes,Deportes,Bicicleta,Web,Hombre,29,2,1648.39,0.2,2637.42,2479.68,157.74,Transferencia,2,4.2,3.8,Sin campaña,No
+1777,2025-05-03,5,Sábado,Oriente,Warnes,Deportes,Bicicleta,Redes sociales,Mujer,29,5,2035.83,0.05,9670.19,7593.08,2077.11,Tarjeta,3,4.2,4.1,Sin campaña,No
+1778,2025-10-01,10,Miércoles,Occidente,La Paz,Hogar,Lámpara,Redes sociales,Hombre,21,4,140.34,0.1,505.22,414.72,90.5,Tarjeta,1,4.3,4.3,Descuento,No
+1779,2025-02-08,2,Sábado,Oriente,Warnes,Tecnología,Teclado,Aplicación móvil,No especificado,28,5,176.48,0.05,838.28,491.54,346.74,Tarjeta,3,4.5,4.2,Fidelización,No
+1780,2025-01-27,1,Lunes,Oriente,Montero,Tecnología,Laptop,Tienda física,Mujer,46,4,3916.46,0.0,15665.84,9715.78,5950.06,Tarjeta,0,5.0,4.8,Sin campaña,No
+1781,2025-11-07,11,Viernes,Occidente,La Paz,Tecnología,Mouse,Web,Mujer,35,5,89.23,0.15,379.23,346.56,32.67,Billetera móvil,2,4.3,5.0,Temporada,No
+1782,2025-08-05,8,Martes,Sur,Yacuiba,Tecnología,Laptop,Redes sociales,Hombre,27,4,3929.69,0.0,15718.76,11195.4,4523.36,Efectivo,4,3.9,3.8,Temporada,No
+1783,2025-05-06,5,Martes,Valle,Quillacollo,Deportes,Bicicleta,Web,Hombre,46,3,1704.16,0.05,4856.86,3643.12,1213.74,Tarjeta,3,4.9,4.7,Temporada,No
+1784,2025-10-03,10,Viernes,Oriente,Montero,Tecnología,Teclado,Redes sociales,Mujer,28,2,197.11,0.05,374.51,248.32,126.19,Transferencia,2,5.0,4.9,Sin campaña,No
+1785,2025-11-05,11,Miércoles,Sur,Tarija,Deportes,Mochila deportiva,Aplicación móvil,Mujer,48,3,236.53,0.0,709.59,440.12,269.47,Efectivo,3,4.7,4.9,Fidelización,No
+1786,2025-05-12,5,Lunes,Valle,Quillacollo,Papelería,Bolígrafo,Tienda física,Hombre,48,2,4.91,0.05,9.33,7.91,1.42,Transferencia,0,4.2,3.7,Sin campaña,No
+1787,2025-07-24,7,Jueves,Oriente,Warnes,Papelería,Bolígrafo,Web,Hombre,35,6,5.26,0.1,28.4,23.56,4.84,Billetera móvil,3,4.3,4.5,Temporada,No
+1788,2025-01-04,1,Sábado,Valle,Quillacollo,Hogar,Licuadora,Aplicación móvil,Mujer,19,3,320.23,0.05,912.66,561.29,351.37,Transferencia,2,4.2,4.3,Descuento,No
+1789,2025-04-22,4,Martes,Oriente,Warnes,Tecnología,Mouse,Tienda física,Mujer,57,4,87.6,0.0,350.4,281.43,68.97,Billetera móvil,0,4.0,3.2,Sin campaña,No
+1790,2025-08-06,8,Miércoles,Oriente,Warnes,Papelería,Bolígrafo,Tienda física,No especificado,38,4,4.67,0.15,15.88,13.21,2.67,Tarjeta,0,5.0,5.0,Sin campaña,No
+1791,2025-03-13,3,Jueves,Occidente,El Alto,Tecnología,Monitor,Aplicación móvil,Mujer,31,5,1457.04,0.25,5463.9,4662.59,801.31,Tarjeta,1,3.4,4.1,Temporada,No
+1792,2025-12-28,12,Domingo,Valle,Cochabamba,Deportes,Mochila deportiva,Tienda física,Mujer,44,1,219.33,0.05,208.36,144.15,64.21,Efectivo,0,4.9,4.5,Temporada,No
+1793,2025-12-21,12,Domingo,Valle,Sacaba,Deportes,Balón,Tienda física,Hombre,41,3,179.92,0.05,512.77,402.58,110.19,Efectivo,0,3.9,3.4,Descuento,No
+1794,2025-04-05,4,Sábado,Occidente,La Paz,Tecnología,Mouse,Aplicación móvil,Mujer,47,8,83.72,0.0,669.76,436.41,233.35,Tarjeta,4,2.7,2.8,Descuento,No
+1795,2025-05-25,5,Domingo,Occidente,El Alto,Deportes,Bicicleta,Aplicación móvil,Mujer,27,5,1969.45,0.0,9847.25,6954.73,2892.52,Tarjeta,3,3.8,3.2,Fidelización,No
+1796,2025-03-11,3,Martes,Valle,Sacaba,Tecnología,Mouse,Web,Hombre,37,5,89.99,0.05,427.45,333.79,93.66,Tarjeta,4,3.5,4.1,Temporada,No
+1797,2025-07-03,7,Jueves,Occidente,Oruro,Tecnología,Laptop,Redes sociales,Hombre,22,3,4585.34,0.2,11004.82,8291.46,2713.36,Efectivo,2,4.5,4.3,Fidelización,No
+1798,2025-02-15,2,Sábado,Occidente,La Paz,Papelería,Mochila,Redes sociales,Hombre,41,2,195.88,0.15,333.0,315.35,17.65,Transferencia,2,4.1,4.8,Descuento,No
+1799,2025-05-23,5,Viernes,Oriente,Santa Cruz,Papelería,Marcadores,Web,Mujer,34,4,34.75,0.05,132.05,89.82,42.23,Efectivo,3,3.2,2.8,Fidelización,No
+1800,2025-07-22,7,Martes,Oriente,Warnes,Hogar,Ventilador,Tienda física,Hombre,37,5,436.13,0.25,1635.49,1446.28,189.21,Tarjeta,0,5.0,4.9,Temporada,No
